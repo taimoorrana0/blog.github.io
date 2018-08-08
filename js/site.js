@@ -161,25 +161,6 @@
         $('body').removeClass('loading');
     }
 
-        var marker = new Marker({
-            map: map,
-            position: latlng,
-            icon: {
-                path: SQUARE_PIN,
-                fillColor: '',
-                fillOpacity: 0,
-                strokeColor: '',
-                strokeWeight: 0
-            },
-            map_icon_label: '<span class="map-icon map-icon-postal-code"></span>'
-        });
-
-        // Keep Marker in Center
-        google.maps.event.addDomListener(window, 'resize', function () {
-            map.setCenter(latlng);
-        });
-    };
-
     function lockScroll() {
         var $html = $('html');
         var $body = $('body');
@@ -498,15 +479,6 @@
 
             if ($('body').hasClass('sidebar-opened')) closeSidebar();
         });
-
-
-        /** Google Map Initialisation */
-        if ($('#map').length > 0) {
-            initialiseGoogleMap();
-        }
-
-
-
 
         /** Window Scroll Top Button */
         var $btnScrollTop = $('.btn-scroll-top');

@@ -11,7 +11,12 @@
 .theme-color-fec107 .post-single .post-title a:hover,
 .theme-color-fec107 .post-comments .section-title,
 .theme-color-fec107 .ref-box .person-speech:before,
+/*
 .theme-color-fec107 .timeline-box .date,
+*/
+
+.theme-color-fec107 .timeline-box h3 a,
+
 .theme-color-fec107 .widget-title,
 .theme-color-fec107 .widget_meta ul li a:hover,
 .theme-color-fec107 .widget_archive ul li a:hover,
@@ -64,7 +69,12 @@
   border-color: #fec107; }
 .theme-color-fec107 .page-404 h2 span:before,
 .theme-color-fec107 .profile-preword span:before,
+/*
 .theme-color-fec107 .timeline-box-compact .date span:before {
   border-left-color: #fec107; }
+*/
+
+.theme-color-fec107 .timeline-box-compact h3 a,
+
 .theme-color-fec107 .price-box.box-primary .price-box-top:before {
   border-top-color: #fec107; }

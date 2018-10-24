@@ -275,7 +275,6 @@
 		positioningInterestsTooltips();
 		positioningTimelineElements();
 		setContactSectionHeight();
-		setPriceBoxesHeight();
     });
 	
 
@@ -286,8 +285,6 @@
         setWindowScrollAppear();
 		setProgressBarsFill();		
 		setContactSectionHeight();
-        setPriceBoxesHeight();
-		availabilityCalendar();
 		positioningInterestsTooltips();
 		
 		// Header Navigation

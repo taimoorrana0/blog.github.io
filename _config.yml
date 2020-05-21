@@ -1,0 +1,90 @@
+#-------------------------------
+# General Site Settings
+title: Sunny Aggarwal
+logo: # You can add own logo. For example '/images/logo.png'.
+description: Random musings of a slightly crazed engineer of society.
+baseurl: "" # The subpath of your site, e.g. /blog
+url: "" # The base hostname & protocol for your site, e.g. http://example.com
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: Sunny Aggarwal
+  avatar: '/img/P1110640.jpg'
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  title: Sunny
+  description: Thoughts, stories and ideas.
+  image: '/images/P1110640.jpg'
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: sunnya97@gmail.com # Add your email for contant form
+  description: The Force is strong with this one. I have you now. I find your lack of faith disturbing. Hey, Luke! May the Force be with you. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There’ll be no one to stop us this time! # Add a description of your form
+
+# NOTE
+# Aditu theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Footer section
+# Example of adding a new link to the footer - {icon: "ion-logo-github", link: "https://github.com"}
+# Other icons can be found at https://ionicons.com
+social:
+- {icon: "ion-logo-twitter", link: "https://twitter.com/sunnya97"}
+- {icon: "ion ion-logo-github", link: "https://github.com/sunnya97"}
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: sunnya97 # Add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: true # To enable the mailchimp form, use the value true. To turn off use the value false.
+mailchimp-identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+
+
+#-------------------------------
+# Build settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll/tagging
+  - jekyll-twitter-plugin
+
+paginate: 9
+paginate_path: "/page/:num"
+
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+include:
+  - _pages
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  pretty
+
+sass:
+  sass_dir: _sass
+  style: compressed

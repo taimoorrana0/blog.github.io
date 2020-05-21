@@ -1,0 +1,17 @@
+---
+layout:	post
+title:	"Why I Am Not a Christian by Bertrand Russell"
+date:	2015-08-30
+tags: Religion
+---
+
+  
+> “We want to stand upon our own feet and look fair and square at the world–its good facts, its bad facts, its beauties, and its ugliness; see the world as it is and be not afraid of it. Conquer the world by intelligence and not merely by being slavishly subdued by the terror that comes from it. The whole conception of God is a conception derived from the ancient Oriental despotisms. It is a conception quite unworthy of free men.”
+> 
+> — Bertrand Russell
+
+As an atheist myself, I could relate to this piece very much. I have engaged in many debates regarding religion and spirituality, and have and used similar arguments many times. I agreed with many of his arguments against the existence of a higher power and the church impeding on scientific progress. However, I do not concur with many of his arguments specifically attacking the merits of Jesus Christ himself. I personally believe that Jesus Christ was perhaps one of the greatest humans to walk the earth. I simply doubt that he was the son of God. Rather he was most likely one of the greatest orators, doctors, and people of his time. However, his abilities got exaggerated to the point where they became divine. I personally believe this is true for many divine figures in all sorts of religions such as Mohammed, Krishna, and Achilles. Regardless, with the rest of his arguments, I concur completely and have already begun formulating ways to reference his ideas in future debates and discussions.
+
+Bertrand Russell first gave this essay as a lecture in 1927 to the National Secular Society. He begins his attack by defining what it is he is attacking. He specifically defines what consists of a Christian. He then systematically executes his contentions in order. He begins with refuting the common “proofs” of the existence of a god, such as the First Case Argument, the Natural Law Argument,and the Argument from Design. Of course at this point, he has already made his point about being an atheist. However, he then continues his case specifically against Christianity, while the first contention could have applied to all religions. He argues that Jesus Christ could not possibly be the wisest and greatest of men. Furthermore he finally attacks the church itself and specifically how it retarded scientific and social progress. Russell’s tone is very objective and matter-of-factly. He uses logic to derive his conclusions. At times, he uses humour to keep his audience intrigue. For example, at one point he logically came to the conclusion that either A, God does not exist, or B, God must report to the Devil as a superior. The church wouldn’t be quite happy about either scenario. Russell uses many sources in his work including the works of other intellectuals such as Voltaire and Socrates, and even textual references from the gospels themselves.
+
+  

@@ -1,0 +1,17 @@
+---
+layout:	post
+title:	"Go West, Young Man"
+date:	2017-02-18
+tags: Berkeley
+---
+
+People often ask me why I decided to come all the way across the country to California for college. Of course there’s the obvious answers of being close to Silicon Valley and that UC Berkeley is one of the top schools in the nations. However, for me, there was something else, a sort of romanticization of moving west to California.
+
+![](/images/medium/0_L8z5wloEnyJj7hYs.png)
+
+Even in my obligatory college acceptance Facebook post, I used the famous (misattributed to) Horace Greeley quote.While for many people, “California” evokes images of surfing, palm trees, and Hollywood. However, for me, as cheesy as it sounds, “California” has always been the manifestation of “the American Dream”. Of course, my passion for history definitely plays a role in this romanticization. The idea of Manifest Destiny compelled generation upon generation to push west onto the American frontier, where enterprising men (and women) could make a new life for themselves. And the final destination of this westward push is none other than “the Golden Coast”. Whether it’s the 49er Gold Miner, the Silicon Valley entrepreneur, or the aspiring Hollywood actor, California has always been the place for people to go in order to “take a shot” and try to “make it big”.
+
+The reason I decided to write this now, is I recently happened upon this song, “Go West” by Anti-Flag and couldn’t help but share. I have an entire playlist in my music collection called “California” but I think this song, especially the chorus, is the first I’ve come across that’s truly encapsulated the emotion and meaning that California and the American West has always had for me. Take a listen.
+
+<iframe src="https://www.youtube.com/embed/Efj5kCUSDQs" frameborder="0" allowfullscreen></iframe>
+

@@ -1,0 +1,73 @@
+<!-- begin hero -->
+<div class="container">
+  <!-- <div class="row">
+    <div class="col col-5">
+      <div class="profile-photo"><img src="../images/P1110640.jpg" alt="Sunny Aggarwal"/></div>
+    </div> 
+
+    <div class="col col-7">
+      <div class="profile-info">
+          <div class="profile-preword"><span>Hello!</span></div>
+          <h1 class="profile-title"><span>I'm</span> Sunny Aggarwal</h1>
+
+          <h2 class="profile-position">Engineer and Social Scientist</h2></div>
+      <ul class="profile-list">
+          <li class="clearfix">
+              <strong class="title">Email</strong>
+              <span class="cont"><a href="mailto:sunnya97@protonmail.ch">sunnya97@protonmail.ch</a></span>
+          </li>
+          <li class="clearfix">
+              <strong class="title">Phone</strong>
+              <span class="cont"><a href="tel:+19084446275">+1 (908) 444-6275</a></span>
+          </li>
+          <li class="clearfix">
+              <strong class="title">Keybase</strong>
+              <span class="cont"><a href="https://keybase.io/sunnya97">sunnya97</a> | <a href="https://keybase.io/sunnya97/pgp_keys.asc?fingerprint=b1cd47484431892ee8d99c888334d2c010886cf8">8334 D2C0 1088 6CF8</a></span>
+          </li>
+          <li class="clearfix">
+              <strong class="title"><span class="button">BTC / BCH</span></strong>
+              <span class="cont">1PUn5xef4JJpZNBX7C3yRG5G88247o2WW2</span>
+          </li>
+          <li class="clearfix">
+              <strong class="title"><span class="button">ETH / ETC</span></strong>
+              <span class="cont">0xe17A702c7264AB8602e7fDf4d89d8045301E80b9</span>
+          </li>
+      </ul>
+      <div class="row" style="padding-top: 1%">
+          <div class="col-sm-6">
+              <span class="btn btn-lg btn-border ripple btn-sidebar" style="width:100%">Contact Me</span>
+          </div>
+          <div class="col-sm-6">
+              <a class="btn btn-lg btn-border ripple" style="width:100%" target="_blank" href="" onclick="Calendly.showPopupWidget('https://calendly.com/sunnya97/30min');return false;">Schedule a Meeting</a>
+          </div>
+      </div>
+    </div>
+    
+  </div> -->
+  <div class="row">
+    <div class="col col-12">
+      {% if site.hero %}
+      <section class="hero">
+        <div class="hero__inner">
+          <div class="hero__image">
+            <img src="{{site.baseurl}}{{site.hero.image}}" alt="{{site.hero.title}}">
+          </div>
+          <div class="hero__content">
+            <h1 class="hero__title">{{site.hero.title}}</h1>
+            <p class="hero__desc">{{site.hero.description}}</p>
+          </div>
+        </div>
+      </section>
+      {% else %}
+      <section class="hero-without-image">
+        <div class="hero-inner">
+          <div class="hero-content">
+            <h1 class="hero__title">{{site.hero.title}}</h1>
+            <p class="hero__desc">{{site.hero.description}}</p>
+          </div>
+        </div>
+      </section>
+      <!-- {% endif %} -->
+    </div>
+  </div>
+</div>

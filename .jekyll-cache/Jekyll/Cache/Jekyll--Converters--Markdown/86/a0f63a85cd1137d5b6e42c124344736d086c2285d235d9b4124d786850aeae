@@ -1,0 +1,66 @@
+I"<p>This is the reading list for the first <a href="http://conspirat.us">Conspiratus</a> podcast, where we will be discussing <a href="http://podcast.conspirat.us/144587/643062-episode-1-protocol-governance">protocol governance</a>.</p>
+
+<p>If you want to submit any questions, suggestions and ideas for the first episode podcast, you can find the submission form <a href="https://goo.gl/forms/QcMf2Mi6dyDr6r3I2">here</a>. Thanks!</p>
+
+<h3 id="reading-list">Reading List</h3>
+
+<p><a href="https://docs.google.com/presentation/d/10cLFnYaR0r58DyPVYwMgJq3nJOFVkO02hxJf1hxGnJ0/edit?usp=sharing"><strong>Blockchain at Berkeley Governance Slides</strong></a>** (5 min read)<br />
+<em>**Alexandra Tran and Steven Elleman (Blockchain at Berkeley) — 12/12/17</em></p>
+
+<p>Intro lecture given at the Blockchain at Berkeley Deep Dive on Governance. A large portion of these resources were curated by the Blockchain at Berkeley R&amp;D team for the deep dive.</p>
+
+<p><a href="https://www.youtube.com/watch?v=9RtSod8EXn4&amp;feature=youtu.be&amp;t=2h33m39s"><strong>Governance 101 with Vlad Zamfir</strong></a>** (35 min video)<br />
+<em>**Vlad Zamfir (Ethereum Foundation) — 11/25/17</em></p>
+
+<p>Defines governance terms, lays out his ideal governance framework, and explains Ethereum’s governance mechanisms at BeyondBlock Taipei 2017. — 35 minute video</p>
+
+<p><a href="https://www.youtube.com/watch?v=6OWxGqbknFQ"><strong>Governance with Arthur Breitman</strong></a>** (23 min video)<br />
+<em>**Arthur Breitman (Tezos) — 8/11/17</em></p>
+
+<p>Describes the necessity and implications of blockchain governance. He then continues to talk about the implementation and incentives in the Tezos model of governance.</p>
+
+<p><a href="https://medium.com/@BuckPerley/crypto-governance-f1318affbbe0"><strong>Crypto-Governance and the Dangers of Faction</strong></a>** (27 min read)<br />
+<em>**Buck Perley (Purse.io) — 10/26/17</em></p>
+
+<p>A lengthy essay on mistrust, compromise, and partisanship in crypto-governance.</p>
+
+<p><a href="http://vitalik.ca/general/2017/03/14/forks_and_markets.html"><strong>Hard Forks, Soft Forks, Defaults, and Coercion</strong></a>** (5 min read)<br />
+<em>**Vitalik Buterin (Ethereum Foundation) — 3/14/2017</em></p>
+
+<p>Discusses different types of forks and the legitimacy and buy-in needed for each type.</p>
+
+<p><a href="https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74"><strong>Blockchain Governance: Programming Our Future</strong></a>** (17 min read)<br />
+<em>**Fred Ehrsam (Ex-Coinbase) — 11/27/17</em></p>
+
+<p>Presents an analogy between blockchains and evolving organisms; why we should prioritize governance; a survey of various existing governance mechanisms and future approaches.</p>
+
+<p><a href="https://medium.com/@Vlad_Zamfir/against-on-chain-governance-a4ceacd040ca"><strong>Against On-Chain Governance</strong></a> <strong>(9 min read)</strong><br />
+<em>Vlad Zamfir — 12/1/17</em></p>
+
+<p>Refutation of the previous resource from Fred Eshram in which Vlad argues against formalized on-chain governance.</p>
+
+<p><a href="http://vitalik.ca/general/2017/12/17/voting.html"><strong>Notes on Blockchain Governance</strong></a>** (10 min read)**<br />
+<em>Vitalik Buterin — 12/17/17</em></p>
+
+<p>“[A]rgues that ‘tightly couple’ on-chain voting is overrated, and that the status quo of ‘informal governance’ is much less bad than commonly thought.”</p>
+
+<p><a href="https://github.com/cosmos/constitution/wiki"><strong>Cosmos Governance and Constitution</strong></a> <strong>(30 min read)</strong><br />
+<em>Cosmos Team</em></p>
+
+<p>This wiki by the Cosmos team contains a lot of details about the governance process used by the Cosmos Hub as well as analyses of different governance models employed by other platforms such as Tezos, EOS, and DASH.</p>
+
+<p><a href="https://medium.com/dfinity/the-dfinity-blockchain-nervous-system-a5dd1783288e"><strong>The DFINITY “Blockchain Nervous System”</strong></a>** (21 min read)<br />
+<em>**DFINITY team — 1/4/17</em></p>
+
+<p>Thorough look into the structure and reasoning behind DFINITY’s governance model; DFINITY allows for on-chain voting as well as retroactive changes to the blockchain.</p>
+
+<p><a href="https://blog.ethereum.org/2014/08/21/introduction-futarchy/"><strong>Futarchy</strong></a>** (24 min read)<br />
+<em>**Vitalik Buterin — 8/21/14</em></p>
+
+<p>Analysis and description of Futarchy, a prediction market based governance mechanism designed by Robin Hanson. Additional futarchy resources can be found <a href="https://dynalist.io/d/AGsPFft5LsUXjhbyhZ65FcI8">here</a>.</p>
+
+<p>— — — — — — — — —</p>
+
+<h4 id="huge-thanks-to-blockchain-at-berkeley-rd-for-helping-compile-these-resources">Huge thanks to Blockchain at Berkeley R&amp;D for helping compile these resources.</h4>
+
+:ET

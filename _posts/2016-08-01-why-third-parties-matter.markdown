@@ -1,0 +1,18 @@
+---
+layout:	post
+title:	"Why Third Parties Matter"
+date:	2016-08-01
+tags: Politics
+---
+
+I’ve been seeing a lot of articles and posts lately warning people against voting for a third party and how “they have no chance of winning”. No shit. I know that. The candidates know that.
+
+But the thing is. They’re not doing it to win the presidency. At least for now. Voting third party is about sending a message. It’s about standing up and telling society that this is what you want through your vote. And if enough people want the same thing. It will make a difference.
+
+Even if the candidate has no shot of winning the national presidential election, they serve as a symbol. An inspiration. People don’t join third parties today because they “have no chance” or they simply just don’t know about it. And because the party doesn’t have the membership, they can’t compete in the thousands of local and state elections across the nation. So you fight them in the one that really matters. And, let’s say a third party candidate wins 20 to 30 percent of the vote in the Presidential election. Suddenly, everyone know about the party. And you know, it just might not be such a “long shot” after all. They will an inspiration for people at the local levels in following years. People will join their party. They will get support. The party might start winning some local elections. Then some state ones. And then maybe one day, actually the presidency.
+
+Now I personally am voting for Gary Johnson. First and foremost, I like a lot of his views, and his philosophies on society and governance resonate the most with my own. But I am also supporting the Libertarian Party because I think it is far more important in the long run. We’re at this very critical time right now where the Republican party is on the verge of implosion. It’s splintering into different factions, many of which are not satisfied with their party’s presidential nominee.
+
+The goal is to let the Republican party die, and let it be replaced with the Libertarian one. Much like how the Republicans replaced the Whigs in the 1850s. Even if you’re a Democrat and don’t support the Libertarian party’s views, it’s still in your best interests to have them replace the Republican party, because Democrats and Libertarians agree on most social issues, many of which it’s hard to believe are somehow still up for debate today. It will shift political discourse and debate from being, about issues that should have long been settled, to topics of actual contention such as the economy, foreign interventionism, and federal spending.
+
+So by all means. Please vote for Gary Johnson or Jill Stein. Don’t let your voice be silenced by those who intend to keep the system as it is. Because if you want to change the system, you have to use your vote to make the system change.

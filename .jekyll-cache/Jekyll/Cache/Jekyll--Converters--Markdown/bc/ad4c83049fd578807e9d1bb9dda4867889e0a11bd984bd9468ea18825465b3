@@ -1,0 +1,9 @@
+I"o<p>I wrote a tutorial on how to get started using the <a href="https://github.com/cosmos/cosmos-sdk/">Cosmos SDK</a> to build your own modules and decentralized blockchain applications. This tutorial was first walked through during a live workshop at the SF Blockchain Week Epicenter event (co-hosted by <a href="https://epicenter.tv/">Epicenter</a>!) and was then adapted into a follow along text tutorial. We will likely be releasing a video walkthrough soon!</p>
+
+<p>In the tutorial, we build a “nameservice”, a mapping of strings to other strings (similar to <a href="https://namecoin.org/">Namecoin</a>, <a href="https://ens.domains/">ENS</a>, or <a href="https://handshake.org/">Handshake</a>), in which to buy the name, the buyer has to pay the current owner more than the current owner paid to buy it! We call the application Nameshake 😉</p>
+
+<p>The tutorial is still a work in progress. If you have any feedback or issues, please let us know through the Github issues page. Please enjoy!</p>
+
+<p><a href="https://github.com/sunnya97/sdk-nameservice-example">https://github.com/sunnya97/sdk-nameservice-example</a></p>
+
+:ET

@@ -1,0 +1,56 @@
+I"�<p><strong>By Sunny Aggarwal and <a href="https://medium.com/u/9accc392b07d"><em>Nate Rush</em></a></strong></p>
+
+<p>Taking inspiration from Julia Galef’s “Unpopular Ideas” series <a href="https://juliagalef.com/2017/08/23/unpopular-ideas-about-social-norms/">[1]</a> <a href="https://juliagalef.com/2017/08/23/unpopular-ideas-about-political-and-economic-systems/">[2]</a> <a href="https://juliagalef.com/2017/09/05/unpopular-ideas-about-crime-and-punishment/">[3]</a> <a href="https://juliagalef.com/2017/09/21/unpopular-ideas-about-children/">[4]</a>, we compiled a list of unpopular ideas about the blockchain technology and cryptocurrencies in general.</p>
+
+<p>This list contains ideas that we find “interesting” or inspire some thought. For many of these ideas, one or both of the authors agree with them. Other ideas, neither of us agree with (or, at least, we won’t admit to agreeing with them 😈).</p>
+
+<p>Much like the idea for this post, our reason for compiling this (admittedly-incomplete) list is taken from Julia Galef. To quote her, “Considering weird ideas helps de-anchor us from the status quo, and that’s valuable independently of whether those particular ideas are true or not.”</p>
+
+<p>We are releasing this list with an initial 40 ideas, but will continuously update this post as we think of or encounter more unpopular ideas.</p>
+
+<p>Here they are:</p>
+
+<ol>
+  <li>Wild speculation is good. All money is a bubble anyways.</li>
+  <li>Blockchain tech and cryptocurrencies are being adopted too quickly. This should be curbed. Scalability, privacy, and security are far from being solved. Any/all industries adoption blockchain technology is in for a rude awakening. <a href="https://twitter.com/vladzamfir/status/838006311598030848?lang=en">[1]</a></li>
+  <li>Not everything needs to be decentralized. Most things probably shouldn’t be.</li>
+  <li>The only real use case for blockchain technology will be money.</li>
+  <li>Blockchains and smart contracts can succeed in a world where cryptocurrencies remain a niche asset.</li>
+  <li>In most contexts, permissioned blockchains (even for money) make more sense than public blockchains.</li>
+  <li>Alternatively, a private blockchain without a currency is just a (sometimes) effective data structure for “distributed databases.”</li>
+  <li>Blockchains will end up being run by the same banks and governments that they were designed to fight.</li>
+  <li>Blockchains might end up accelerating wealth inequality rather than decreasing it.</li>
+  <li><em>Development</em> of zk-SNARKs is the single most important thing to come out of the entire space.</li>
+  <li>Most research in the space is just reinventive what academics already thought of pre-blockchain era.</li>
+  <li>The Bancor protocol is the currently one of the best blockchain application that exists and is super underrated.</li>
+  <li>Most blockchain applications do not need a turing complete VM and should be deployed on specialized blockchains. <a href="https://youtu.be/pa-Z5ZtTyT0?t=19m31s">[1]</a></li>
+  <li>Proof of Stake is a better consensus protocol. Proof of Work is a better coin distribution mechanism.</li>
+  <li>Proof of Work has equal economic cost to Proof of Stake, but unlike Proof of Stake, Proof of Work channels it into productive cumulative security. <a href="http://www.truthcoin.info/blog/pow-and-mining/">[1]</a> <a href="http://www.truthcoin.info/blog/pow-cheapest/">[2]</a> <a href="http://www.truthcoin.info/blog/pos-still-pointless/">[3]</a></li>
+  <li>Stellar has one of the most interesting and underrated consensus protocols for a public blockchain.</li>
+  <li>Stablecoins are a fool’s errand. <a href="https://prestonbyrne.com/2017/10/13/basecoin-bitshares-2-electric-boogaloo/amp/">[1]</a></li>
+  <li>Decentralized storage doesn’t work. At best, it will become a marketplace for large providers to sell their services. Your smartphone isn’t going to sell its extra storage space. <a href="https://imgur.com/a/M8GmjQj">[1]</a></li>
+  <li>ASIC-resistant hashing algorithms will be less decentralized in the long term.</li>
+  <li>Not enough discussion and thought is being put into the moral and ethical considerations of the technology we are building. <a href="https://www.youtube.com/embed/yQvhEUuwJCk?start=175&amp;end=195&amp;rel=0&amp;autoplay=1">[1]</a> <a href="https://bitcoinmagazine.com/articles/future-smart-contracts-positive-social-innovation-criminal-activity-1440020288/">[2]</a></li>
+  <li>Blockchains are fundamentally about subverting the law. Even ICOs.</li>
+  <li>As put quite elegantly by Paul Sztorc: “<em>Every single entity</em> on <a href="http://coinmarketcap.com/assets/">coinmarketcap.com</a>, with the exception of Bitcoin, and, arguably, the Bitcoin-metacoins, is inherently flawed. By this, I mean, each has a <em>negative</em> economic value and <strong>should be abandoned</strong>.” <a href="http://www.truthcoin.info/">[1]</a></li>
+  <li>Ether is not, and never will be, money.</li>
+  <li>Ether price is overinflated to the point that no amount of usage or applications being built on top of it can justify its current value.</li>
+  <li>Litecoin is pointless. <a href="https://twitter.com/ProfFaustus/status/927369975160958976">[1]</a></li>
+  <li>Uncapped ICOs are more fair than capped ICOs. All ICOs should be uncapped.</li>
+  <li>Alternatively, ICOs are all scams and as such should be banned/heavily regulated. <a href="https://twitter.com/derose/status/779811115912007681">[1]</a></li>
+  <li>Bitcoin’s monetary policy is dumb. Decreasing rewards creates security issues as more and more transactions move to 2nd layer solutions. Also, over 80% of Bitcoin has already mined with &lt;0.1% of the world knowing about it.</li>
+  <li>Ethereum community lacks the revolutionary zeal of the Bitcoin community. Ethereum is a FinTech platform. Bitcoin is a new global monetary system.</li>
+  <li>Bitcoin can handle the entire world’s monetary transactions with purely 1st layer scaling. <a href="https://github.com/clarkgwillison/node_costs/blob/master/node_costs.ipynb">[1]</a> <a href="https://cryptovest.com/news/bitcoin-unlimited-and-nchain-unveil-joint-plans-for-1-gigabyte-blocks-on-bitcoin-cash/">[2]</a></li>
+  <li>The best outcome is for Ethereum and Ethereum Classic to continue to exist in parallel.</li>
+  <li>Ethereum Classic should be called Ethereum, and the DAOFork chain should have gotten a new name.</li>
+  <li>All hard forks whether or not they are malicious, contentious, etc, should have a new name and possibly even ticker.</li>
+  <li>Ethereum would be nowhere close to as popular as it is today if it weren’t for ConsenSys’ infrastructure projects such as MetaMask, Truffle, Infura, etc.</li>
+  <li>Proof of Stake will probably break many securities laws. Especially with delegation. <a href="https://blockchainatberkeley.blog/does-proof-of-stake-violate-securities-law-part-i-a7a647764787">[1]</a> <a href="https://blockchainatberkeley.blog/does-proof-of-stake-violate-securities-law-part-ii-5946315f182b">[2]</a></li>
+  <li>There should only be one Proof of Work chain.</li>
+  <li>Application specific currencies are a terrible idea. Imagine only being able to use store-specific gift cards for everything! So much for fungibility.</li>
+  <li>The UTXO model is superior to the Account State model in many ways.</li>
+  <li>Protocols don’t need to be perfectly asynchronous. Weakly synchronous is good enough for all real use cases. <a href="https://twitter.com/IOHK_Charles/status/931993497531334656">[1]</a> <a href="https://twitter.com/IOHK_Charles/status/931994166585802752">[2]</a> <a href="https://twitter.com/IOHK_Charles/status/932035273113915392">[3]</a></li>
+  <li>Protocol incentives are largely orthogonal to consensus design. They don’t need to be perfect, just good enough. Bitcoin has been operating for nearly a decade just fine. <a href="https://twitter.com/IOHK_Charles/status/931994028890931200">[1]</a> <a href="https://twitter.com/IOHK_Charles/status/931994776563433472">[2]</a> <a href="https://twitter.com/IOHK_Charles/status/932035273113915392">[3]</a></li>
+</ol>
+
+:ET

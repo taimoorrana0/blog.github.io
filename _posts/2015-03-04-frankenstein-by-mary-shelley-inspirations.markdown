@@ -1,0 +1,20 @@
+---
+layout:	post
+title:	"Frankenstein by Mary Shelley Inspirations"
+date:	2015-03-04
+tags: Review
+image: /images/medium/1*WfOIzO5ZpxNBR3nyZampvA.jpeg
+imagehero: true
+---
+
+Frankenstein was undoubtedly one of the finest pieces of literature of the late 19th century. Although, the tale has been horribly disfigured by modern media, the original novel is a deep and philosophical one that spreads its core message that the pursuit of knowledge can be dangerous. It is a representation of the struggle between enlightenment and romanticism during the time period. The novel was written by Mary Shelley, undoubtedly one of the most prolific writers of the time period, however, what many don’t realize is that many of Shelley’s ideas came from the influence of her family, most notably her mother and her husband.
+
+The enlightenment was a time period in the 1700s during which thinkers turned to rational thought and reason as a means to explaining the world around them as opposed to religion or spirituality. However, many enlightenment thinkers did their best to force their beliefs upon others, many whom were critical of this new way of thought. One of these such people was Mary Shelley’s mother. Her mother, a strict feminist, criticized the enlightenment for doing nothing to improve women’s. In fact, many enlightenment thinkers claimed that women were unable of rational thought. She criticized that in the enlightenment, only men were able to engage in the pursuit of knowledge and a movement that promoted equality was portraying women as inferior to men.
+
+Mary Shelley lived in a time of history where the world was still in transition phases from the romantic era to the enlightenment, a time in which both sides were coexisting. At this time, the romantics, who believed that not everything can be explained with rational thought and that sometimes nature needs no explanation, in order to hold back the onward march of the enlightenment, flooded the literary market with romantic novels. These romantics texts which dominated the literary market focused on themes such as love, terror, and fear, aspects of the human condition which the enlightenment followers could not yet explain with rational thought. Percy Shelley, Mary Shelley’s husband and a romantic writer himself, was very sensitive to the literary works and the emotions they conveyed. Thus when he edited his wife’s work, he worked in many romantic elements.
+
+The complementary influences of Mary Shelley’s mother’s critisism of the Enlightment and her husbands love of romanticism worked together to augment and shape Mary Shelley’s main message of the dangers involved in the pursuits of knowledge. Mary voicing her mothers concerns over the unequal representation of women in the enlightment is seen through the obvious lack of female characters in the novel. In order to spite this world view even further, she gives the male characters severe character flaws that show that they are just as uncapable of rational thought as they claim women are. Due to Percy Shelley’s editing of the novel, the perception of the monster changed due to his romantic views. He managed to make the monster into a true monster instead of a human. Due to this, we see sudden shifts in tone and style throughout the novel, often times changing the readers perception of the monster altogether.
+
+Mary Shelley’s novel Frankenstein was influenced by both Shelley’s mother and husband. Her mother’s viewpoints shaped Mary Shelley’s and made her weasel in numerous critiques about the abuses of the enlightenment era when it comes to feminism. Due to Percy Shelley’s extensive editing, the novel lost a lot of its uniformity as Shelley’s own view of the monster and what it represents constantly was in conflict with her husbands. While Mary Shelley may have great messages and ideas of her own, in her novel Frankenstein, they were masked by the thoughts of her mother and husband, and due to their influences, the novel could not truly be representation of Shelley herself, but rather her environment as a whole.
+
+  

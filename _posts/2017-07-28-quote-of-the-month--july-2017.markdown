@@ -1,0 +1,11 @@
+---
+layout:	post
+title:	"Quote of the Month: July 2017"
+date:	2017-07-28
+tags: Quote-of-the-Month
+---
+
+  
+> “War does not determine who is right — only who is left.”
+> 
+> — Bertrand Russel  

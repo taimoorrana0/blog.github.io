@@ -8,7 +8,7 @@ Hi, my name is Sunny Aggarwal.  I wear many hats.  Let me tell you about a few o
 
 ---
 
-### [Tendermint](https://tendermint.com/) / [Cosmos](https://cosmos.network/)
+## [Tendermint](https://tendermint.com/) / [Cosmos](https://cosmos.network/)
 
 #### Research Scientist
 
@@ -16,8 +16,7 @@ During the summer of 2017, I came across [Cosmos](https://cosmos.network/), and 
 
 ---
 
-### [Sikka](https://sikka.tech/)
-
+## [Sikka](https://sikka.tech/)
 #### Founder
 
 In order to best understand the Proof of Stake ecosystem, I realized I needed to not just be a developer of the protocol, but also an operator of it.  By building a validator, I would have a better understanding of the economics and processes of the validators running the systems I was building at Tendermint.  So, I created a validator company called Sikka with [Dev Ojha](https://www.linkedin.com/in/dev-ojha-0/).  We currently run [one of the largest validators on the Cosmos Hub](https://www.mintscan.io/validators/cosmosvaloper1ey69r37gfxvxg62sh4r0ktpuc46pzjrm873ae8?delegators=1&powerEvents=1&proposedBlocks=1), where we have the most number of delegators and are extremely active in the governance process.  We also run validators on the Kava mainnet and a number of other testnets.
@@ -26,11 +25,11 @@ Along with running validators, I also provide advisory services to select blockc
 
 ---
 
-### [Epicenter](https://epicenter.tv/)
+## [Epicenter](https://epicenter.tv/)
 
 #### Co-Host
 
-Epicenter was one of the OG crypto podcasts, making sense of cryptocurrencies and blockchain since before they were cool (since 2014!).  Through interviews with founders and buidlers, it explore the technology, but also the stories, behind many of the coolest projects in the space.  And most importantly, it was one of the most invaluable resources in my own personal learning path.
+[Epicenter](https://epicenter.tv/) was one of the OG crypto podcasts, making sense of cryptocurrencies and blockchain since before they were cool (since 2014!).  Through interviews with founders and buidlers, it explore the technology, but also the stories, behind many of the coolest projects in the space.  And most importantly, it was one of the most invaluable resources in my own personal learning path.
 
 So when in Spring 2018, Brian Fabian Crain invited me to guest host an [episode with Charles Hoskinson](https://www.youtube.com/watch?v=2DFYBb_zOpc), I was estatic.  After than, I joined as regular co-host, and am able to share my blockchain passion with over 15K subscribers!
 
@@ -38,7 +37,7 @@ While Epicenter is focused on crypto, I also have a second podcast called [Consp
 
 ---
 
-### Blockchain at Berkeley
+### [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
 
 #### Co-Founder
 
@@ -46,7 +45,7 @@ While I was at UC Berkeley, I co-founded [Blockchain at Berkeley](https://blockc
 
 ---
 
-### UC Berkeley
+### [UC Berkeley](https://www.berkeley.edu/)
 
 #### Course Designer and Lecturer
 
@@ -58,7 +57,7 @@ After co-teaching a large-scale course with hundreds of students for two semeste
 
 ---
 
-### UC Berkeley
+### [UC Berkeley](https://www.berkeley.edu/)
 
 #### Student
 

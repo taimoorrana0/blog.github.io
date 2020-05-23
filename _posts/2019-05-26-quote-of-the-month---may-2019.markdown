@@ -10,4 +10,4 @@ tags: "Quote-of-the-Month"
 > 
 > — Naval
 
-![](/images/medium/1*Y2XBLNEH9xtcVGDnbVSUJw.png)  
+![](/images/medium/1*Y2XBLNEH9xtcVGDnbVSUJw.png){: .center-image .hero }

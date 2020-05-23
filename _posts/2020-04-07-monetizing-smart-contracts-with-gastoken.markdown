@@ -18,4 +18,4 @@ But for many contracts where people aren’t sending money to it, requiring them
 
 Should people use this? I don’t know. But it’s a fun concept, and it would be kind of interesting if someone does!
 
-{% include imagehero.html %}
+![]({{page.image}}){: .center-image .hero }

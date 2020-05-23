@@ -11,4 +11,4 @@ tags: "Quote-of-the-Month"
 > 
 > —Andrew Fletcher of Saltoun
 
-![](/images/medium/1*3iwMQZOb3gMPRgB9yminYg.png)
+![](/images/medium/1*3iwMQZOb3gMPRgB9yminYg.png){: .center-image .hero }

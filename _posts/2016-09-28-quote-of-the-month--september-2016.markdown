@@ -10,4 +10,4 @@ tags: Quote-of-the-Month
 > 
 > — Ralph Waldo Emerson
 
-![](/images/medium/0*_N_62elaclhC7FyA.jpg)
+![](/images/medium/0*_N_62elaclhC7FyA.jpg){: .center-image .hero }

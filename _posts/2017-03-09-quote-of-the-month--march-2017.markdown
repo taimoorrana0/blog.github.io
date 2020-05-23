@@ -9,4 +9,4 @@ tags: Quote-of-the-Month
 > “A ship in harbor is safe — but that is not what ships are built for.”
 > — John A Shedd
 
-![](/images/medium/0*Kp3Ou-DpUd-VvY2E.jpg)
+![](/images/medium/0*Kp3Ou-DpUd-VvY2E.jpg){: .center-image .hero }

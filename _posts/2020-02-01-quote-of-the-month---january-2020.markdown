@@ -11,4 +11,4 @@ tags: "Quote-of-the-Month"
 > 
 > — Greg LeMond
 
-![](/images/medium/1*LsaHpNC8QVJNx3qI5FZb3w.png)  
+![](/images/medium/1*LsaHpNC8QVJNx3qI5FZb3w.png){: .center-image .hero }

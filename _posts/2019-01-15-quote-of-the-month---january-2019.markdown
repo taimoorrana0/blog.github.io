@@ -14,7 +14,7 @@ tags: ["Quote-of-the-Month", History]
 > 
 >  — Anonymous
 
-![](/images/medium/1*F1PggQZ4U201GeTMLc4cZw.jpeg)
+![](/images/medium/1*F1PggQZ4U201GeTMLc4cZw.jpeg){: .center-image .hero }
 
 *The orator, the journalist, and the execut(ion)er*
 

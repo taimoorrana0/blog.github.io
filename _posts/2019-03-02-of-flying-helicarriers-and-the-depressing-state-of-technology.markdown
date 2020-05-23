@@ -16,7 +16,7 @@ Director Nick Fury warns Captain America, who has been frozen in ice since WW2, 
 
 A couple scenes later in the film, we see the SHIELD “helicarrier” take off and activate its invisibility panels. Amazed at this spectacle, Cap subtly hands Fury a $10 bill.
 
-![](/images/medium/1*7UL-F2QmudyTnd_EhDLxtw.jpeg)
+![](/images/medium/1*7UL-F2QmudyTnd_EhDLxtw.jpeg){: .center-image .hero }
 
 Watching this a second time, I couldn’t help but be reminded of this one Peter Thiel quote I really like ([in fact it was one of my quotes of the month]({% post_url 2017-02-24-quote-of-the-month--february-2017 %})).
 

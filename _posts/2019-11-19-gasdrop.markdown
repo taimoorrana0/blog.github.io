@@ -6,7 +6,7 @@ image: /images/medium/1*iw-2in5XciinL2hx7h8BoQ.jpeg
 tags: Blockchain
 ---
 
-![](/images/medium/1*iw-2in5XciinL2hx7h8BoQ.jpeg)
+![](/images/medium/1*iw-2in5XciinL2hx7h8BoQ.jpeg){: .center-image .hero }
 
 By this point, many of you are probably familiar with my issues with the “contract signaling” mechanism in the [Edgeware](http://edgewa.re) lockdrop. If not, feel free to optionally take a listen to [this Conspiratus episode](http://www.conspirat.us/144587/1563469-episode-7-hey-straightedge) or read the [Straightedge FAQ](https://straighted.ge/faq/). But tl;dr is that in the lockdrop, an Ethereum address was allowed to “signal” on behalf of any contract that they had deployed from that account and claim its ETH as their own.
 

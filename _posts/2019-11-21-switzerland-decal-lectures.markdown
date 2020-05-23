@@ -52,4 +52,4 @@ Also, if any current UC Berkeley student (or any other school that has a similar
 
 P.S. Unfortunately the last lecture of the course wasn’t recorded, but in that we played Jeopardy! And the team that won, didn’t have to write a final paper! Never seen students try so hard in a game of in-class Jeopardy!
 
-![](/images/medium/1*n-E6ZqNp387pw9qy-3gX5g.jpeg)  
+![](/images/medium/1*n-E6ZqNp387pw9qy-3gX5g.jpeg){: .center-image .hero }

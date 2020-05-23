@@ -11,4 +11,4 @@ tags: Quote-of-the-Month
 > 
 > — Scott Alexander (Slate Star Codex)
 
-![](/images/medium/1*Wmm2f0FPECFfc630yWKshg.jpeg)  
+![](/images/medium/1*Wmm2f0FPECFfc630yWKshg.jpeg){: .center-image .hero }

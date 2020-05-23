@@ -15,4 +15,4 @@ tags: [Quote-of-the-Month, History]
 
 “This man has conquered the world! What have you done?” The philosopher replied without an instant’s hesitation, “I have conquered the need to conquer the world.”
 
-![](/images/medium/1*5E2-vzDxmX-R8dceh7-LVw.jpeg)
+![](/images/medium/1*5E2-vzDxmX-R8dceh7-LVw.jpeg){: .center-image .hero }

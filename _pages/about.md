@@ -61,4 +61,4 @@ After co-teaching a large-scale course with hundreds of students for two semeste
 
 #### Student
 
-I was a student at UC Berkeley for two years where I studied Electrical Engingeering and Computer Science (EECS) with a minor in Political Economy.  I ended up dropping out after my sophomore year to pursue my work on Cosmos, but during my time there, I created the Cal Pirate Party and got elected to [Student Senate](https://asuc.org/), joined the Alpha Delta Phi fraternity, and did research with Professor Dawn Song.
+I was a student at UC Berkeley for two years where I studied Electrical Engingeering and Computer Science ([EECS](http://eecseecs.com/)) with a minor in Political Economy.  I ended up dropping out after my sophomore year to pursue my work on Cosmos, but during my time there, I created the Cal Pirate Party and got elected to [Student Senate](https://asuc.org/), joined the Alpha Delta Phi fraternity, and did research with Professor Dawn Song.

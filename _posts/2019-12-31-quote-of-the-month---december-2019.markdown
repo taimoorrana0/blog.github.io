@@ -11,4 +11,4 @@ tags: "Quote-of-the-Month"
 >
 > — Irish Proverb
 
-![](/images/medium/1*RT0xcY8fJMUorm9nMrYPug.png)  
+![](/images/medium/1*RT0xcY8fJMUorm9nMrYPug.png){: .center-image .hero }

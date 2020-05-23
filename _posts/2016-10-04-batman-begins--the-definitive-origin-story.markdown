@@ -6,8 +6,8 @@ image: /images/medium/0*tbKt18T_5XGmjJPZ.jpg
 imagehero: true
 tags: Literary
 ---
-
-  ![]()Today, the “superhero origin story” has become a tired formula, often seen as cliched and unoriginal ([Why is Every Superhero Movie an Origin Story?](http://www.ew.com/article/2012/12/12/origin-stories-man-of-steel-superman)).However, one origin story seems to stand out from the crowd, sometimes even ranked higher than its universally acclaimed sequel. Batman Begins is often described by many as the “definitive origin story”. To understand why this is, we need to take a look at the context behind it’s inception (NOlan Pun intended).  
+  
+Today, the “superhero origin story” has become a tired formula, often seen as cliched and unoriginal ([Why is Every Superhero Movie an Origin Story?](http://www.ew.com/article/2012/12/12/origin-stories-man-of-steel-superman)).However, one origin story seems to stand out from the crowd, sometimes even ranked higher than its universally acclaimed sequel. Batman Begins is often described by many as the “definitive origin story”. To understand why this is, we need to take a look at the context behind it’s inception (NOlan Pun intended).  
   
 When Batman Begins first hit cinemas in 2005, it was the first Batman movie in eight years. The previous big-screen installment in the franchise was the disastrous Batman & Robin, after which no one wanted to touch the Batman “trainwreck” for nearly a decade. Therefore, when Nolan suggested to recreate the entire series from scratch and create a new universe, one more gritty and dark than its predecessor, Warner Bros was all on board. While, in retrospect, this seems trivial, this was actually a pretty risky move. While continuity was much more fluid in comics and reboots common, this simply was not common in the film industry. Batman Begins was a trailblazer in this regard of keeping audiences engaged while presenting them with a story they likely already knew.  
   

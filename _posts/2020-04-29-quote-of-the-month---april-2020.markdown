@@ -9,4 +9,4 @@ tags: Quote-of-the-Month
 > “You can’t overtake 15 cars in sunny weather… but you can when it’s raining.”
 > — Ayrton Senna
 
-{% include imagehero.html %}
+![]({{page.image}}){: .center-image .hero }

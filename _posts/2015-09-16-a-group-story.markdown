@@ -15,4 +15,4 @@ I had taken an animal fighting Decal the semester before, so I knew exactly what
 
 to go up to the tiger and offer it a tuna sandwich. Ever since that day, we heave been best friends who go on toboggan rides in the winter and discuss philosophy in an easy to under, comic-like format.
 
-![](/images/medium/0*RYbBkFAOT0KFsr01.jpg)  
+![](/images/medium/0*RYbBkFAOT0KFsr01.jpg){: .center-image .hero }

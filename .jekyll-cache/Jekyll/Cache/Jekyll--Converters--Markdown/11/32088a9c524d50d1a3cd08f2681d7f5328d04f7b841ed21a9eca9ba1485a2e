@@ -1,0 +1,16 @@
+I"�<p>While ruminating on my <a href="/gasdrop.html">Gasdrop idea</a> from a few months ago, I thought of a pretty funny and somewhat devious method for Ethereum smart contract developers to monetize their smart contracts.</p>
+
+<ol>
+  <li>In your contract execution, make the caller create a bunch of GasTokens (if you don’t know what GasToken is, <a href="https://gastoken.io/">read their website first</a>) in the contract’s name.</li>
+  <li>Allow yourself to sell those GasTokens for a profit! (<a href="https://uniswap.info/token/0x0000000000b3f879cb30fe243b4dfee438691c04">There’s a market on Uniswap!</a>)
+Yep, it’s that simple!</li>
+</ol>
+
+<p>Now, of course, GasToken isn’t perfect; you end up losing some value to the miners. It would be better to just require users to pay a fee in order to execute your contract. And this probably works well for contracts where people are already sending money to the contract and you can scrape some off the top (like Uniswap’s 0.3% fee).</p>
+
+<p>But for many contracts where people aren’t sending money to it, requiring them to attach value to their contract call would likely add a lot of friction and would make users somewhat uneasy. However, by using the GasToken model, this cost gets hidden away is the increased gas usage of the contract call! And let’s be real, people don’t really have an intuitive sense of how much gas a contract <em>should</em> be using, so artificially increasing it a bit would probably be close to zero added friction!</p>
+
+<p>Should people use this? I don’t know. But it’s a fun concept, and it would be kind of interesting if someone does!</p>
+
+<p><img src="/images/medium/1*q5f-WWlINt_ru952H6GYMQ.png" alt="" class="center-image hero" /></p>
+:ET

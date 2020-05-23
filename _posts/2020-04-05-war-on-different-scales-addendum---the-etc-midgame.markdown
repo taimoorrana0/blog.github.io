@@ -44,4 +44,4 @@ If the Ethereum Classic community wants to try to make a comeback in the mid-gam
 
 *Disclaimer: I’m not an Ethereum Classic insider by any means. I even forewarned as much in the title of the talk — A Peripheral Observer and Fan’s View of Ethereum Classic. Yet for some reason, I often find myself known as the “Ethereum Classic guy” in the Ethereum circles. Idk, I like to wear an Ethereum Classic shirt occasionally.*
 
-![](/images/medium/0*o4i_ZXiTtzzWTMlj)  
+![](/images/medium/0*o4i_ZXiTtzzWTMlj){: .center-image .hero }

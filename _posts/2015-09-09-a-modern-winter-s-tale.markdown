@@ -2,7 +2,7 @@
 layout:	post
 title:	"A Modern Winter’s Tale"
 date:	2015-09-09
-tags: Review
+tags: Literary
 ---
 
 Curious to see what Shakespeare would sound like set in modern slang, I translated line 1–64 of The Winter’s Tale Act IV Scene IV into this “new vernacular.”

@@ -40,3 +40,13 @@
 .screen-reader-text {
   @include screen-reader();
 }
+
+.center {
+  text-align: center;
+}
+
+.center-image
+{
+  margin: 0 auto;
+  display: block;
+}

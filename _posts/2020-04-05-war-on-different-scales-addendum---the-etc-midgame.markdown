@@ -6,21 +6,33 @@ image: /images/medium/0*o4i_ZXiTtzzWTMlj
 tags: Blockchain
 ---
 
-A few months ago, at the Ethereum Classic Summit, I [gave a talk on a potential roadmap towards Proof of Stake](https://youtu.be/BwnQIlehGyw?t=408). To be quite honest, I wasn’t really expecting the Ethereum Classic community to buy into the proposal. Rather just wanted to 1. Get the gears in their heads spinning a bit on the idea and 2. Use it as practice for a [similar talk I gave a week later at Ethereum DevCon](https://www.youtube.com/watch?v=pSCeTOgkzE0).
+Addendum to my previous post: [War on Different Scales]({% post_url 2020-04-03-war-on-different-scales %})
+
+---
+
+A few months ago, at the Ethereum Classic Summit, I [gave a talk on a potential roadmap towards Proof of Stake](https://youtu.be/BwnQIlehGyw?t=408). To be quite honest, I wasn’t really expecting the Ethereum Classic community to buy into the proposal. Rather just wanted to:
+1. Get the gears in their heads spinning a bit on the idea
+2. Use it as practice for a [similar talk I gave a week later at Ethereum DevCon](https://www.youtube.com/watch?v=pSCeTOgkzE0).
 
 So the majority of the content between the two talks was the same, but there was one particular section that was unique specifically to the ETC version. In a previous post, I delved into this interesting quote I found:
 
 > A war on the scale of 2 years is a war of economics.
+> 
 > A war on the scale of 20 years is a war of technology.
-> A war on the scale of 200 years is a war of ideology.Check out that post for some more explanation and thoughts on this.
+> 
+> A war on the scale of 200 years is a war of ideology.
 
-[**War on Different Scales**  
-*A 2-year war is decided by economics. A 20-year war is decided by technology. A 200-year war is decided by ideology.*medium.com](https://medium.com/sunnya97/war-on-different-scales-c732560d8b63 "https://medium.com/sunnya97/war-on-different-scales-c732560d8b63")[](https://medium.com/sunnya97/war-on-different-scales-c732560d8b63)Turns out, the first time I ruminated on the quote, was for this ETC Summit talk. These time scales maybe make sense for the physical world, but when it comes the digital memetic wars between internet communities, maybe we have to compress these time scales:
+Check out that post for some more explanation and thoughts on this.
 
+Turns out, the first time I ruminated on the quote, was for this ETC Summit talk. These time scales maybe make sense for the physical world, but when it comes the digital memetic wars between internet communities, maybe we have to compress these time scales:
 
 > A digital war on the scale of 2 months is war of economics.
+> 
 > A digital war on the scale of 2 years is a war of technology.
-> A digital war on the scale of 2 decades is a war of ideology.After all, there’s a common joke in the crypto space that 1 blockchain year is like 10 normal years. 😁
+> 
+> A digital war on the scale of 2 decades is a war of ideology.
+
+After all, there’s a common joke in the crypto space that 1 blockchain year is like 10 normal years. 😁
 
 So what does this have to do with Ethereum Classic? Well, we can see the “war” between Ethereum and Ethereum Classic as an ideological dispute. Without casting any personal judgement on the matter here, but if the Ethereum Classic folks believe their chain is the morally superior one, they cannot depend on that alone to grant them victory in the chain war.
 

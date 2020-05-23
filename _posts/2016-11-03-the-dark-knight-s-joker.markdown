@@ -4,7 +4,7 @@ title:	"The Dark Knight’s Joker"
 date:	2016-11-03
 image: /images/medium/1*8T-qxfh4Dj6DD3Ow79Tn4g.jpeg
 imagehero: true
-tags: Review
+tags: Literary
 ---
 
 The Dark Knight remains not only my favorite Nolan movie, but my favorite movie of all time. Both Christian Bale’s Bruce Wayne and Aaron Eckhart’s Two-Face were absolutely amazing, however they wane in comparison to Heath Ledger’s brilliant portrayal of the Joker.

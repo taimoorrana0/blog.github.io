@@ -15,7 +15,8 @@ At the store, however, I decided I needed to add some personal pizazz to the mix
 Fast forward a few hours at my friend’s house. What do you know? She doesn’t have any limes… Defeated, I thought my first cocktail mixing experience had ended before it even started. And then, my friend pointed to her shelf, and said “Well, I do have some oranges?” What the hell, they’re both citrus, I guess? Put my concoction together, and what do you know, it was damn good!
 
 
-![](/images/medium/1*JMeIgNyUHTeu-3OyBm3vsQ.png)
+![](/images/medium/1*JMeIgNyUHTeu-3OyBm3vsQ.png){: .center-image }
+
 
 Decided to name it a Florida Mule (cause oranges grow in Florida, at least according to the book [Tangerine](https://www.wikiwand.com/en/Tangerine_%28novel%29), which I for some reason have in my head since 5th grade english class). Since then, it’s become my signature cocktail! And so, without further ado, the recipe itself:
 

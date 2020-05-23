@@ -11,4 +11,4 @@ tags: Quote-of-the-Month
 >
 > ― **Robert M. Pirsig**
 
-![](/images/medium/1*QMVVnEXXTYXsEajK8WVfTg.jpeg)  
+![](/images/medium/1*QMVVnEXXTYXsEajK8WVfTg.jpeg)

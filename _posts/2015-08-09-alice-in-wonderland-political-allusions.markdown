@@ -2,7 +2,7 @@
 layout:	post
 title:	"Alice in Wonderland Political Allusions"
 date:	2015-08-09
-tags: Review, History
+tags: Literary, History
 image: /images/medium/1*8S1QJ7Zy_hSbnfbo3r1ZvA.jpeg
 ---
 

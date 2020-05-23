@@ -2,7 +2,7 @@
 layout:	post
 title:	"Hitchhiker’s Guide to the Galaxy"
 date:	2015-08-09
-tags: Review
+tags: Literary
 image: /images/medium/1*m07fUPYGXlDJBfc-26Jptw.jpeg
 imagehero: true
 ---

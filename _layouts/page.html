@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+
+{% if page.profile %}
+  {% include profile.html %}
+{% endif %}
+
 {% if page.image %}
 <div class="container">
   <div class="row">

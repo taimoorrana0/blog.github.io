@@ -1,10 +1,10 @@
 [
   
     {
-      "title"    : "Quote of the Month — April 2020-",
+      "title"    : "Quote of the Month — April 2020",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2020/04/29/quote-of-the-month-april-2020/",
+      "url"      : "/quote-of-the-month-april-2020.html",
       "date"     : "Apr 29, 2020"
     } ,
   
@@ -12,7 +12,7 @@
       "title"    : "Monetizing Smart Contracts with GasToken",
       "category" : "",
       "tags"     : "Blockchain",
-      "url"      : "/2020/04/07/monetizing-smart-contracts-with-gastoken/",
+      "url"      : "/monetizing-smart-contracts-with-gastoken.html",
       "date"     : "Apr 7, 2020"
     } ,
   
@@ -20,7 +20,7 @@
       "title"    : "War on Different Scales Addendum — The ETC Midgame",
       "category" : "",
       "tags"     : "Blockchain",
-      "url"      : "/2020/04/05/war-on-different-scales-addendum-the-etc-midgame/",
+      "url"      : "/war-on-different-scales-addendum-the-etc-midgame.html",
       "date"     : "Apr 5, 2020"
     } ,
   
@@ -28,15 +28,15 @@
       "title"    : "War on Different Scales",
       "category" : "",
       "tags"     : "History and Politics",
-      "url"      : "/2020/04/03/war-on-different-scales/",
+      "url"      : "/war-on-different-scales.html",
       "date"     : "Apr 3, 2020"
     } ,
   
     {
       "title"    : "Esmeralda of the Wolves",
       "category" : "",
-      "tags"     : "Review",
-      "url"      : "/2020/03/20/esmeralda-of-the-wolves/",
+      "tags"     : "Literary",
+      "url"      : "/esmeralda-of-the-wolves.html",
       "date"     : "Mar 20, 2020"
     } ,
   
@@ -44,7 +44,7 @@
       "title"    : "Generalized Slashing — Slash People, Not Coins",
       "category" : "",
       "tags"     : "Blockchain",
-      "url"      : "/2020/03/19/generalized-slashing-slash-people-not-coins/",
+      "url"      : "/generalized-slashing-slash-people-not-coins.html",
       "date"     : "Mar 19, 2020"
     } ,
   
@@ -52,7 +52,7 @@
       "title"    : "The 17th Amendment killed Federalism",
       "category" : "",
       "tags"     : "History",
-      "url"      : "/2020/03/12/the-17th-amendment-killed-federalism/",
+      "url"      : "/the-17th-amendment-killed-federalism.html",
       "date"     : "Mar 12, 2020"
     } ,
   
@@ -60,7 +60,7 @@
       "title"    : "Quote of the Month — March 2020",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2020/03/11/quote-of-the-month-march-2020/",
+      "url"      : "/quote-of-the-month-march-2020.html",
       "date"     : "Mar 11, 2020"
     } ,
   
@@ -68,7 +68,7 @@
       "title"    : "Quote of the Month — February 2020",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2020/02/27/quote-of-the-month-february-2020/",
+      "url"      : "/quote-of-the-month-february-2020.html",
       "date"     : "Feb 27, 2020"
     } ,
   
@@ -76,7 +76,7 @@
       "title"    : "DAOifying Uniswap Automated Market Maker Pools",
       "category" : "",
       "tags"     : "Blockchain",
-      "url"      : "/2020/02/13/daoifying-uniswap-automated-market-maker-pools/",
+      "url"      : "/daoifying-uniswap-automated-market-maker-pools.html",
       "date"     : "Feb 13, 2020"
     } ,
   
@@ -84,7 +84,7 @@
       "title"    : "Quote of the Month — January 2020",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2020/02/01/quote-of-the-month-january-2020/",
+      "url"      : "/quote-of-the-month-january-2020.html",
       "date"     : "Feb 1, 2020"
     } ,
   
@@ -92,7 +92,7 @@
       "title"    : "Quote of the Month — December 2019",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2019/12/31/quote-of-the-month-december-2019/",
+      "url"      : "/quote-of-the-month-december-2019.html",
       "date"     : "Dec 31, 2019"
     } ,
   
@@ -100,7 +100,7 @@
       "title"    : "The Memecoin Thesis",
       "category" : "",
       "tags"     : "Blockchain",
-      "url"      : "/2019/12/04/the-memecoin-thesis/",
+      "url"      : "/the-memecoin-thesis.html",
       "date"     : "Dec 4, 2019"
     } ,
   
@@ -108,7 +108,7 @@
       "title"    : "Back to Android",
       "category" : "",
       "tags"     : "Technology",
-      "url"      : "/2019/12/04/back-to-android/",
+      "url"      : "/back-to-android.html",
       "date"     : "Dec 4, 2019"
     } ,
   
@@ -116,7 +116,7 @@
       "title"    : "Switzerland Decal Lectures",
       "category" : "",
       "tags"     : "History",
-      "url"      : "/2019/11/21/switzerland-decal-lectures/",
+      "url"      : "/switzerland-decal-lectures.html",
       "date"     : "Nov 21, 2019"
     } ,
   
@@ -124,7 +124,7 @@
       "title"    : "Gasdrop",
       "category" : "",
       "tags"     : "Blockchain",
-      "url"      : "/2019/11/19/gasdrop/",
+      "url"      : "/gasdrop.html",
       "date"     : "Nov 19, 2019"
     } ,
   
@@ -132,7 +132,7 @@
       "title"    : "Fixing the Lockdrop",
       "category" : "",
       "tags"     : "Blockchain",
-      "url"      : "/2019/11/08/fixing-the-lockdrop/",
+      "url"      : "/fixing-the-lockdrop.html",
       "date"     : "Nov 8, 2019"
     } ,
   
@@ -140,7 +140,7 @@
       "title"    : "Quote of the Month — November 2019",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2019/11/03/quote-of-the-month-november-2019/",
+      "url"      : "/quote-of-the-month-november-2019.html",
       "date"     : "Nov 3, 2019"
     } ,
   
@@ -148,7 +148,7 @@
       "title"    : "Quote of the Month — October 2019",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2019/10/15/quote-of-the-month-october-2019/",
+      "url"      : "/quote-of-the-month-october-2019.html",
       "date"     : "Oct 15, 2019"
     } ,
   
@@ -156,7 +156,7 @@
       "title"    : "Quote of the Month — September 2019",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2019/09/30/quote-of-the-month-september-2019/",
+      "url"      : "/quote-of-the-month-september-2019.html",
       "date"     : "Sep 30, 2019"
     } ,
   
@@ -164,7 +164,7 @@
       "title"    : "Cosmos ❤ Interledger",
       "category" : "",
       "tags"     : "Blockchain",
-      "url"      : "/2019/09/23/cosmos-interledger/",
+      "url"      : "/cosmos-interledger.html",
       "date"     : "Sep 23, 2019"
     } ,
   
@@ -172,7 +172,7 @@
       "title"    : "Quote of the Month — August 2019",
       "category" : "",
       "tags"     : "Quote-of-the-Month and History",
-      "url"      : "/2019/08/26/quote-of-the-month-august-2019/",
+      "url"      : "/quote-of-the-month-august-2019.html",
       "date"     : "Aug 26, 2019"
     } ,
   
@@ -180,7 +180,7 @@
       "title"    : "Quote of the Month — July 2019",
       "category" : "",
       "tags"     : "Quote-of-the-Month and Politics",
-      "url"      : "/2019/07/22/quote-of-the-month-july-2019/",
+      "url"      : "/quote-of-the-month-july-2019.html",
       "date"     : "Jul 22, 2019"
     } ,
   
@@ -188,7 +188,7 @@
       "title"    : "Conspiratus Podcast #5: Zebras and Libras",
       "category" : "",
       "tags"     : "Blockchain",
-      "url"      : "/2019/07/03/conspiratus-podcast-5-zebras-and-libras/",
+      "url"      : "/conspiratus-podcast-5-zebras-and-libras.html",
       "date"     : "Jul 3, 2019"
     } ,
   
@@ -196,7 +196,7 @@
       "title"    : "Quote of the Month — June 2",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2019/06/30/quote-of-the-month-june-2/",
+      "url"      : "/quote-of-the-month-june-2.html",
       "date"     : "Jun 30, 2019"
     } ,
   
@@ -204,7 +204,7 @@
       "title"    : "Conspiratus Podcast #4: Social Contracts and Social Capital",
       "category" : "",
       "tags"     : "Blockchain",
-      "url"      : "/2019/06/07/conspiratus-podcast-4-social-contracts-and-social-capital/",
+      "url"      : "/conspiratus-podcast-4-social-contracts-and-social-capital.html",
       "date"     : "Jun 7, 2019"
     } ,
   
@@ -212,7 +212,7 @@
       "title"    : "Conspiratus Podcast #3: A Cosmic Commotion",
       "category" : "",
       "tags"     : "Blockchain",
-      "url"      : "/2019/06/04/conspiratus-podcast-3-a-cosmic-commotion/",
+      "url"      : "/conspiratus-podcast-3-a-cosmic-commotion.html",
       "date"     : "Jun 4, 2019"
     } ,
   
@@ -220,7 +220,7 @@
       "title"    : "Quote of the Month — May 2019",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2019/05/26/quote-of-the-month-may-2019/",
+      "url"      : "/quote-of-the-month-may-2019.html",
       "date"     : "May 26, 2019"
     } ,
   
@@ -228,7 +228,7 @@
       "title"    : "Quote of the Month — April 2019",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2019/05/02/quote-of-the-month-april-2019/",
+      "url"      : "/quote-of-the-month-april-2019.html",
       "date"     : "May 2, 2019"
     } ,
   
@@ -236,7 +236,7 @@
       "title"    : "Conspiratus Podcast #2: The Elephant in the Room",
       "category" : "",
       "tags"     : "Blockchain",
-      "url"      : "/2019/04/08/conspiratus-podcast-2-the-elephant-in-the-room/",
+      "url"      : "/conspiratus-podcast-2-the-elephant-in-the-room.html",
       "date"     : "Apr 8, 2019"
     } ,
   
@@ -244,7 +244,7 @@
       "title"    : "Quote of the Month — March 2019",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2019/03/31/quote-of-the-month-march-2019/",
+      "url"      : "/quote-of-the-month-march-2019.html",
       "date"     : "Mar 31, 2019"
     } ,
   
@@ -252,7 +252,7 @@
       "title"    : "Legacy and American Universities",
       "category" : "",
       "tags"     : "Politics",
-      "url"      : "/2019/03/29/legacy-and-american-universities/",
+      "url"      : "/legacy-and-american-universities.html",
       "date"     : "Mar 29, 2019"
     } ,
   
@@ -260,7 +260,7 @@
       "title"    : "Of Flying Helicarriers and the Depressing State of Technology",
       "category" : "",
       "tags"     : "Technology and Politics",
-      "url"      : "/2019/03/02/of-flying-helicarriers-and-the-depressing-state-of-technology/",
+      "url"      : "/of-flying-helicarriers-and-the-depressing-state-of-technology.html",
       "date"     : "Mar 2, 2019"
     } ,
   
@@ -268,7 +268,7 @@
       "title"    : "Quote of the Month — February 2019",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2019/02/13/quote-of-the-month-february-2019/",
+      "url"      : "/quote-of-the-month-february-2019.html",
       "date"     : "Feb 13, 2019"
     } ,
   
@@ -276,7 +276,7 @@
       "title"    : "Florida Mule",
       "category" : "",
       "tags"     : "Recipes",
-      "url"      : "/2019/01/20/florida-mule/",
+      "url"      : "/florida-mule.html",
       "date"     : "Jan 20, 2019"
     } ,
   
@@ -284,7 +284,7 @@
       "title"    : "Quote of the Month — January 2019",
       "category" : "",
       "tags"     : "Quote-of-the-Month and History",
-      "url"      : "/2019/01/15/quote-of-the-month-january-2019/",
+      "url"      : "/quote-of-the-month-january-2019.html",
       "date"     : "Jan 15, 2019"
     } ,
   
@@ -292,7 +292,7 @@
       "title"    : "Quote of the Month — December 2018",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2018/12/13/quote-of-the-month-december-2018/",
+      "url"      : "/quote-of-the-month-december-2018.html",
       "date"     : "Dec 13, 2018"
     } ,
   
@@ -300,7 +300,7 @@
       "title"    : "Quote of the Month — November 2018",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2018/11/19/quote-of-the-month-november-2018/",
+      "url"      : "/quote-of-the-month-november-2018.html",
       "date"     : "Nov 19, 2018"
     } ,
   
@@ -308,7 +308,7 @@
       "title"    : "Cosmos SDK Tutorial — Nameshake",
       "category" : "",
       "tags"     : "Blockchain",
-      "url"      : "/2018/10/24/cosmos-sdk-tutorial-nameshake/",
+      "url"      : "/cosmos-sdk-tutorial-nameshake.html",
       "date"     : "Oct 24, 2018"
     } ,
   
@@ -316,7 +316,7 @@
       "title"    : "Quote of the Month — October 2018",
       "category" : "",
       "tags"     : "Quote-of-the-Month and Technology",
-      "url"      : "/2018/10/21/quote-of-the-month-october-2018/",
+      "url"      : "/quote-of-the-month-october-2018.html",
       "date"     : "Oct 21, 2018"
     } ,
   
@@ -324,7 +324,7 @@
       "title"    : "Quote of the Month — September 2018",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2018/09/23/quote-of-the-month-september-2018/",
+      "url"      : "/quote-of-the-month-september-2018.html",
       "date"     : "Sep 23, 2018"
     } ,
   
@@ -332,7 +332,7 @@
       "title"    : "Quote of the Month — August 2018",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2018/08/16/quote-of-the-month-august-2018/",
+      "url"      : "/quote-of-the-month-august-2018.html",
       "date"     : "Aug 16, 2018"
     } ,
   
@@ -340,7 +340,7 @@
       "title"    : "Quote of the Month — July 2018",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2018/07/19/quote-of-the-month-july-2018/",
+      "url"      : "/quote-of-the-month-july-2018.html",
       "date"     : "Jul 19, 2018"
     } ,
   
@@ -348,7 +348,7 @@
       "title"    : "Epicenter — Etherum Classic with Anthony Lusardi",
       "category" : "",
       "tags"     : "Blockchain, and Epicenter",
-      "url"      : "/2018/07/17/epicenter-etherum-classic-with-anthony-lusardi/",
+      "url"      : "/epicenter-etherum-classic-with-anthony-lusardi.html",
       "date"     : "Jul 17, 2018"
     } ,
   
@@ -356,7 +356,7 @@
       "title"    : "Quote of the Month — June 2018",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2018/07/02/quote-of-the-month-june-2018/",
+      "url"      : "/quote-of-the-month-june-2018.html",
       "date"     : "Jul 2, 2018"
     } ,
   
@@ -364,7 +364,7 @@
       "title"    : "Epicenter",
       "category" : "",
       "tags"     : "Blockchain, and Epicenter",
-      "url"      : "/2018/07/02/epicenter/",
+      "url"      : "/epicenter.html",
       "date"     : "Jul 2, 2018"
     } ,
   
@@ -372,7 +372,7 @@
       "title"    : "Quote of the Month — May 2018",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2018/06/01/quote-of-the-month-may-2018/",
+      "url"      : "/quote-of-the-month-may-2018.html",
       "date"     : "Jun 1, 2018"
     } ,
   
@@ -380,7 +380,7 @@
       "title"    : "Quote of the Month — April 2018",
       "category" : "",
       "tags"     : "Quote-of-the-Month and Technology",
-      "url"      : "/2018/05/02/quote-of-the-month-april-2018/",
+      "url"      : "/quote-of-the-month-april-2018.html",
       "date"     : "May 2, 2018"
     } ,
   
@@ -388,7 +388,7 @@
       "title"    : "Introducing the Anti-Atom",
       "category" : "",
       "tags"     : "Blockchain, and Cosmos",
-      "url"      : "/2018/04/01/introducing-the-anti-atom/",
+      "url"      : "/introducing-the-anti-atom.html",
       "date"     : "Apr 1, 2018"
     } ,
   
@@ -396,7 +396,7 @@
       "title"    : "Quote of the Month: March 2018",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2018/03/30/quote-of-the-month-march-2018/",
+      "url"      : "/quote-of-the-month-march-2018.html",
       "date"     : "Mar 30, 2018"
     } ,
   
@@ -404,7 +404,7 @@
       "title"    : "Quote of the Month: February 2018",
       "category" : "",
       "tags"     : "Quote-of-the-Month and Politics",
-      "url"      : "/2018/02/26/quote-of-the-month-february-2018/",
+      "url"      : "/quote-of-the-month-february-2018.html",
       "date"     : "Feb 26, 2018"
     } ,
   
@@ -412,7 +412,7 @@
       "title"    : "Podcast Episode #0 — Introduction",
       "category" : "",
       "tags"     : "Blockchain, and Conspiratus",
-      "url"      : "/2018/01/16/podcast-episode-0-introduction/",
+      "url"      : "/podcast-episode-0-introduction.html",
       "date"     : "Jan 16, 2018"
     } ,
   
@@ -420,7 +420,7 @@
       "title"    : "Quote of the Month: January 2018",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2018/01/15/quote-of-the-month-january-2018/",
+      "url"      : "/quote-of-the-month-january-2018.html",
       "date"     : "Jan 15, 2018"
     } ,
   
@@ -428,7 +428,7 @@
       "title"    : "Blockchain Protocol Governance Resources",
       "category" : "",
       "tags"     : "Blockchain, and Politics",
-      "url"      : "/2018/01/13/blockchain-protocol-governance-resources/",
+      "url"      : "/blockchain-protocol-governance-resources.html",
       "date"     : "Jan 13, 2018"
     } ,
   
@@ -436,7 +436,7 @@
       "title"    : "Quote of the Month: December 2017",
       "category" : "",
       "tags"     : "Quote-of-the-Month and Politics",
-      "url"      : "/2017/12/27/quote-of-the-month-december-2017/",
+      "url"      : "/quote-of-the-month-december-2017.html",
       "date"     : "Dec 27, 2017"
     } ,
   
@@ -444,7 +444,7 @@
       "title"    : "Sunny’s Blockchain for Beginners FAQ",
       "category" : "",
       "tags"     : "Blockchain",
-      "url"      : "/2017/12/21/sunny-s-blockchain-for-beginners-faq/",
+      "url"      : "/sunny-s-blockchain-for-beginners-faq.html",
       "date"     : "Dec 21, 2017"
     } ,
   
@@ -452,7 +452,7 @@
       "title"    : "Unpopular Ideas about Blockchains",
       "category" : "",
       "tags"     : "Blockchain",
-      "url"      : "/2017/11/26/unpopular-ideas-about-blockchains/",
+      "url"      : "/unpopular-ideas-about-blockchains.html",
       "date"     : "Nov 26, 2017"
     } ,
   
@@ -460,7 +460,7 @@
       "title"    : "Quote of the Month: November 2017",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2017/11/24/quote-of-the-month-november-2017/",
+      "url"      : "/quote-of-the-month-november-2017.html",
       "date"     : "Nov 24, 2017"
     } ,
   
@@ -468,7 +468,7 @@
       "title"    : "Quote of the Month: October 2017",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2017/10/19/quote-of-the-month-october-2017/",
+      "url"      : "/quote-of-the-month-october-2017.html",
       "date"     : "Oct 19, 2017"
     } ,
   
@@ -476,7 +476,7 @@
       "title"    : "Thoughts on Iota",
       "category" : "",
       "tags"     : "Blockchain",
-      "url"      : "/2017/10/09/thoughts-on-iota/",
+      "url"      : "/thoughts-on-iota.html",
       "date"     : "Oct 9, 2017"
     } ,
   
@@ -484,7 +484,7 @@
       "title"    : "Architecting Internet of Blockchains Slides",
       "category" : "",
       "tags"     : "Blockchain and Cosmos",
-      "url"      : "/2017/09/15/architecting-internet-of-blockchains-slides/",
+      "url"      : "/architecting-internet-of-blockchains-slides.html",
       "date"     : "Sep 15, 2017"
     } ,
   
@@ -492,7 +492,7 @@
       "title"    : "Quote of the Month: September 2017",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2017/09/09/quote-of-the-month-september-2017/",
+      "url"      : "/quote-of-the-month-september-2017.html",
       "date"     : "Sep 9, 2017"
     } ,
   
@@ -500,7 +500,7 @@
       "title"    : "Quote of the Month: August 2017",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2017/08/29/quote-of-the-month-august-2017/",
+      "url"      : "/quote-of-the-month-august-2017.html",
       "date"     : "Aug 29, 2017"
     } ,
   
@@ -508,7 +508,7 @@
       "title"    : "Quote of the Month: July 2017",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2017/07/28/quote-of-the-month-july-2017/",
+      "url"      : "/quote-of-the-month-july-2017.html",
       "date"     : "Jul 28, 2017"
     } ,
   
@@ -516,7 +516,7 @@
       "title"    : "Thoughts on Tezos",
       "category" : "",
       "tags"     : "Blockchain",
-      "url"      : "/2017/07/11/thoughts-on-tezos/",
+      "url"      : "/thoughts-on-tezos.html",
       "date"     : "Jul 11, 2017"
     } ,
   
@@ -524,7 +524,7 @@
       "title"    : "Quote of the Month: June 2017",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2017/06/27/quote-of-the-month-june-2017/",
+      "url"      : "/quote-of-the-month-june-2017.html",
       "date"     : "Jun 27, 2017"
     } ,
   
@@ -532,7 +532,7 @@
       "title"    : "Understanding Ether vs Gas",
       "category" : "",
       "tags"     : "Blockchain",
-      "url"      : "/2017/06/17/understanding-ether-vs-gas/",
+      "url"      : "/understanding-ether-vs-gas.html",
       "date"     : "Jun 17, 2017"
     } ,
   
@@ -540,7 +540,7 @@
       "title"    : "Flooded Seeds in the Arctic",
       "category" : "",
       "tags"     : "Environment",
-      "url"      : "/2017/06/01/flooded-seeds-in-the-arctic/",
+      "url"      : "/flooded-seeds-in-the-arctic.html",
       "date"     : "Jun 1, 2017"
     } ,
   
@@ -548,7 +548,7 @@
       "title"    : "Quote of the Month: May 2017",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2017/05/24/quote-of-the-month-may-2017/",
+      "url"      : "/quote-of-the-month-may-2017.html",
       "date"     : "May 24, 2017"
     } ,
   
@@ -556,7 +556,7 @@
       "title"    : "MoneroLink",
       "category" : "",
       "tags"     : "Blockchain",
-      "url"      : "/2017/05/11/monerolink/",
+      "url"      : "/monerolink.html",
       "date"     : "May 11, 2017"
     } ,
   
@@ -564,7 +564,7 @@
       "title"    : "Innovation through Economic States of Exception",
       "category" : "",
       "tags"     : "Technology,, Politics,, and History",
-      "url"      : "/2017/05/06/innovation-through-economic-states-of-exception/",
+      "url"      : "/innovation-through-economic-states-of-exception.html",
       "date"     : "May 6, 2017"
     } ,
   
@@ -572,7 +572,7 @@
       "title"    : "Quote of the Month: April 2017",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2017/04/17/quote-of-the-month-april-2017/",
+      "url"      : "/quote-of-the-month-april-2017.html",
       "date"     : "Apr 17, 2017"
     } ,
   
@@ -580,7 +580,7 @@
       "title"    : "Storj Whitepaper Presentation",
       "category" : "",
       "tags"     : "Blockchain",
-      "url"      : "/2017/04/01/storj-whitepaper-presentation/",
+      "url"      : "/storj-whitepaper-presentation.html",
       "date"     : "Apr 1, 2017"
     } ,
   
@@ -588,7 +588,7 @@
       "title"    : "The Pirate Party is Ready to Commandeer the ASUC!",
       "category" : "",
       "tags"     : "Politics, and Berkeley",
-      "url"      : "/2017/03/21/the-pirate-party-is-ready-to-commandeer-the-asuc/",
+      "url"      : "/the-pirate-party-is-ready-to-commandeer-the-asuc.html",
       "date"     : "Mar 21, 2017"
     } ,
   
@@ -596,7 +596,7 @@
       "title"    : "IOTA Tangle Whitepaper Presentation",
       "category" : "",
       "tags"     : "Blockchain",
-      "url"      : "/2017/03/19/iota-tangle-whitepaper-presentation/",
+      "url"      : "/iota-tangle-whitepaper-presentation.html",
       "date"     : "Mar 19, 2017"
     } ,
   
@@ -604,7 +604,7 @@
       "title"    : "Quote of the Month: March 2017",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2017/03/09/quote-of-the-month-march-2017/",
+      "url"      : "/quote-of-the-month-march-2017.html",
       "date"     : "Mar 9, 2017"
     } ,
   
@@ -612,7 +612,7 @@
       "title"    : "Creating Financial Systems",
       "category" : "",
       "tags"     : "Quote-of-the-Month and Blockchain",
-      "url"      : "/2017/02/27/creating-financial-systems/",
+      "url"      : "/creating-financial-systems.html",
       "date"     : "Feb 27, 2017"
     } ,
   
@@ -620,7 +620,7 @@
       "title"    : "Educational YouTube Channels",
       "category" : "",
       "tags"     : "Education",
-      "url"      : "/2017/02/26/educational-youtube-channels/",
+      "url"      : "/educational-youtube-channels.html",
       "date"     : "Feb 26, 2017"
     } ,
   
@@ -628,7 +628,7 @@
       "title"    : "Quote of the Month: February 2017",
       "category" : "",
       "tags"     : "Quote-of-the-Month and Technology",
-      "url"      : "/2017/02/24/quote-of-the-month-february-2017/",
+      "url"      : "/quote-of-the-month-february-2017.html",
       "date"     : "Feb 24, 2017"
     } ,
   
@@ -636,7 +636,7 @@
       "title"    : "Go West, Young Man",
       "category" : "",
       "tags"     : "Berkeley",
-      "url"      : "/2017/02/18/go-west-young-man/",
+      "url"      : "/go-west-young-man.html",
       "date"     : "Feb 18, 2017"
     } ,
   
@@ -644,7 +644,7 @@
       "title"    : "How Abandoning the Gold Standard helped the Rise of Centrally Planned Economies",
       "category" : "",
       "tags"     : "Economics and History",
-      "url"      : "/2017/01/26/how-abandoning-the-gold-standard-helped-the-rise-of-centrally-planned-economies/",
+      "url"      : "/how-abandoning-the-gold-standard-helped-the-rise-of-centrally-planned-economies.html",
       "date"     : "Jan 26, 2017"
     } ,
   
@@ -652,7 +652,7 @@
       "title"    : "Steaming Box Remotes",
       "category" : "",
       "tags"     : "Technology, and Design",
-      "url"      : "/2017/01/22/steaming-box-remotes/",
+      "url"      : "/steaming-box-remotes.html",
       "date"     : "Jan 22, 2017"
     } ,
   
@@ -660,7 +660,7 @@
       "title"    : "Quote of the Month: January 2017",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2017/01/07/quote-of-the-month-january-2017/",
+      "url"      : "/quote-of-the-month-january-2017.html",
       "date"     : "Jan 7, 2017"
     } ,
   
@@ -668,7 +668,7 @@
       "title"    : "Quote of the Month: December 2016",
       "category" : "",
       "tags"     : "Quote-of-the-Month, and Politics",
-      "url"      : "/2016/12/28/quote-of-the-month-december-2016/",
+      "url"      : "/quote-of-the-month-december-2016.html",
       "date"     : "Dec 28, 2016"
     } ,
   
@@ -676,7 +676,7 @@
       "title"    : "Switzerland and Belgium: Two Approaches to a Multilingual State",
       "category" : "",
       "tags"     : "History, and Politics",
-      "url"      : "/2016/12/19/switzerland-and-belgium-two-approaches-to-a-multilingual-state/",
+      "url"      : "/switzerland-and-belgium-two-approaches-to-a-multilingual-state.html",
       "date"     : "Dec 19, 2016"
     } ,
   
@@ -684,7 +684,7 @@
       "title"    : "Free Society",
       "category" : "",
       "tags"     : "Politics",
-      "url"      : "/2016/12/11/free-society/",
+      "url"      : "/free-society.html",
       "date"     : "Dec 11, 2016"
     } ,
   
@@ -692,7 +692,7 @@
       "title"    : "Quote of the Month: November 2016",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2016/11/29/quote-of-the-month-november-2016/",
+      "url"      : "/quote-of-the-month-november-2016.html",
       "date"     : "Nov 29, 2016"
     } ,
   
@@ -700,7 +700,7 @@
       "title"    : "Repeal the Electoral College",
       "category" : "",
       "tags"     : "Politics",
-      "url"      : "/2016/11/18/repeal-the-electoral-college/",
+      "url"      : "/repeal-the-electoral-college.html",
       "date"     : "Nov 18, 2016"
     } ,
   
@@ -708,7 +708,7 @@
       "title"    : "Election Day",
       "category" : "",
       "tags"     : "Politics",
-      "url"      : "/2016/11/14/election-day/",
+      "url"      : "/election-day.html",
       "date"     : "Nov 14, 2016"
     } ,
   
@@ -716,15 +716,15 @@
       "title"    : "An Ancien ‘Military’ Régime: Nationalism in the French Revolutionary Army",
       "category" : "",
       "tags"     : "History",
-      "url"      : "/2016/11/06/an-ancien-military-r-gime-nationalism-in-the-french-revolutionary-army/",
+      "url"      : "/an-ancien-military-r-gime-nationalism-in-the-french-revolutionary-army.html",
       "date"     : "Nov 6, 2016"
     } ,
   
     {
       "title"    : "The Dark Knight’s Joker",
       "category" : "",
-      "tags"     : "Review",
-      "url"      : "/2016/11/03/the-dark-knight-s-joker/",
+      "tags"     : "Literary",
+      "url"      : "/the-dark-knight-s-joker.html",
       "date"     : "Nov 3, 2016"
     } ,
   
@@ -732,7 +732,7 @@
       "title"    : "British Colonialism and Social Change in the Metropole",
       "category" : "",
       "tags"     : "History",
-      "url"      : "/2016/11/01/british-colonialism-and-social-change-in-the-metropole/",
+      "url"      : "/british-colonialism-and-social-change-in-the-metropole.html",
       "date"     : "Nov 1, 2016"
     } ,
   
@@ -740,15 +740,15 @@
       "title"    : "Quote of the Month: October 2016",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2016/10/11/quote-of-the-month-october-2016/",
+      "url"      : "/quote-of-the-month-october-2016.html",
       "date"     : "Oct 11, 2016"
     } ,
   
     {
       "title"    : "Batman Begins: The Definitive Origin Story",
       "category" : "",
-      "tags"     : "Review",
-      "url"      : "/2016/10/04/batman-begins-the-definitive-origin-story/",
+      "tags"     : "Literary",
+      "url"      : "/batman-begins-the-definitive-origin-story.html",
       "date"     : "Oct 4, 2016"
     } ,
   
@@ -756,15 +756,15 @@
       "title"    : "Quote of the Month: September 2016",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2016/09/28/quote-of-the-month-september-2016/",
+      "url"      : "/quote-of-the-month-september-2016.html",
       "date"     : "Sep 28, 2016"
     } ,
   
     {
       "title"    : "Insomnia — A Nolan Film? (Spoilers)",
       "category" : "",
-      "tags"     : "Review",
-      "url"      : "/2016/09/20/insomnia-a-nolan-film-spoilers/",
+      "tags"     : "Literary",
+      "url"      : "/insomnia-a-nolan-film-spoilers.html",
       "date"     : "Sep 20, 2016"
     } ,
   
@@ -772,7 +772,7 @@
       "title"    : "The Commission on Presidential Debates",
       "category" : "",
       "tags"     : "Politics",
-      "url"      : "/2016/09/18/the-commission-on-presidential-debates/",
+      "url"      : "/the-commission-on-presidential-debates.html",
       "date"     : "Sep 18, 2016"
     } ,
   
@@ -780,7 +780,7 @@
       "title"    : "Seven Feelings",
       "category" : "",
       "tags"     : "",
-      "url"      : "/2016/09/17/seven-feelings/",
+      "url"      : "/seven-feelings.html",
       "date"     : "Sep 17, 2016"
     } ,
   
@@ -788,15 +788,15 @@
       "title"    : "Defining the Nation-State",
       "category" : "",
       "tags"     : "History, and Politics",
-      "url"      : "/2016/09/15/defining-the-nation-state/",
+      "url"      : "/defining-the-nation-state.html",
       "date"     : "Sep 15, 2016"
     } ,
   
     {
       "title"    : "The Following Film Style",
       "category" : "",
-      "tags"     : "Review",
-      "url"      : "/2016/09/06/the-following-film-style/",
+      "tags"     : "Literary",
+      "url"      : "/the-following-film-style.html",
       "date"     : "Sep 6, 2016"
     } ,
   
@@ -804,7 +804,7 @@
       "title"    : "Quote of the Month: August 2016",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2016/08/14/quote-of-the-month-august-2016/",
+      "url"      : "/quote-of-the-month-august-2016.html",
       "date"     : "Aug 14, 2016"
     } ,
   
@@ -812,7 +812,7 @@
       "title"    : "Why I Study the Social Sciences?",
       "category" : "",
       "tags"     : "History,, Politics,, and Economics",
-      "url"      : "/2016/08/07/why-i-study-the-social-sciences/",
+      "url"      : "/why-i-study-the-social-sciences.html",
       "date"     : "Aug 7, 2016"
     } ,
   
@@ -820,7 +820,7 @@
       "title"    : "Why Third Parties Matter",
       "category" : "",
       "tags"     : "Politics",
-      "url"      : "/2016/08/01/why-third-parties-matter/",
+      "url"      : "/why-third-parties-matter.html",
       "date"     : "Aug 1, 2016"
     } ,
   
@@ -828,7 +828,7 @@
       "title"    : "Illumio Intern Experience",
       "category" : "",
       "tags"     : "Technology, and Startups",
-      "url"      : "/2016/07/27/illumio-intern-experience/",
+      "url"      : "/illumio-intern-experience.html",
       "date"     : "Jul 27, 2016"
     } ,
   
@@ -836,7 +836,7 @@
       "title"    : "Quote of the Month: July 2016",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2016/07/08/quote-of-the-month-july-2016/",
+      "url"      : "/quote-of-the-month-july-2016.html",
       "date"     : "Jul 8, 2016"
     } ,
   
@@ -844,7 +844,7 @@
       "title"    : "CEGA Trace Research Project Reflection",
       "category" : "",
       "tags"     : "Data and Science",
-      "url"      : "/2016/06/19/cega-trace-research-project-reflection/",
+      "url"      : "/cega-trace-research-project-reflection.html",
       "date"     : "Jun 19, 2016"
     } ,
   
@@ -852,7 +852,7 @@
       "title"    : "Quote of the Month: June 2016",
       "category" : "",
       "tags"     : "Quote-of-the-Month, and Startups",
-      "url"      : "/2016/06/17/quote-of-the-month-june-2016/",
+      "url"      : "/quote-of-the-month-june-2016.html",
       "date"     : "Jun 17, 2016"
     } ,
   
@@ -860,7 +860,7 @@
       "title"    : "Eagle Scout Court of Honor Speech",
       "category" : "",
       "tags"     : "",
-      "url"      : "/2016/05/21/eagle-scout-court-of-honor-speech/",
+      "url"      : "/eagle-scout-court-of-honor-speech.html",
       "date"     : "May 21, 2016"
     } ,
   
@@ -868,7 +868,7 @@
       "title"    : "Quote of the Month: May 2016",
       "category" : "",
       "tags"     : "Quote-of-the-Month",
-      "url"      : "/2016/05/14/quote-of-the-month-may-2016/",
+      "url"      : "/quote-of-the-month-may-2016.html",
       "date"     : "May 14, 2016"
     } ,
   
@@ -876,15 +876,15 @@
       "title"    : "Quote of the Month: April 2016",
       "category" : "",
       "tags"     : "Quote-of-the-Month, and Education",
-      "url"      : "/2016/04/18/quote-of-the-month-april-2016/",
+      "url"      : "/quote-of-the-month-april-2016.html",
       "date"     : "Apr 18, 2016"
     } ,
   
     {
       "title"    : "Littlefinger’s Sabotage",
       "category" : "",
-      "tags"     : "Review",
-      "url"      : "/2016/02/16/littlefinger-s-sabotage/",
+      "tags"     : "Literary",
+      "url"      : "/littlefinger-s-sabotage.html",
       "date"     : "Feb 16, 2016"
     } ,
   
@@ -892,7 +892,7 @@
       "title"    : "5 Things to Think About when Choosing a College",
       "category" : "",
       "tags"     : "",
-      "url"      : "/2016/02/01/5-things-to-think-about-when-choosing-a-college/",
+      "url"      : "/5-things-to-think-about-when-choosing-a-college.html",
       "date"     : "Feb 1, 2016"
     } ,
   
@@ -900,7 +900,7 @@
       "title"    : "Government and Innovation",
       "category" : "",
       "tags"     : "Politics, and Technology",
-      "url"      : "/2015/12/10/government-and-innovation/",
+      "url"      : "/government-and-innovation.html",
       "date"     : "Dec 10, 2015"
     } ,
   
@@ -908,15 +908,15 @@
       "title"    : "Bringing Two-Way Streets to Berkeley Southside",
       "category" : "",
       "tags"     : "Berkeley",
-      "url"      : "/2015/11/30/bringing-two-way-streets-to-berkeley-southside/",
+      "url"      : "/bringing-two-way-streets-to-berkeley-southside.html",
       "date"     : "Nov 30, 2015"
     } ,
   
     {
       "title"    : "Animal Farm Responses",
       "category" : "",
-      "tags"     : "Review,, Politics,, and History",
-      "url"      : "/2015/10/28/animal-farm-responses/",
+      "tags"     : "Literary,, Politics,, and History",
+      "url"      : "/animal-farm-responses.html",
       "date"     : "Oct 28, 2015"
     } ,
   
@@ -924,7 +924,7 @@
       "title"    : "Icarus",
       "category" : "",
       "tags"     : "",
-      "url"      : "/2015/10/15/icarus/",
+      "url"      : "/icarus.html",
       "date"     : "Oct 15, 2015"
     } ,
   
@@ -932,7 +932,7 @@
       "title"    : "PIF just got TechCrunched!",
       "category" : "",
       "tags"     : "Startups",
-      "url"      : "/2015/10/12/pif-just-got-techcrunched/",
+      "url"      : "/pif-just-got-techcrunched.html",
       "date"     : "Oct 12, 2015"
     } ,
   
@@ -940,7 +940,7 @@
       "title"    : "Whites’ Perception of Black Prison Populations mirror Incarceration Reform Support",
       "category" : "",
       "tags"     : "Politics",
-      "url"      : "/2015/10/07/whites-perception-of-black-prison-populations-mirror-incarceration-reform-support/",
+      "url"      : "/whites-perception-of-black-prison-populations-mirror-incarceration-reform-support.html",
       "date"     : "Oct 7, 2015"
     } ,
   
@@ -948,7 +948,7 @@
       "title"    : "How We Hacked TechCrunch Disrupt",
       "category" : "",
       "tags"     : "Startups",
-      "url"      : "/2015/10/06/how-we-hacked-techcrunch-disrupt/",
+      "url"      : "/how-we-hacked-techcrunch-disrupt.html",
       "date"     : "Oct 6, 2015"
     } ,
   
@@ -956,7 +956,7 @@
       "title"    : "A Group Story",
       "category" : "",
       "tags"     : "",
-      "url"      : "/2015/09/16/a-group-story/",
+      "url"      : "/a-group-story.html",
       "date"     : "Sep 16, 2015"
     } ,
   
@@ -964,15 +964,15 @@
       "title"    : "The Rhetoric Behind the Silent Car",
       "category" : "",
       "tags"     : "",
-      "url"      : "/2015/09/10/the-rhetoric-behind-the-silent-car/",
+      "url"      : "/the-rhetoric-behind-the-silent-car.html",
       "date"     : "Sep 10, 2015"
     } ,
   
     {
       "title"    : "A Modern Winter’s Tale",
       "category" : "",
-      "tags"     : "Review",
-      "url"      : "/2015/09/09/a-modern-winter-s-tale/",
+      "tags"     : "Literary",
+      "url"      : "/a-modern-winter-s-tale.html",
       "date"     : "Sep 9, 2015"
     } ,
   
@@ -980,15 +980,15 @@
       "title"    : "Why I Am Not a Christian by Bertrand Russell",
       "category" : "",
       "tags"     : "Religion",
-      "url"      : "/2015/08/30/why-i-am-not-a-christian-by-bertrand-russell/",
+      "url"      : "/why-i-am-not-a-christian-by-bertrand-russell.html",
       "date"     : "Aug 30, 2015"
     } ,
   
     {
       "title"    : "Virgil: The Epic Poet",
       "category" : "",
-      "tags"     : "Review, and History",
-      "url"      : "/2015/08/17/virgil-the-epic-poet/",
+      "tags"     : "Literary, and History",
+      "url"      : "/virgil-the-epic-poet.html",
       "date"     : "Aug 17, 2015"
     } ,
   
@@ -996,7 +996,7 @@
       "title"    : "From Sea to Shining Sea: The Birth of Union Pacific",
       "category" : "",
       "tags"     : "History",
-      "url"      : "/2015/08/17/from-sea-to-shining-sea-the-birth-of-union-pacific/",
+      "url"      : "/from-sea-to-shining-sea-the-birth-of-union-pacific.html",
       "date"     : "Aug 17, 2015"
     } ,
   
@@ -1004,7 +1004,7 @@
       "title"    : "What are we responsible for?",
       "category" : "",
       "tags"     : "Philosophy",
-      "url"      : "/2015/08/09/what-are-we-responsible-for/",
+      "url"      : "/what-are-we-responsible-for.html",
       "date"     : "Aug 9, 2015"
     } ,
   
@@ -1012,39 +1012,39 @@
       "title"    : "Slavery in United States",
       "category" : "",
       "tags"     : "Politics",
-      "url"      : "/2015/08/09/slavery-in-united-states/",
+      "url"      : "/slavery-in-united-states.html",
       "date"     : "Aug 9, 2015"
     } ,
   
     {
       "title"    : "Night by Eli Wiesel",
       "category" : "",
-      "tags"     : "History, and Review",
-      "url"      : "/2015/08/09/night-by-eli-wiesel/",
+      "tags"     : "History, and Literary",
+      "url"      : "/night-by-eli-wiesel.html",
       "date"     : "Aug 9, 2015"
     } ,
   
     {
       "title"    : "Hitchhiker’s Guide to the Galaxy",
       "category" : "",
-      "tags"     : "Review",
-      "url"      : "/2015/08/09/hitchhiker-s-guide-to-the-galaxy/",
+      "tags"     : "Literary",
+      "url"      : "/hitchhiker-s-guide-to-the-galaxy.html",
       "date"     : "Aug 9, 2015"
     } ,
   
     {
       "title"    : "Alice in Wonderland Political Allusions",
       "category" : "",
-      "tags"     : "Review, and History",
-      "url"      : "/2015/08/09/alice-in-wonderland-political-allusions/",
+      "tags"     : "Literary, and History",
+      "url"      : "/alice-in-wonderland-political-allusions.html",
       "date"     : "Aug 9, 2015"
     } ,
   
     {
       "title"    : "“Conspiracy” Movie",
       "category" : "",
-      "tags"     : "Review, and History",
-      "url"      : "/2015/08/09/conspiracy-movie/",
+      "tags"     : "Literary, and History",
+      "url"      : "/conspiracy-movie.html",
       "date"     : "Aug 9, 2015"
     } ,
   
@@ -1052,7 +1052,7 @@
       "title"    : "What makes us human?",
       "category" : "",
       "tags"     : "Philosophy",
-      "url"      : "/2015/08/07/what-makes-us-human/",
+      "url"      : "/what-makes-us-human.html",
       "date"     : "Aug 7, 2015"
     } ,
   
@@ -1060,7 +1060,7 @@
       "title"    : "A Dylar Dream",
       "category" : "",
       "tags"     : "Literary",
-      "url"      : "/2015/06/04/a-dylar-dream/",
+      "url"      : "/a-dylar-dream.html",
       "date"     : "Jun 4, 2015"
     } ,
   
@@ -1068,7 +1068,7 @@
       "title"    : "Forgotten",
       "category" : "",
       "tags"     : "",
-      "url"      : "/2015/05/01/forgotten/",
+      "url"      : "/forgotten.html",
       "date"     : "May 1, 2015"
     } ,
   
@@ -1076,15 +1076,15 @@
       "title"    : "Gaddafi’s Libya as an Empire",
       "category" : "",
       "tags"     : "History",
-      "url"      : "/2015/04/16/gaddafi-s-libya-as-an-empire/",
+      "url"      : "/gaddafi-s-libya-as-an-empire.html",
       "date"     : "Apr 16, 2015"
     } ,
   
     {
       "title"    : "Frankenstein by Mary Shelley Inspirations",
       "category" : "",
-      "tags"     : "Review",
-      "url"      : "/2015/03/04/frankenstein-by-mary-shelley-inspirations/",
+      "tags"     : "Literary",
+      "url"      : "/frankenstein-by-mary-shelley-inspirations.html",
       "date"     : "Mar 4, 2015"
     } ,
   
@@ -1092,7 +1092,7 @@
       "title"    : "iSTEM Presentation — Princeton IEEE",
       "category" : "",
       "tags"     : "Technology",
-      "url"      : "/2014/12/17/istem-presentation-princeton-ieee/",
+      "url"      : "/istem-presentation-princeton-ieee.html",
       "date"     : "Dec 17, 2014"
     } ,
   
@@ -1100,7 +1100,7 @@
       "title"    : "An Exposition on Robotics Competitions",
       "category" : "",
       "tags"     : "Technology, and Education",
-      "url"      : "/2014/06/04/an-exposition-on-robotics-competitions/",
+      "url"      : "/an-exposition-on-robotics-competitions.html",
       "date"     : "Jun 4, 2014"
     } ,
   
@@ -1108,15 +1108,15 @@
       "title"    : "iOS 7 is good, but still not better than Android",
       "category" : "",
       "tags"     : "Technology",
-      "url"      : "/2013/08/15/ios-7-is-good-but-still-not-better-than-android/",
+      "url"      : "/ios-7-is-good-but-still-not-better-than-android.html",
       "date"     : "Aug 15, 2013"
     } ,
   
     {
       "title"    : "The Tipping Point by Malcolm Gladwell — Ch 1",
       "category" : "",
-      "tags"     : "Review",
-      "url"      : "/2013/08/13/the-tipping-point-by-malcolm-gladwell-ch-1/",
+      "tags"     : "Literary",
+      "url"      : "/the-tipping-point-by-malcolm-gladwell-ch-1.html",
       "date"     : "Aug 13, 2013"
     } ,
   
@@ -1124,7 +1124,7 @@
       "title"    : "Lessons From a Guy in a Hot Tub",
       "category" : "",
       "tags"     : "",
-      "url"      : "/2013/07/18/lessons-from-a-guy-in-a-hot-tub/",
+      "url"      : "/lessons-from-a-guy-in-a-hot-tub.html",
       "date"     : "Jul 18, 2013"
     } ,
   
@@ -1132,7 +1132,7 @@
       "title"    : "Welcome!",
       "category" : "",
       "tags"     : "",
-      "url"      : "/2013/06/30/welcome/",
+      "url"      : "/welcome.html",
       "date"     : "Jun 30, 2013"
     } 
   

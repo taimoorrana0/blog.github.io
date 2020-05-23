@@ -2,7 +2,7 @@
 layout:	post
 title:	"Frankenstein by Mary Shelley Inspirations"
 date:	2015-03-04
-tags: Review
+tags: Literary
 image: /images/medium/1*WfOIzO5ZpxNBR3nyZampvA.jpeg
 imagehero: true
 ---

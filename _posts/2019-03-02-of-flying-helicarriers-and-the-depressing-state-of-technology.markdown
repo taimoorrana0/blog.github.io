@@ -18,7 +18,7 @@ A couple scenes later in the film, we see the SHIELD “helicarrier” take off 
 
 ![](/images/medium/1*7UL-F2QmudyTnd_EhDLxtw.jpeg)
 
-Watching this a second time, I couldn’t help but be reminded of this one Peter Thiel quote I really like ([in fact it was one of my quotes of the month](https://medium.com/sunnya97/quote-of-the-month-february-2017-ef529355c5af)).
+Watching this a second time, I couldn’t help but be reminded of this one Peter Thiel quote I really like ([in fact it was one of my quotes of the month]({% post_url 2017-02-24-quote-of-the-month--february-2017 %})).
 
 
 > “We wanted flying cars, instead we got 140 characters.”
@@ -29,7 +29,7 @@ Essentially Peter Thiel is lamenting the lack of progress in “physical innovat
 
 ---
 
-I present my own theory [in a previous post](https://medium.com/sunnya97/innovation-through-economic-states-of-exception-b2959ff60127), where I attribute the lack of “high risk physical innovation” to the lack of “economic states of exception”, and reject the notion that there has been no innovation, but rather it has just shifted to the primary battlefield of modern war, the cyberspace. You can read this here:
+I present my own theory [in a previous post]({% post_url 2017-05-06-innovation-through-economic-states-of-exception %}), where I attribute the lack of “high risk physical innovation” to the lack of “economic states of exception”, and reject the notion that there has been no innovation, but rather it has just shifted to the primary battlefield of modern war, the cyberspace. You can read this here:
 
 ---
 

@@ -15,6 +15,7 @@ In this post, I will propose two main changes to allow for the higher level of c
 
 1. Add more customizability to Uniswap curves by turning liquidity pools into DAOs who can use governance to improve the parameterization of the curve and fee models.
 2. Introduce the ability for multiple Uniswap DAOs for the same trading pair to compete to provide the best value to users.
+
 ### Part 1: “Uniswap DAOs”
 
 I propose that Uniswap liquidity pools ought to act more like DAOs, in which the liquidity share token holders are the DAO members. These liquidity share token holders can then use governance to parameterize and customize their “Uniswap instance” to best provide a service to users.
@@ -29,10 +30,9 @@ Uniswap currently uses a standard x*y=k curve for all pairs. However, there is a
 
 I will explain this one a bit more in depth, because it was this problem that originally got me interested in the direction after my Epicenter episode.
 
-It is [mathematically provable](https://arxiv.org/pdf/1911.03380.pdf) that without fees, it is always less profitable for someone to hold the liquidity pool shares than to just hold the underlying assets. The effect is magnified the more volatile the underlying assets are. Check out this article for a written explanation:
+It is [mathematically provable](https://arxiv.org/pdf/1911.03380.pdf) that without fees, it is always less profitable for someone to hold the liquidity pool shares than to just hold the underlying assets. The effect is magnified the more volatile the underlying assets are. Check out [this article](https://medium.com/@pintail/understanding-uniswap-returns-cc593f3499ef) for a written explanation.
 
-[**Understanding Uniswap Returns**  
-*In the previous article we looked the impact of price variations on the value of liquidity held in a Uniswap exchange…*medium.com](https://medium.com/@pintail/understanding-uniswap-returns-cc593f3499ef "https://medium.com/@pintail/understanding-uniswap-returns-cc593f3499ef")[](https://medium.com/@pintail/understanding-uniswap-returns-cc593f3499ef)In Uniswap, this loss is offset by the fees, which are currently set to a fixed 0.3% * the trade size. However, this is likely too rigid for all cases, and may not sufficiently compensate liquidity providers, especially when dealing with highly volatile assets, if there is not already sufficient trading volume on the pair.
+In Uniswap, this loss is offset by the fees, which are currently set to a fixed 0.3% * the trade size. However, this is likely too rigid for all cases, and may not sufficiently compensate liquidity providers, especially when dealing with highly volatile assets, if there is not already sufficient trading volume on the pair.
 
 Allowing the multiplier to be a governance controlled variable rather than a fixed constant (0.3%) might be a good start. However, it might be even better to take into account more variables when calculating fee amounts, including the volatility itself!
 
@@ -43,9 +43,15 @@ The “spread” is pretty easy to get, it’s proportional to the slippage, and
 The “volatility”, however, is a bit more complex. It will involve taking into account the execution price of trades over a longer period of time, and thus storing and calculating the magnitude of price changes over a number of blocks. However, one of the expressed goals of Uniswap V2 is to become a better price oracle, which I imagine includes smoothing out volatility over singular trades, so I assume such price over time tracking system is already being built.
 
 
-> [](https://twitter.com/haydenzadams/status/1199106007340867589)In the future a Uniswap fee model could go from being fixed as ***Fee = 0.003 * tradesize**** *to being an arbitrary function of these variables: tradesize, slippage, volatility index. It could be something as advanced as this (a completely made up example):
+{% twitter https://twitter.com/haydenzadams/status/1199106007340867589  align=center %}
 
-![](/images/medium/0*p0lLObjCnw64i14X)This may look daunting, but this complexity can be hidden from a user, as it generally already is in Uniswap interfaces. Meanwhile, it will provide better incentives for liquidity providers, thus improving the value delivered to users.
+---
+
+In the future a Uniswap fee model could go from being fixed as ***Fee = 0.003 * tradesize*** *to being an arbitrary function of these variables: tradesize, slippage, volatility index. It could be something as advanced as this (a completely made up example):
+
+![](/images/medium/0*p0lLObjCnw64i14X.png)
+
+This may look daunting, but this complexity can be hidden from a user, as it generally already is in Uniswap interfaces. Meanwhile, it will provide better incentives for liquidity providers, thus improving the value delivered to users.
 
 Furthermore, new fee types can be added as well. For example, [Balancer proposes adding in an exit fee component](https://balancer.finance/whitepaper.html#swap-and-exit-fees) (a fee for removing liquidity from a pool). Or another example is differentiating trading fees in different directions. If demand for a pair like ETH:DAI tends to be larger in one direction, it may be possible to reduce the fees in the other direction to better incentivize rebalancing.
 
@@ -65,7 +71,10 @@ The first is by splitting trades across multiple liquidity pools. When making a 
 
 The second mitigation makes use of that face that curves are now parameterizable. We can now create curves that offer less slippage, even at lower liquidities. For example, the Stableswap curve tries to reduce the convexity of the curve near the middle and increase it near the edges, thus providing less slippage for smaller trades.
 
-![](/images/medium/0*WB2lJYD_Dp7ZHbK4)Image from Stableswap WhitepaperThis can be taken a step even further. In Part 1, we covered some of the variables that can be taken into account when designing fee models. However, we glossed over the design space of designing different curves. One avenue for exploration is taking into account the total liquidity in the pool in the curve structure. For example, a curve could be flatter (look more like the Stableswap curve) at low liquidities, and then increase the convexity as liquidity increases (move towards looking more like the uniswap curve).
+![](/images/medium/0*WB2lJYD_Dp7ZHbK4)
+*Image from Stableswap Whitepaper*
+
+This can be taken a step even further. In Part 1, we covered some of the variables that can be taken into account when designing fee models. However, we glossed over the design space of designing different curves. One avenue for exploration is taking into account the total liquidity in the pool in the curve structure. For example, a curve could be flatter (look more like the Stableswap curve) at low liquidities, and then increase the convexity as liquidity increases (move towards looking more like the uniswap curve).
 
 #### **Minimizing Exit Costs**
 
@@ -77,13 +86,18 @@ Turns out this sounds extremely similar to a previous problem I once already sol
 
 To solve this, I created a solution called commitment tokens. Essentially, I can delegate to a validator in the Top 125, but give a commitment to the validator in waiting. As soon as the validator in waiting receives enough commitments that they would be in the top 125, it triggers an auto-redelegation of everyone who gave them a commitment to redelegate to them, thus pushing them into the active set. You can watch my presentation on commitment tokens in [this video starting at 15:23](https://youtu.be/XxZ04w2x4nk?t=923).
 
+<iframe src="https://www.youtube.com/embed/XxZ04w2x4nk?start=923" frameborder="0" allowfullscreen></iframe>
+
+---
+
 A similar mechanism can be created for the liquidity pools. When creating a new liquidity pool, I can propose a minimum viable liquidity as part of the curve specification, and allow people to issue commitments that will automatically switch their liquidity over to the new pool once it receives enough commitments.
 
 ### **Conclusion**
 
 I hope this reimagining of a “Uniswap Network” as a network of DAOs controlling AMM parameters and competing to provide the best value to users was intriguing. In no way am I making an absolute statement that this is the optimal future direction for Uniswap-like systems (To be honest, I’m not even sure I’m fully convinced on automated market makers at all, but that’s a story for another time!), but rather want to bring this model up for discussion with the larger community. I’ve also cross-posted this on ethresear.ch [here](https://ethresear.ch/t/daoifying-uniswap-amm-pools/6945) which is a good place to discuss!
 
-[**EthResearch — DAOifying Uniswap AMM Pools**  
-*Over the past two years, Uniswap has become one of the most popular decentralized exchanges on Ethereum. You can learn…*ethresear.ch](https://ethresear.ch/t/daoifying-uniswap-amm-pools/6945 "https://ethresear.ch/t/daoifying-uniswap-amm-pools/6945")[](https://ethresear.ch/t/daoifying-uniswap-amm-pools/6945)Thanks to [Hart Lambur](https://medium.com/u/29538529d8b7), Tina Zhen, [Felix Lutsch](https://medium.com/u/a19660effc53), [Dev Ojha](https://medium.com/u/24c27a199aad), and [billy rennekamp](https://medium.com/u/8d132487b5f3) for helping review :)
+---
+
+Thanks to [Hart Lambur](https://medium.com/u/29538529d8b7), Tina Zhen, [Felix Lutsch](https://medium.com/u/a19660effc53), [Dev Ojha](https://medium.com/u/24c27a199aad), and [billy rennekamp](https://medium.com/u/8d132487b5f3) for helping review :)
 
   

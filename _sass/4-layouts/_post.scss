@@ -133,8 +133,9 @@
 .post__content {
   color: rgba($text-color, .6);
   a {
+    color: $brand-color; // $text-color;
     &:hover {
-      color: $text-color;
+      // color: $brand-color; // $text-color;
       text-decoration: underline;
     }
   }

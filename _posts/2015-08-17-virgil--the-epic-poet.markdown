@@ -4,7 +4,7 @@ title:	"Virgil: The Epic Poet"
 date:	2015-08-17
 image: /images/medium/1*YF60YMONWa12EjvNk2aPCA.jpeg
 imagehero: true
-tags: Review, History
+tags: Literary, History
 ---
 
 In its time of rebirth, the world’s greatest empire needed a source of inspiration. The Romans and the rest of the world looked to Virgil, one of the greatest poets in human history, to provide this new hope. Virgil’s poems are a great work of art and are intriguing to both academia and entertainment. Virgil, the great Roman poet is considered to be the greatest of his time and wrote three major works that were the *Eclogues*, the *Georgics*and the epic *Aeneid*. These works were a source of inspiration and great craftsmanship in both storytelling and poetry. His writings were so admirable, that another epic poet, Dante, in his own epics, used Virgil as the guide for the main character (Hollander). The works of the Roman poet Virgil were deeply influenced by his life and environment which can be seen through the influence of his early life, his Roman pride, and his respect for the Greek poet Homer.

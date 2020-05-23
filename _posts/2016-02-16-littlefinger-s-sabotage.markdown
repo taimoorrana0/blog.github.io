@@ -2,7 +2,7 @@
 layout:	post
 title:	"Littlefinger’s Sabotage"
 date:	2016-02-16
-tags: Review
+tags: Literary
 image: /images/medium/0*AVBkFcDGsSQz-Wbo.jpg
 imagehero: true
 ---

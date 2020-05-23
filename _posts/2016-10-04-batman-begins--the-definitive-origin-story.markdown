@@ -4,7 +4,7 @@ title:	"Batman Begins: The Definitive Origin Story"
 date:	2016-10-04
 image: /images/medium/0*tbKt18T_5XGmjJPZ.jpg
 imagehero: true
-tags: Review
+tags: Literary
 ---
 
   ![]()Today, the “superhero origin story” has become a tired formula, often seen as cliched and unoriginal ([Why is Every Superhero Movie an Origin Story?](http://www.ew.com/article/2012/12/12/origin-stories-man-of-steel-superman)).However, one origin story seems to stand out from the crowd, sometimes even ranked higher than its universally acclaimed sequel. Batman Begins is often described by many as the “definitive origin story”. To understand why this is, we need to take a look at the context behind it’s inception (NOlan Pun intended).  

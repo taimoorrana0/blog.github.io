@@ -2,7 +2,7 @@
 layout:	post
 title:	"The Tipping Point by Malcolm Gladwell — Ch 1"
 date:	2013-08-13
-tags: Review
+tags: Literary
 image: /images/medium/1*fpX7C4visjglw2B-1a2iEw.jpeg
 ---
 

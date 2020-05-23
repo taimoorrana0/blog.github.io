@@ -3,7 +3,7 @@ layout:	post
 title:	"Esmeralda of the Wolves"
 date:	2020-03-20
 image: /images/medium/1*H7cU7nrGDVyl-rEijfBiYw.png
-tags: Review
+tags: Literary
 ---
 
 While surfing YouTube a few days ago, I somehow found myself watching deleted scenes from the Tarantino movie Pulp Fiction. I came across this one, where I noticed something that perked my ears.

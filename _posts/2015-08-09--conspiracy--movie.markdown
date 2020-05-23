@@ -4,7 +4,7 @@ title:	"“Conspiracy” Movie"
 date:	2015-08-09
 image: /images/medium/1*UF_r6-0FgiqaEGNXH-43lA.jpeg
 imagehero: true
-tags: Review, History
+tags: Literary, History
 ---
 
 The most interesting thing that I noticed while watching this movie was that the Nazi officials were not the “monsters” that are often projected in Western media and propaganda, but rather they were, for the most part, well-educated (many of them lawyers), well-mannered, cultured, “civilized”. It seems astonishing to us today that their murderous actions could originate from such “refined people” and a high-level culture. However, it is important to remember that the Holocaust was indeed cold-blooded evil, but calculated, cold-blooded evil. The Holocaust was a huge undertaking, of such a massive scale that “it would astonish Charles Darwin,” and thus needs people with the ability to run such a massive operation.

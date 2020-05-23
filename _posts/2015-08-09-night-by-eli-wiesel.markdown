@@ -4,7 +4,7 @@ title:	"Night by Eli Wiesel"
 date:	2015-08-09
 image: /images/medium/1*L0LM8-J99kmdrEdhoA6h-w.jpeg
 imagehero: true
-tags: History, Review
+tags: History, Literary
 ---
   
 If I had to choose one word to describe the entire book, it would be the word “loss.” The entire book is a story of loss: the loss of his family, the loss of his God, and the loss of humanity. The novel explored the concept of loss and how it seemed to mean less and less to Eliezer as the bitter reality of the Holocaust wore at him. The most striking example of this is in how he essentially ended up renouncing his religion as a result of the hardships he had to endure. Weisel tried to keep his faith to the best of his ability until he was forced to face the horrors of the Holocaust. But as the hardships grew and more died, Weisel was forced to wonder “where his God was,” even at points feeling enraged that his God would allow this to happen. In a cruel, twisted way, the Nazis ended up killing the Jew; Wiesel himself was not dead, but the believer within was. What kind of God would let this happen to his own followers? Where was the God that brought Moses and his people to safety? Non-existent. One of the best quotes that demonstrates this is his description of the first night in the camp “which murdered my God and my soul and turned my dreams to dust.”

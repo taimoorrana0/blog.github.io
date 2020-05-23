@@ -18,7 +18,7 @@
     letter-spacing: 1px;
     font-weight: 700;
     border-radius: 30px;
-    color: rgba($white, .9);
+    color: $blue-dark; // rgba($white, .9);
     background-color: $brand-color;
     &:hover {
       background-color: darken($brand-color, 5%);

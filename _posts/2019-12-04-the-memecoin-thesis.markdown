@@ -47,4 +47,4 @@ Plain utility tokens give people a rational way to calculate its valuation.  But
 
 And just to spread my contribution to the Litecoin meme:
 
-{% twitter https://twitter.com/sunnya97/status/1099753206576406528 %}
+<blockquote class="twitter-tweet tw-align-center" data-theme="light"><p lang="en" dir="ltr">You shall not crucify mankind upon a cross of Bitcoin.<a href="https://twitter.com/search?q=%24LTC&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$LTC</a></p>&mdash; Sunny Aggarwal (@sunnya97) <a href="https://twitter.com/sunnya97/status/1099753206576406528?ref_src=twsrc%5Etfw">February 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

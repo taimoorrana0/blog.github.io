@@ -43,7 +43,7 @@ The “spread” is pretty easy to get, it’s proportional to the slippage, and
 The “volatility”, however, is a bit more complex. It will involve taking into account the execution price of trades over a longer period of time, and thus storing and calculating the magnitude of price changes over a number of blocks. However, one of the expressed goals of Uniswap V2 is to become a better price oracle, which I imagine includes smoothing out volatility over singular trades, so I assume such price over time tracking system is already being built.
 
 
-{% twitter https://twitter.com/haydenzadams/status/1199106007340867589  align=center %}
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">.<a href="https://twitter.com/UniswapExchange?ref_src=twsrc%5Etfw">@UniswapExchange</a> doesn’t use price oracles because it IS a price oracle<br><br>Right now it’s only a useful (manipulation resistant) oracle for market makers on uniswap, but in V2 it will be useful for the rest of defi!<br><br>Uniswap v2 as a decentralized price oracle is gonna be🔥🔥🔥🔥🔥</p>&mdash; Hayden Adams 🦄 (@haydenzadams) <a href="https://twitter.com/haydenzadams/status/1199106007340867589?ref_src=twsrc%5Etfw">November 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 

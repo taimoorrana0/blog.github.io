@@ -7,4 +7,5 @@ tags: "Quote-of-the-Month"
 ---
 
 > “The smartest people are also the laziest ones. I’m glad that I’m not smart.”
+> 
 > — *Jim Yang* 

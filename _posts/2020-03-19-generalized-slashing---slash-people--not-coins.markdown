@@ -31,4 +31,5 @@ Now, before we all freak out, it’s important to note, that assassination marke
 For example, if we wanted validators who double signed to have eggs thrown at them, we can simply make open a prediction (bribery) market saying that they will have at least *n* eggs thrown at them (captured on video) in the next 3 months, and use their slashed stake as a bet that that won’t happen. Thus, people are incentivized to buy the other side, and start throwing eggs at them!
 
 ![](/images/medium/1*u8s6B2IDf1OtDF8gFRVkWQ.jpeg)
+
 *Original left image from [btcmanager.com](https://btcmanager.com/inside-augurs-assassination-prediction-market/?q=/inside-augurs-assassination-prediction-market/&)*

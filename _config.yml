@@ -26,7 +26,7 @@ hero:
 # Contact Settings
 contact:
   email: sunnya97@gmail.com # Add your email for contant form
-  # description: If you'd like 
+  # description: 
 
 # NOTE
 # Aditu theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
@@ -67,10 +67,8 @@ permalink: /blog/:title
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll/tagging
-  - jekyll-twitter-plugin
 
-paginate: 9
+paginate: 18
 paginate_path: "/page/:num"
 
 # Pages Path
@@ -82,11 +80,6 @@ defaults:
 
 include:
   - _pages
-
-# Tags
-tag_page_dir:         /blog/tag
-tag_page_layout:      tag_page
-tag_permalink_style:  none
 
 sass:
   sass_dir: _sass

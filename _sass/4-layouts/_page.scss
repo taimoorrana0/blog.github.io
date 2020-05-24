@@ -48,9 +48,9 @@
 .page__content {
   color: rgba($text-color, .6);
   a {
-    color: $brand-color; // $text-color;
+    color: $brand-color;
     &:hover {
-      color: $text-color;
+      // color: $text-color;
       text-decoration: underline;
     }
   }

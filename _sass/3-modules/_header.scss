@@ -29,7 +29,7 @@
   letter-spacing: 2px;
   transition: none;
   &:hover {
-    color: $brand-color;//$text-color;
+    color: $brand-color;
   }
 }
 
@@ -256,37 +256,4 @@
   @media only screen and (max-width: $tablet) {
     margin-bottom: 30px;
   }
-}
-
-
-
-.head-bg {
-  top: 0;
-  left: 0;
-  right: 0;
-  z-index: 1;
-  height: 515px;
-  display: block;
-  position: absolute;
-  background-size: cover;
-  // background-color: #242832;
-  background-image: url('/images/starry.jpeg');
-  background-repeat: no-repeat;
-  background-color: rgba(44, 51, 64, 0.8);
-  background-position: center;
-
-  position: relative;
-  margin-bottom: 75px;
-  box-sizing: content-box;
-}
-
-
-.head-bg:before {
-  content: '';
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  background-color: rgba(44, 51, 64, 0.8);
 }

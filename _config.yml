@@ -84,3 +84,9 @@ include:
 sass:
   sass_dir: _sass
   style: compressed
+
+
+collections:
+  quotes:
+    output: true
+    permalink: /quotes/:path/

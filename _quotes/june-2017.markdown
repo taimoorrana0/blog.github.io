@@ -1,0 +1,10 @@
+---
+layout:	page
+title:	"Quote of the Month: June 2017"
+date:	2017-06-27
+tags: Quote-of-the-Month
+---
+
+> “Trust because you are willing to accept the risk, not because it’s safe or certain.”
+> 
+> — Anonymous  

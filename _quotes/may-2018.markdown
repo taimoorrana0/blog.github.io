@@ -1,0 +1,11 @@
+---
+layout:	page
+title:	"Quote of the Month — May 2018"
+date:	2018-05-30
+tags: Quote-of-the-Month
+---
+
+  
+> “The more you sweat in peace, the less you bleed in war.”
+> 
+> — Norman Schwarzkopf  

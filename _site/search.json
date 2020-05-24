@@ -1,14 +1,6 @@
 [
   
     {
-      "title"    : "Quote of the Month — April 2020",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-april-2020",
-      "date"     : "Apr 29, 2020"
-    } ,
-  
-    {
       "title"    : "Monetizing Smart Contracts with GasToken",
       "category" : "",
       "tags"     : "Blockchain",
@@ -57,43 +49,11 @@
     } ,
   
     {
-      "title"    : "Quote of the Month — March 2020",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-march-2020",
-      "date"     : "Mar 11, 2020"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month — February 2020",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-february-2020",
-      "date"     : "Feb 27, 2020"
-    } ,
-  
-    {
       "title"    : "DAOifying Uniswap Automated Market Maker Pools",
       "category" : "",
       "tags"     : "Blockchain",
       "url"      : "/blog/daoifying-uniswap-automated-market-maker-pools",
       "date"     : "Feb 13, 2020"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month — January 2020",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-january-2020",
-      "date"     : "Feb 1, 2020"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month — December 2019",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-december-2019",
-      "date"     : "Dec 31, 2019"
     } ,
   
     {
@@ -137,30 +97,6 @@
     } ,
   
     {
-      "title"    : "Quote of the Month — November 2019",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-november-2019",
-      "date"     : "Nov 3, 2019"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month — October 2019",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-october-2019",
-      "date"     : "Oct 15, 2019"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month — September 2019",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-september-2019",
-      "date"     : "Sep 30, 2019"
-    } ,
-  
-    {
       "title"    : "Cosmos ❤ Interledger",
       "category" : "",
       "tags"     : "Blockchain",
@@ -169,35 +105,11 @@
     } ,
   
     {
-      "title"    : "Quote of the Month — August 2019",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month and History",
-      "url"      : "/blog/quote-of-the-month-august-2019",
-      "date"     : "Aug 26, 2019"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month — July 2019",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month and Politics",
-      "url"      : "/blog/quote-of-the-month-july-2019",
-      "date"     : "Jul 22, 2019"
-    } ,
-  
-    {
       "title"    : "Conspiratus Podcast #5: Zebras and Libras",
       "category" : "",
       "tags"     : "Blockchain",
       "url"      : "/blog/conspiratus-podcast-5-zebras-and-libras",
       "date"     : "Jul 3, 2019"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month — June 2",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-june-2",
-      "date"     : "Jun 30, 2019"
     } ,
   
     {
@@ -217,35 +129,11 @@
     } ,
   
     {
-      "title"    : "Quote of the Month — May 2019",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-may-2019",
-      "date"     : "May 26, 2019"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month — April 2019",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-april-2019",
-      "date"     : "May 2, 2019"
-    } ,
-  
-    {
       "title"    : "Conspiratus Podcast #2: The Elephant in the Room",
       "category" : "",
       "tags"     : "Blockchain",
       "url"      : "/blog/conspiratus-podcast-2-the-elephant-in-the-room",
       "date"     : "Apr 8, 2019"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month — March 2019",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-march-2019",
-      "date"     : "Mar 31, 2019"
     } ,
   
     {
@@ -265,43 +153,11 @@
     } ,
   
     {
-      "title"    : "Quote of the Month — February 2019",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-february-2019",
-      "date"     : "Feb 13, 2019"
-    } ,
-  
-    {
       "title"    : "Florida Mule",
       "category" : "",
       "tags"     : "Recipes",
       "url"      : "/blog/florida-mule",
       "date"     : "Jan 20, 2019"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month — January 2019",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month and History",
-      "url"      : "/blog/quote-of-the-month-january-2019",
-      "date"     : "Jan 15, 2019"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month — December 2018",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-december-2018",
-      "date"     : "Dec 13, 2018"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month — November 2018",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-november-2018",
-      "date"     : "Nov 19, 2018"
     } ,
   
     {
@@ -313,51 +169,11 @@
     } ,
   
     {
-      "title"    : "Quote of the Month — October 2018",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month and Technology",
-      "url"      : "/blog/quote-of-the-month-october-2018",
-      "date"     : "Oct 21, 2018"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month — September 2018",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-september-2018",
-      "date"     : "Sep 23, 2018"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month — August 2018",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-august-2018",
-      "date"     : "Aug 16, 2018"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month — July 2018",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-july-2018",
-      "date"     : "Jul 19, 2018"
-    } ,
-  
-    {
       "title"    : "Epicenter — Etherum Classic with Anthony Lusardi",
       "category" : "",
       "tags"     : "Blockchain and Epicenter",
       "url"      : "/blog/epicenter-etherum-classic-with-anthony-lusardi",
       "date"     : "Jul 17, 2018"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month — June 2018",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-june-2018",
-      "date"     : "Jul 2, 2018"
     } ,
   
     {
@@ -369,43 +185,11 @@
     } ,
   
     {
-      "title"    : "Quote of the Month — May 2018",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-may-2018",
-      "date"     : "Jun 1, 2018"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month — April 2018",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month and Technology",
-      "url"      : "/blog/quote-of-the-month-april-2018",
-      "date"     : "May 2, 2018"
-    } ,
-  
-    {
       "title"    : "Introducing the Anti-Atom",
       "category" : "",
       "tags"     : "Blockchain and Cosmos",
       "url"      : "/blog/introducing-the-anti-atom",
       "date"     : "Apr 1, 2018"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month: March 2018",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-march-2018",
-      "date"     : "Mar 30, 2018"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month: February 2018",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month and Politics",
-      "url"      : "/blog/quote-of-the-month-february-2018",
-      "date"     : "Feb 26, 2018"
     } ,
   
     {
@@ -417,27 +201,11 @@
     } ,
   
     {
-      "title"    : "Quote of the Month: January 2018",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-january-2018",
-      "date"     : "Jan 15, 2018"
-    } ,
-  
-    {
       "title"    : "Blockchain Protocol Governance Resources",
       "category" : "",
       "tags"     : "Blockchain and Politics",
       "url"      : "/blog/blockchain-protocol-governance-resources",
       "date"     : "Jan 13, 2018"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month: December 2017",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month and Politics",
-      "url"      : "/blog/quote-of-the-month-december-2017",
-      "date"     : "Dec 27, 2017"
     } ,
   
     {
@@ -457,22 +225,6 @@
     } ,
   
     {
-      "title"    : "Quote of the Month: November 2017",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-november-2017",
-      "date"     : "Nov 24, 2017"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month: October 2017",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-october-2017",
-      "date"     : "Oct 19, 2017"
-    } ,
-  
-    {
       "title"    : "Thoughts on Iota",
       "category" : "",
       "tags"     : "Blockchain",
@@ -489,43 +241,11 @@
     } ,
   
     {
-      "title"    : "Quote of the Month: September 2017",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-september-2017",
-      "date"     : "Sep 9, 2017"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month: August 2017",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-august-2017",
-      "date"     : "Aug 29, 2017"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month: July 2017",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-july-2017",
-      "date"     : "Jul 28, 2017"
-    } ,
-  
-    {
       "title"    : "Thoughts on Tezos",
       "category" : "",
       "tags"     : "Blockchain",
       "url"      : "/blog/thoughts-on-tezos",
       "date"     : "Jul 11, 2017"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month: June 2017",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-june-2017",
-      "date"     : "Jun 27, 2017"
     } ,
   
     {
@@ -545,14 +265,6 @@
     } ,
   
     {
-      "title"    : "Quote of the Month: May 2017",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-may-2017",
-      "date"     : "May 24, 2017"
-    } ,
-  
-    {
       "title"    : "MoneroLink",
       "category" : "",
       "tags"     : "Blockchain",
@@ -566,14 +278,6 @@
       "tags"     : "Technology, Politics, and History",
       "url"      : "/blog/innovation-through-economic-states-of-exception",
       "date"     : "May 6, 2017"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month: April 2017",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-april-2017",
-      "date"     : "Apr 17, 2017"
     } ,
   
     {
@@ -601,17 +305,9 @@
     } ,
   
     {
-      "title"    : "Quote of the Month: March 2017",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-march-2017",
-      "date"     : "Mar 9, 2017"
-    } ,
-  
-    {
       "title"    : "Creating Financial Systems",
       "category" : "",
-      "tags"     : "Quote-of-the-Month and Blockchain",
+      "tags"     : "Blockchain",
       "url"      : "/blog/creating-financial-systems",
       "date"     : "Feb 27, 2017"
     } ,
@@ -622,14 +318,6 @@
       "tags"     : "Education",
       "url"      : "/blog/educational-youtube-channels",
       "date"     : "Feb 26, 2017"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month: February 2017",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month and Technology",
-      "url"      : "/blog/quote-of-the-month-february-2017",
-      "date"     : "Feb 24, 2017"
     } ,
   
     {
@@ -657,22 +345,6 @@
     } ,
   
     {
-      "title"    : "Quote of the Month: January 2017",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-january-2017",
-      "date"     : "Jan 7, 2017"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month: December 2016",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month and Politics",
-      "url"      : "/blog/quote-of-the-month-december-2016",
-      "date"     : "Dec 28, 2016"
-    } ,
-  
-    {
       "title"    : "Switzerland and Belgium: Two Approaches to a Multilingual State",
       "category" : "",
       "tags"     : "History and Politics",
@@ -686,14 +358,6 @@
       "tags"     : "Politics",
       "url"      : "/blog/free-society",
       "date"     : "Dec 11, 2016"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month: November 2016",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-november-2016",
-      "date"     : "Nov 29, 2016"
     } ,
   
     {
@@ -737,27 +401,11 @@
     } ,
   
     {
-      "title"    : "Quote of the Month: October 2016",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-october-2016",
-      "date"     : "Oct 11, 2016"
-    } ,
-  
-    {
       "title"    : "Batman Begins: The Definitive Origin Story",
       "category" : "",
       "tags"     : "Literary",
       "url"      : "/blog/batman-begins-the-definitive-origin-story",
       "date"     : "Oct 4, 2016"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month: September 2016",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-september-2016",
-      "date"     : "Sep 28, 2016"
     } ,
   
     {
@@ -801,14 +449,6 @@
     } ,
   
     {
-      "title"    : "Quote of the Month: August 2016",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-august-2016",
-      "date"     : "Aug 14, 2016"
-    } ,
-  
-    {
       "title"    : "Why I Study the Social Sciences?",
       "category" : "",
       "tags"     : "History, Politics, and Economics",
@@ -833,14 +473,6 @@
     } ,
   
     {
-      "title"    : "Quote of the Month: July 2016",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-july-2016",
-      "date"     : "Jul 8, 2016"
-    } ,
-  
-    {
       "title"    : "CEGA Trace Research Project Reflection",
       "category" : "",
       "tags"     : "Technology and Data-Science",
@@ -849,35 +481,11 @@
     } ,
   
     {
-      "title"    : "Quote of the Month: June 2016",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month and Startups",
-      "url"      : "/blog/quote-of-the-month-june-2016",
-      "date"     : "Jun 17, 2016"
-    } ,
-  
-    {
       "title"    : "Eagle Scout Court of Honor Speech",
       "category" : "",
       "tags"     : "",
       "url"      : "/blog/eagle-scout-court-of-honor-speech",
       "date"     : "May 21, 2016"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month: May 2016",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month",
-      "url"      : "/blog/quote-of-the-month-may-2016",
-      "date"     : "May 14, 2016"
-    } ,
-  
-    {
-      "title"    : "Quote of the Month: April 2016",
-      "category" : "",
-      "tags"     : "Quote-of-the-Month and Education",
-      "url"      : "/blog/quote-of-the-month-april-2016",
-      "date"     : "Apr 18, 2016"
     } ,
   
     {

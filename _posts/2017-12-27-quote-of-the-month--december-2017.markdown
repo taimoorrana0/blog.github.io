@@ -2,7 +2,7 @@
 layout:	post
 title:	"Quote of the Month: December 2017"
 date:	2017-12-27
-tags: [Quote-of-the-Month, Politics]
+tags: Quote-of-the-Month Politics
 ---
 
   

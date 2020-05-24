@@ -3,7 +3,7 @@ layout:	post
 title:	"Quote of the Month — January 2019"
 date:	2019-01-15
 image: /images/medium/1*F1PggQZ4U201GeTMLc4cZw.jpeg
-tags: ["Quote-of-the-Month", History]
+tags: Quote-of-the-Month History
 ---
 
   

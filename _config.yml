@@ -46,7 +46,7 @@ social:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: sunnya97 # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier:  # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
@@ -63,7 +63,7 @@ mailchimp-identifier: # Add your MailChimp form identifier. For example - blogen
 #-------------------------------
 # Build settings
 markdown: kramdown
-permalink: none
+permalink: /blog/:title
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -84,9 +84,9 @@ include:
   - _pages
 
 # Tags
-tag_page_dir:         tag
+tag_page_dir:         /blog/tag
 tag_page_layout:      tag_page
-tag_permalink_style:  pretty
+tag_permalink_style:  none
 
 sass:
   sass_dir: _sass

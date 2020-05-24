@@ -2,7 +2,7 @@
 layout:	post
 title:	"Podcast Episode #0 — Introduction"
 date:	2018-01-16
-tags: Blockchain, Conspiratus
+tags: Blockchain Conspiratus
 ---
 
 Hope you’re enjoying our new look! Along with the rebrand, we’d like to introduce the Conspiratus Podcast!

@@ -4,7 +4,7 @@ title:	"Switzerland and Belgium: Two Approaches to a Multilingual State"
 date:	2016-12-19
 image: /images/medium/1*urorpnZbT8ie2NX4010OmQ.jpeg
 imagehero: true
-tags: History, Politics
+tags: History Politics
 ---
 
 Today, Switzerland is one of the most successful countries in the world, boasting one of the highest GDPs per capita, standard of living, and economic freedom indices. Beyond its reluctance to engage in conflict, desire to stay out of supranational unions, and high degree of libertarianism, Switzerland remains unique relative to its European neighbors in another astounding way: it has four national languages. The Swiss population is split amongst two major language groups, German in the East and French in the West, with a third minor linguistic group, Italian, concentrated in the South. Its fourth national language, Romansch, is known by less than 0.5% of the population. Despite this lack of linguistic unity, the Swiss people manage to maintain a cohesive identity. Meanwhile, the close-by and similarly-sized European country of Belgium has extremely similar linguistically diverse demographics; the population is roughly half split amongst two major language groups, French and Flemish (a dialect of Dutch), with a concentrated third minor linguistic group, German. However, unlike Switzerland, Belgium lacks strong national unity and suffers from frequent secessionary movements. In this paper, I will explore how Switzerland managed to forge a single national identity despite its multiple language groups, and compare this to Belgium’s failure to do so, specifically focusing on the effects of ethno-symbolic nation-building, linguistic inclusiveness, and decentralized federalism.

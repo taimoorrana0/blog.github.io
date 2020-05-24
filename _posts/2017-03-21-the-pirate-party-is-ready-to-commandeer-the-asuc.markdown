@@ -4,7 +4,7 @@ title:	"The Pirate Party is Ready to Commandeer the ASUC!"
 date:	2017-03-21
 image: /images/medium/1*cKZNf6T3xnF7jIte5fWhRg.jpeg
 imagehero: true
-tags: Politics, Berkeley
+tags: Politics Berkeley
 ---
 
 [**Pirate Party announces 3 ASUC Senate candidates | The Daily Californian**  

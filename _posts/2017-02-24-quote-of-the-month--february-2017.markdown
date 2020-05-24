@@ -2,7 +2,7 @@
 layout:	post
 title:	"Quote of the Month: February 2017"
 date:	2017-02-24
-tags: [Quote-of-the-Month, Technology]
+tags: Quote-of-the-Month Technology
 ---
 
   

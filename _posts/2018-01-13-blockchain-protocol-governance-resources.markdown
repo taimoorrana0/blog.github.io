@@ -2,7 +2,7 @@
 layout:	post
 title:	"Blockchain Protocol Governance Resources"
 date:	2018-01-13
-tags: Blockchain, Politics
+tags: Blockchain Politics
 ---
 
 This is the reading list for the first [Conspiratus](http://conspirat.us) podcast, where we will be discussing [protocol governance](http://podcast.conspirat.us/144587/643062-episode-1-protocol-governance).

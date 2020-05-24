@@ -2,7 +2,7 @@
 layout:	post
 title:	"Animal Farm Responses"
 date:	2015-10-28
-tags: Literary, Politics, History
+tags: Literary Politics History
 image: /images/medium/1*1M2SW_36sbEybMI8E59pvg.jpeg
 imagehero: true
 ---

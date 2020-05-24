@@ -4,7 +4,7 @@ title:	"An Exposition on Robotics Competitions"
 date:	2014-06-04
 image: /images/medium/1*d6QCsUuxbR9BFk6_2bzxsA.jpeg
 imagehero: true
-tags: Technology, Education
+tags: Technology Education
 ---
 
 So far in my robotics career, I have participated in numerous robotics competitions, each of which was unique in its own way. Robotics competitions are a great way to further one’s knowledge in robotics, technology, and engineering through friendly competition. In general, I split tend to consider robotics to have three main parts, mechanical, electrical, and programming, each of which are interrelated yet unique in their own ways. Also, an important distinction to make when considering robotics competitions is whether the competition is based on autonomous or human-controlled robots, a major aspect that effects the entire experience of the competition. It is important to note that I personally am somewhat biased when it comes to this, preferring autonomous robotics, electrical work and programming, and this influences my personal judgement on these competitions.

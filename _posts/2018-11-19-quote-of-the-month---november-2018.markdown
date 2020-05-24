@@ -3,7 +3,7 @@ layout:	post
 title:	"Quote of the Month — November 2018"
 date:	2018-11-19
 image: /images/medium/1*Vho0nQAy2bkFpB_6MZp_NA.jpeg
-tags: "Quote-of-the-Month"
+tags: Quote-of-the-Month
 ---
 
   

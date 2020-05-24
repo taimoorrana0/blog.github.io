@@ -4,7 +4,7 @@ title:	"Quote of the Month — December 2018"
 date:	2018-12-13
 image: /images/medium/1*Lju425NHP7Vb9RaazgcHTA.jpeg
 imagehero: true
-tags: "Quote-of-the-Month"
+tags: Quote-of-the-Month
 ---
 
   

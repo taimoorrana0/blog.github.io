@@ -2,7 +2,7 @@
 layout:	post
 title:	"Creating Financial Systems"
 date:	2017-02-27
-tags: [Quote-of-the-Month, Blockchain]
+tags: Quote-of-the-Month Blockchain
 ---
 
 This past week, I attended the Initiative for Cryptocurrencies and Contracts (IC3) Winter Conference, hosted at Chain in San Francisco. There, Chain provided everyone with a notepad, and I noticed this quote from the musical Hamilton at the bottom of the pamphlet.

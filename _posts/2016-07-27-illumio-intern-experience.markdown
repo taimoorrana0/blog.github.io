@@ -2,7 +2,7 @@
 layout:	post
 title:	"Illumio Intern Experience"
 date:	2016-07-27
-tags: Technology, Startups
+tags: Technology Startups
 ---
 
 Blog post co-written with Vedant Saran about our experience as an intern at Illumio.  Was originally posted on [the Illumio Blog](https://www.illumio.com/blog/illumio-intern-experience).

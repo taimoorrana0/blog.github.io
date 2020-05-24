@@ -4,7 +4,7 @@ title:	"Introducing the Anti-Atom"
 date:	2018-04-01
 image: /images/medium/1*1aDAGZ_yel09DHQ7e5ub7g.png
 imagehero: true
-tags: Blockchain, Cosmos
+tags: Blockchain Cosmos
 ---
 
 90 years ago, the British physicist Paul Dirac introduced the world to the theory of positrons, suggesting the existence of a theoretical particle exactly the same as an electron, except with a positive charge. Dirac went on to win the Nobel Prize in Physics after experimental evidence of these “antielectrons” was found. It is now understood that all particles have an equivalent antiparticle with opposite charge, meaning that it is possible to create entire antiatoms, the building block of antimatter, just as normal atoms make up normal matter.

@@ -2,7 +2,7 @@
 layout:	post
 title:	"Quote of the Month — July 2018"
 date:	2018-07-19
-tags: "Quote-of-the-Month"
+tags: Quote-of-the-Month
 ---
 
   

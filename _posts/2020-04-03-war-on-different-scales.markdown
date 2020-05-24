@@ -3,7 +3,7 @@ layout:	post
 title:	"War on Different Scales"
 date:	2020-04-03
 image: /images/medium/1*Awaq-1X_xhJkzWPVWfP3nw.png
-tags: [History, Politics]
+tags: History Politics
 ---
 
 So I don’t remember where I originally saw this, and can’t for the life of me refind it (if anyone knows the source, please let me know!), but a few months ago I saw the following set of statements:

@@ -2,7 +2,7 @@
 layout:	post
 title:	"Quote of the Month: June 2016"
 date:	2016-06-17
-tags: Quote-of-the-Month, Startups
+tags: Quote-of-the-Month Startups
 ---
 
 > “Be stubborn on the vision, flexible on the details.”

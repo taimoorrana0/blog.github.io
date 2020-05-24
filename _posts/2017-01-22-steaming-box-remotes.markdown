@@ -3,7 +3,7 @@ layout:	post
 title:	"Streaming Box Remotes"
 date:	2017-01-22
 image: /images/medium/1*1URBNLhZKfm0mH1jGAJalw.png
-tags: Technology, Design
+tags: Technology Design
 ---
 
 In the remotes for a number of the major popular tv streaming boxes, the remote designs are extremely similar.

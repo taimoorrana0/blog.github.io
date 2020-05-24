@@ -3,7 +3,7 @@ layout:	post
 title:	"Of Flying Helicarriers and the Depressing State of Technology"
 date:	2019-03-02
 image: /images/medium/1*7UL-F2QmudyTnd_EhDLxtw.jpeg
-tags: [Technology, Politics]
+tags: Technology Politics
 ---
 
 I was recently watching clips of movies on YouTube, as I often find myself doing, and ran across this one from Marvel’s *The Avengers.*

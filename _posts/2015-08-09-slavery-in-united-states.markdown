@@ -3,6 +3,7 @@ layout:	post
 title:	"Slavery in United States"
 date:	2015-08-09
 tags: Politics
+image: /images/blog/RM9.19_humantraffic_open.jpg
 ---
 
 <blockquote class="embedly-card"><h4><a href="http://www.nytimes.com/2013/11/07/opinion/slavery-isnt-a-thing-of-the-past.html">Opinion | Slavery Isn't a Thing of the Past</a></h4><p>Who are these modern American slaves? One survivor I met last month in New Orleans, Clemmie Greenlee, had her life taken over by a pimp at age 12. She said she spent years having sex with up to 50 men a day.</p></blockquote>

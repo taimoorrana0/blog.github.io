@@ -3,6 +3,7 @@ layout:	post
 title:	"Unpopular Ideas about Blockchains"
 date:	2017-11-26
 tags: Blockchain
+image: /images/blog/is-bitcoin-as-evil-as-some-people-think.-what-people-think-of-bitcoin.-newsbtc-bitcoin-news.png
 ---
 
 **By Sunny Aggarwal and [*Nate Rush*](https://medium.com/u/9accc392b07d)**

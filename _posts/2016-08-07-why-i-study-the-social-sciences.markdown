@@ -3,6 +3,7 @@ layout:	post
 title:	"Why I Study the Social Sciences?"
 date:	2016-08-07
 tags: History Politics Economics
+image: /images/blog/social-science.png
 ---
 
 I study philosophy to learn how people ought to act.

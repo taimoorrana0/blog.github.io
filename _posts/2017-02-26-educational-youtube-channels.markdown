@@ -3,6 +3,7 @@ layout:	post
 title:	"Educational YouTube Channels"
 date:	2017-02-26
 tags: Education
+image: /images/blog/youtube.jpeg
 ---
 
   I spend **a lot** of time on YouTube watching what I call “educational channels” on topics ranging from science to geopolitics to philosophy. I started off with most of the “big names” like VSauce, CGPGrey, and CrashCourse, but over the years I’ve amassed quite a collection of channels including a lot of smaller, but equally awesome content producers. I often have friends ask me to recommend them some channels, so I’ve went ahead and created this page to organize my educational subscriptions by topic.

@@ -3,6 +3,7 @@ layout:	post
 title:	"Sunny’s Blockchain for Beginners FAQ"
 date:	2017-12-21
 tags: Blockchain
+image: /images/blog/blockchaintech.jpg
 ---
 
 #### What’s all the hype around these blockchain and cryptocurrency things?

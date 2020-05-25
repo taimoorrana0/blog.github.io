@@ -3,6 +3,7 @@ layout:	post
 title:	"CEGA Trace Research Project Reflection"
 date:	2016-06-19
 tags: Technology Data-Science
+image: /images/blog/hacker_within_0.png
 ---
 
 While I originally joined the BIDS Course Mapping team, during one of the meetings I learned about another BIDS URAP project that was going on called CEGA Trace that aimed to identify the influence of research (publications) on public policy (government decision-making) by searching the grey literature and social media for digital fingerprints of specific economic studies. Because this combined my interests in data science and economics, I asked to sit in on one of their meetings. While there, I noticed that the team had a good foundation for data analysis and economic analysis but was missing someone experienced in Data Scraping. Having worked with this before, especially on my CalHacks hackathon project, I saw the opportunity to help the team. After getting approval from the leaders of bothy original and new project, I switched over.

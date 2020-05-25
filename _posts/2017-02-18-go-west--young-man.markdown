@@ -3,6 +3,8 @@ layout:	post
 title:	"Go West, Young Man"
 date:	2017-02-18
 tags: Berkeley
+image: /images/blog/71tUCde2zpL._AC_SX522_.jpg
+imagehero: true
 ---
 
 People often ask me why I decided to come all the way across the country to California for college. Of course there’s the obvious answers of being close to Silicon Valley and that UC Berkeley is one of the top schools in the nations. However, for me, there was something else, a sort of romanticization of moving west to California.

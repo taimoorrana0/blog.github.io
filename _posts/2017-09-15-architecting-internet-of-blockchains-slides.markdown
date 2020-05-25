@@ -3,6 +3,7 @@ layout:	post
 title:	"Architecting Internet of Blockchains Slides"
 date:	2017-09-15
 tags: Blockchain Cosmos
+images: images/blog/architecting.png
 ---
 
 Slides from my talk at the [Advanced Digital Innovation Summit](https://www.adisummit.com) in Vancouver.

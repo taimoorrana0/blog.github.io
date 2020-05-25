@@ -3,6 +3,7 @@ layout:	post
 title:	"Innovation through Economic States of Exception"
 date:	2017-05-06
 tags: Technology Politics History
+image: /images/blog/manonmoon_1200x675e.jpg
 ---
 
   

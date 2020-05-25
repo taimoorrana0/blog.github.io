@@ -3,6 +3,7 @@ layout:	post
 title:	"Why I Am Not a Christian by Bertrand Russell"
 date:	2015-08-30
 tags: Religion
+image: /images/blog/1_Russell-2.jpg
 ---
 
   

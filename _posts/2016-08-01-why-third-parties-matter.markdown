@@ -3,6 +3,8 @@ layout:	post
 title:	"Why Third Parties Matter"
 date:	2016-08-01
 tags: Politics
+image: /images/blog/third-parties.png
+imagehero: true
 ---
 
 I’ve been seeing a lot of articles and posts lately warning people against voting for a third party and how “they have no chance of winning”. No shit. I know that. The candidates know that.

@@ -3,6 +3,7 @@ layout:	post
 title:	"Whites’ Perception of Black Prison Populations mirror Incarceration Reform Support"
 date:	2015-10-07
 tags: Politics
+image: /images/blog/14147-prison_news.jpg
 ---
 
 <blockquote class="embedly-card"><h4><a href="http://news.stanford.edu/news/2014/august/prison-black-laws-080614.html">Stanford research suggests support for incarceration mirrors whites' perception of black prison populations</a></h4><p>Informing the white public that the percentage of black Americans in prison is far greater than the percentage of white people behind bars may not spur support for reform. Instead, it might actually generate support for harsh laws and sentencing.</p></blockquote>

@@ -3,6 +3,7 @@ layout:	post
 title:	"A Modern Winter’s Tale"
 date:	2015-09-09
 tags: Literary
+image: /images/blog/2560px-John_Opie_-_Winter's_Tale,_Act_II._Scene_III.jpg
 ---
 
 Curious to see what Shakespeare would sound like set in modern slang, I translated line 1–64 of The Winter’s Tale Act IV Scene IV into this “new vernacular.”

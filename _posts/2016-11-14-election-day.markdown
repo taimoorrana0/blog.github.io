@@ -3,6 +3,7 @@ layout:	post
 title:	"Election Day"
 date:	2016-11-14
 tags: Politics
+image: /images/blog/1540870070_10042421+Election+Security+Communication.jpeg
 ---
 
 Experience from a friend on Election Day 2016:

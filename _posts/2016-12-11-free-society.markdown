@@ -3,6 +3,8 @@ layout:	post
 title:	"Free Society"
 date:	2016-12-11
 tags: Politics
+image: /images/blog/Free_Society.jpg
+imagehero: true
 ---
 
 I believe that every person should have a fair shot at achieving the American dream, but that every person’s achievement should be the product of their own work, merit, and skills. To this end, we must increase equality of opportunity and create a society where no one is discriminated against due to their race, religion, creed, or gender, but rather judged and rewarded for what they offer to their fellow man.  

@@ -2,6 +2,7 @@
 layout:	post
 title:	"Seven Feelings"
 date:	2016-09-17
+image: /images/blog/campfire-burning-1200x900.png
 ---
 
 The adrenaline of doing something unexpected  

@@ -2,6 +2,7 @@
 layout:	post
 title:	"5 Things to Think About when Choosing a College"
 date:	2016-02-01
+image: /images/blog/college.png
 ---
 
   The following is a direct copypasta from a [Quora answer](https://www.quora.com/When-choosing-a-college-you-can-only-know-5-things-about-it-What-would-they-be/answer/Sunny-Aggarwal-2) I gave earlier today in response to the question: When choosing a college, you can only know 5 things about it. What would they be?

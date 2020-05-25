@@ -3,6 +3,7 @@ layout:	post
 title:	"Defining the Nation-State"
 date:	2016-09-15
 tags: History Politics
+image: /images/blog/1540378896268.jpg
 ---
 
 If you pull out a recent world map, you will likely see large swaths of land that are separated by very distinct black lines. While geopolitical reality is definitely not as conclusive as the lines would suggest, the vast majority of national borders today are largely uncontested. Part of the cause of the rigidness of national borders is the rise of nation-states on the world stage. To examine what a “nation-state”, it is best to begin by breaking it down into its constituent parts, “nation” and “state”.

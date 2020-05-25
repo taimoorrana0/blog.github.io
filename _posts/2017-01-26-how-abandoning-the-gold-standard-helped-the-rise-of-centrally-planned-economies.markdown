@@ -3,6 +3,8 @@ layout:	post
 title:	"How Abandoning the Gold Standard helped the Rise of Centrally Planned Economies"
 date:	2017-01-26
 tags: Economics History
+image: /images/blog/tdih-jun05-HD.jpg
+imagehero: true
 ---
 
 In his work *The Great Transformation*, Polanyi writes that the Gold Standard was the single “common tenet to men of all nations and all classes, religious denominations, and social philosophy.” He notes that previous economists saw the Gold Standard as just an economic institution and chides them for not recognizing its political and social implications. Polanyi goes on to claim that the abandonment of the Gold Standard represents one of the main signals of the turning point away from the liberal “19th Century Civilization” to the fragmented 20th century (he was writing as World War 2 raged in the world around him).

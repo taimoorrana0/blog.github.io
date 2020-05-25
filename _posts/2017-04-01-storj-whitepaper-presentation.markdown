@@ -3,6 +3,7 @@ layout:	post
 title:	"Storj Whitepaper Presentation"
 date:	2017-04-01
 tags: Blockchain
+image: /images/blog/storj.png
 ---
 
 I just did another whitepaper presentation, this time on Storj.io. Storj is an open source project that aims to offer a completely decentralized, secure, and efficient cloud storage service removing the centralization dangers from depending on cloud storage providers such as Dropbox and Amazon.

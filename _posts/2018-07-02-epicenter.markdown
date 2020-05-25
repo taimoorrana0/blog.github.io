@@ -3,6 +3,8 @@ layout:	post
 title:	"Epicenter"
 date:	2018-07-02
 tags: Blockchain Epicenter
+image: /images/epicenter/epicenter-podcast-logo.png
+imagehero: true
 ---
 
 When I first got involved with blockchain, I used to listen to a lot of [Epicenter](https://epicenter.tv/) podcast episodes to learn about the tech and the space. I always wanted to be a guest one day on the show. Guess that hasn’t happened yet, but instead I just leapfrogged and joined Epicenter as a Co-host! Super excited to learn from and challenge guests in the future!

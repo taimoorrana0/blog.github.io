@@ -3,6 +3,7 @@ layout:	post
 title:	"Flooded Seeds in the Arctic"
 date:	2017-06-01
 tags: Environment
+image: /images/blog/arcticseeds.jpg
 ---
 
 I came across this article yesterday and couldn’t help but laugh at the irony that this vault was designed for the express purpose of being able to survive a terrible global calamity (such as nuclear war for example). Yet, it somehow isn’t equipped to handle the very real global calamity that’s actually happening RIGHT NOW (climate change)??

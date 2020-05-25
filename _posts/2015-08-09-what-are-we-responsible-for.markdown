@@ -3,6 +3,7 @@ layout:	post
 title:	"What are we responsible for?"
 date:	2015-08-09
 tags: Philosophy
+image: /images/blog/moral-responsibility.jpg
 ---
 
 There are 1.3 million identified animals species that occupy the Earth right now but none have changed the face of the planet more than the human being. The night sky can now be seen from space. One hundred square miles of land can be obliterated at the press of a button. We have built bridges connecting land masses separated by large bodies of water. Humans were blessed with this great power of intelligence which would allow us to rule the world. However, as Uncle Ben once said to Spiderman, “With Great Power comes great responsibility.” But what is this great responsibility that humans must fulfil? Who do we owe this responsibility to? If anything, we owe it to ourselves.

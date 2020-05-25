@@ -3,6 +3,7 @@ layout:	post
 title:	"Bringing Two-Way Streets to Berkeley Southside"
 date:	2015-11-30
 tags: Berkeley
+image: /images/blog/1948southsideplan.jpg
 ---
 
 San Francisco’s Vision Zero Initiative to end road deaths in San Francisco by 2024 highlights the need for action in Berkeley to think similarly about ways in which fatalities, injuries, and collisions should be reduced. Two thousand collisions have occurred since 2001 in Berkeley, according to California Highway Patrol (CHP) data. A January 2015 Daily Cal article cited the statistic that UC Berkeley comprises only 6% of the city’s area, yet accounts for 25% of injuries and collisions in the city. The same CHP data says that along Bancroft, 80 accidents involving cyclists occurred between 2001–2014: nearly six injuries a year. In a separate editorial, the Daily Cal urged Berkeley to “prioritize transportation safety and strategically rethink street planning” after the hit-and-run death of a cyclist.

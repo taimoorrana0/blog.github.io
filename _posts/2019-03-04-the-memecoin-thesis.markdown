@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	"The Memecoin Thesis"
-date:	2019-12-04
+date:	2019-03-04
 image: /images/medium/1*qe97-X8bMgxqpmNOzEf56Q.png
 tags: Blockchain
 ---

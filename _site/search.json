@@ -57,22 +57,6 @@
     } ,
   
     {
-      "title"    : "The Memecoin Thesis",
-      "category" : "",
-      "tags"     : "Blockchain",
-      "url"      : "/blog/the-memecoin-thesis",
-      "date"     : "Dec 4, 2019"
-    } ,
-  
-    {
-      "title"    : "Back to Android",
-      "category" : "",
-      "tags"     : "Technology",
-      "url"      : "/blog/back-to-android",
-      "date"     : "Dec 4, 2019"
-    } ,
-  
-    {
       "title"    : "Switzerland Decal Lectures",
       "category" : "",
       "tags"     : "History",
@@ -145,11 +129,27 @@
     } ,
   
     {
+      "title"    : "The Memecoin Thesis",
+      "category" : "",
+      "tags"     : "Blockchain",
+      "url"      : "/blog/the-memecoin-thesis",
+      "date"     : "Mar 4, 2019"
+    } ,
+  
+    {
       "title"    : "Of Flying Helicarriers and the Depressing State of Technology",
       "category" : "",
       "tags"     : "Technology and Politics",
       "url"      : "/blog/of-flying-helicarriers-and-the-depressing-state-of-technology",
       "date"     : "Mar 2, 2019"
+    } ,
+  
+    {
+      "title"    : "Back to Android",
+      "category" : "",
+      "tags"     : "Technology",
+      "url"      : "/blog/back-to-android",
+      "date"     : "Jan 28, 2019"
     } ,
   
     {

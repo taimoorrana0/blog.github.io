@@ -7,13 +7,7 @@ imagehero: true
 tags: Blockchain
 ---
 
-*This post was originally written as a [Reddit comment in r/ethereum](https://www.reddit.com/r/ethereum/comments/6i0tf3/your_take_on_the_tangle_tech_of_iota/dj3g15s/) by Sunny Aggarwal in June 2017. It is being reposted here.*
-
-*This Medium article was originally posted in September 2017 but was accidentally deleted and so is now being reposted again.*
-
-*In fact the reddit comment in r/ethereum was largely a repost from a reddit from a [similar comment in r/iota](https://www.reddit.com/r/Iota/comments/6h3sc8/what_are_the_cons_of_iota/divlpcp/).*
-
-*Yes, this is a lot of layers of reposting.*
+*This post was originally written as a [Reddit comment in r/ethereum](https://www.reddit.com/r/ethereum/comments/6i0tf3/your_take_on_the_tangle_tech_of_iota/dj3g15s/) and [r/iota](https://www.reddit.com/r/Iota/comments/6h3sc8/what_are_the_cons_of_iota/divlpcp/).* by Sunny Aggarwal in June 2017. It is being reposted here.*
 
 ---
 

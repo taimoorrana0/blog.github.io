@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	"Back to Android"
-date:	2019-01-20
+date:	2019-01-28
 image: /images/medium/1*poKaYx6CA4h75B8JbEWC0w.png
 tags: Technology
 ---

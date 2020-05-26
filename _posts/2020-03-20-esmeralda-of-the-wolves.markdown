@@ -24,7 +24,7 @@ This caught my attention, because just a few minutes earlier, I had rewatched th
 
 ---
 
-Start at 1:57The scene focuses on her name as part of their conversation (starting at 1:57). And in fact, a few seconds later, Esmeralda asks Butch what his name means, drawing particular attention to the meaning of names. And would you have it, turns out the name *Lobos* does in fact mean “Wolf” in Spanish.
+The scene focuses on her name as part of their conversation. And in fact, a few seconds later, Esmeralda asks Butch what his name means, drawing particular attention to the meaning of names. And would you have it, turns out the name *Lobos* does in fact mean “Wolf” in Spanish.
 
 Now this might just be a completely random coincidence that two characters have last names that mean the same thing. But then again, this is Pulp Fiction we’re talking about, a movie famously notorious for its many hidden easter eggs!
 

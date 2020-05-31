@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sunny Days
+title: Sunny Days Newsletter
 permalink: /signup/
 ---
 

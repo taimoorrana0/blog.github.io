@@ -638,6 +638,9 @@
 <loc>http://localhost:4000/quotes/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/signup/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/styleguide/</loc>
 </url>
 <url>

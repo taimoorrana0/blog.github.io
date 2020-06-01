@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Hamilton 2.0",
+      "category" : "",
+      "tags"     : "History, and Literary",
+      "url"      : "/blog/hamilton-2-0",
+      "date"     : "Jun 1, 2020"
+    } ,
+  
+    {
       "title"    : "Monetizing Smart Contracts with GasToken",
       "category" : "",
       "tags"     : "Blockchain",

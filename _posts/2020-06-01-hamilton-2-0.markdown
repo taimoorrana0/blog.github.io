@@ -1,0 +1,58 @@
+---
+layout:	post
+title:	"Hamilton 2.0"
+date:	2020-06-01
+image: /images/blog/Ftrk2JH9uMQWnvs5hjNaE8-2560-80.jpg
+tags: History, Literary
+---
+
+A few weeks ago, my roommate and I were having a discussing the hit musical Hamilton (which as [I've mentioned before on this blog](2017-02-27-creating-financial-systems.markdown), has been massively impactful for me personally). Now obviously, the musical was amazing because lyrics were fire and the story was interesting. But there are tons of historical figures with interesting stories, and if Lin Manuel Miranda sat down to write lyrics about their lives, they'd probably been just as straight fire.
+
+But then why Hamilton? What made Alexander Hamilton such an...intriguing choice?  We eventually decided it had to do with his positioning in the larger historical narrative and how underrated a historical figure he was.
+
+While his musical *is* about him, it’s actually about the historical period.  Really, Hamilton is used as a window into the story of the American Revolution and the building of a new country.  But everyone already knows that story!  Which is why choosing Hamilton as the central character was so important.  Some of the side characters are way better known than Hamilton.  George Washington, Thomas Jefferson, etc.  But by choosing a slightly lesser known figure, provides a fresh new lens.
+
+And the thing is, he *should be* as well known as those others!   He’s *extremely* important in American history, but most people probably don’t know what he did (most people probably just remember that he was killed in a duel).  But the thing is, they probably do at least vaguely recognize his name.  After all, he’s on the $10 bill!  Which is why its so satisfying when it clicks.  You finally understand why his name is familiar and he’s on the bill.  Because you finally learn about the important role he had in this larger story.
+
+---
+
+*(Although, I’ll admit, being an amateur history geek, it’s a bit hard for me to judge name recognizability to the general public).*
+
+---
+
+So what was the purpose of this whole exercise?  Here’s the fun part!  Given all this context now:  Which *other* historical figure would fit this bill?  If you could sit down with Lin Manuel Miranda and pitch him another historical figure to make a musical on with similar virality characteristics, who would it be?
+
+After spending some time thinking about it, here’s what I came up with:
+
+
+{: reversed="reversed"}
+
+5. **Joan of Arc**
+   
+   I think Joan of Arc meets a lot of the criteria above.  She’s a “household name” but most probably don’t know much about her.  I’ll admit, even I didn’t know much of the details until I watched this pretty good [Youtube mini-series about her](https://www.youtube.com/watch?v=4XFVzpJxgUk&t=6s).  My only concern is while she’s decently important and would make for a good story, I’m not sure how well modern audiences will resonate with the time period.  Not sure many people have much emotional stake in the 100 Year’s War.
+
+4. **Mark Antony**
+
+    I thought this could be really interesting.  Backdrop:  Fall of the Roman Republic.  Mark Antony is one of the main characters, who people may have heard his name.  But they’ve definitely heard of the other characters.  Caesar.  Augustus.  Cleopatra.  Brutus.  I was first told this story in middle school Latin class, and I think more people need to hear it!  Now there is one qualm. Shakespeare beat me to the punch over 400 years ago in his plays Julius *Caesar* and *Antony and Cleopatra*.  But [it’s not like there was never a play about the American Revolution](https://en.wikipedia.org/wiki/1776_(musical)) before Hamilton.  I think this story is due for a modern remake! 
+
+3. **Theodore Roosevelt**
+   
+    If Hamilton the Musical was the answer to “why is this dude on the $10 bill”, then Roosevelt the Musical will be the answer to “why is this dude on Mt. Rushmore”. Basically everyone has heard of Theodore Roosevelt (thanks Teddy bears!). To be quite honest, I was very much hesitant about this choice.  Choosing a US President felt kind of iffy to me.  It felt too mainstream. 
+
+    But, I think very few people actually know much about what T.R. actually did and how important he was.  And it would make for an entertaining story for sure.  He’s definitely the president whose life would make the best movie (he was a cowboy, led the [Rough riders](https://en.wikipedia.org/wiki/Rough_Riders) in the Spanish-American war, and [got shot during a speech…and kept going to finish the speech](https://www.history.com/news/shot-in-the-chest-100-years-ago-teddy-roosevelt-kept-on-talking).).  And that’s all outside the period of his actual presidency!
+
+    His story takes place at a very pivotal point in American history.  This story is best told by the amazing Dan Carlin in [his episode on the Spanish-American war](https://www.dancarlin.com/product/hardcore-history-49-the-american-peril/).  But to summarize:  from its very beginnings, America’s foundations in self-governance and liberty were at odds with its european-inherited imperialistic desires.  For its first 100 years, this imperialist desire was directed to expand westward across the “empty” continent.  But by T.R.’s generation, manifest destiny was over.  The entire continental US. was already settled.  To expand further, the US needed to create colonies and become world power, but this meant having to confront the dissonance with America’s founding myth.  I recommend listening to the podcast for more on this, but I think this is a fascinating, often under-explored, theme in American history.
+
+    Another interesting topic would be his famous “trust-busting” of monopolies, a theme I think would also [resonate well with modern audiences](https://www.theverge.com/2018/9/5/17805162/monopoly-antitrust-regulation-google-amazon-uber-facebook).
+
+2. **Henry Clay**
+    
+    I just recently finished reading the book [Heirs of the Founders](https://www.amazon.com/Heirs-Founders-Rivalry-Generation-American/dp/0385542534).  It’s about the second generation of American statesmen, those that inherited the country from the Founding Fathers, and had to tackle the problem left for them, especially that of slavery.  A perfect sequel to Hamilton, a view into the next part of the American story.  The book focuses on three men: Henry Clay, John Calhoun, and Daniel Webster, but personally, I would say Henry Clay is clearly the central character, as his story intertwines through the rest (and tbh, he’s the one whose name I clearly remember from high school history class).  Clay’s role model growing up was Thomas Jefferson, but the story of his life is about the clash of idealism and pragmatism.  A great way to show the lasting impact of Hamilton’s legacy in action.  And viewing the Jacksonian era from Clay’s point of view would be great.  And the best part of all, as I learned from the book, Henry Clay’s entrance into public sphere was in being Aaron Burr’s defence attorney after [his conspiracy plot](https://en.wikipedia.org/wiki/Burr_conspiracy) (a whole other story).  What a great tie-in to the ending of Hamilton!
+
+1. **Marquis de Lafayette**
+   
+    If we’re going for a sequel, I think there’s no better choice than the Hero of Two Worlds.  *Hamilton* has made Lafayette into a household name.  So let’s give him his own spinoff and and follow him across the ocean back to France.  Given audiences’ familiarity with the character, will make him a perfect vessel to explore the turbulent French Revolution, and explore why it had such vastly different outcomes from the American.  Just like he was a massively underrated character in the American revolution, I think he's just as underrated in the French (at least to American audiences).  And now we can learn more deeply about his motivations beyond just the simplistic “Freedom for America, Freedom for France!” presented in *Hamilton*.  And Lafayette, unlike many of his peers, actually kept his head all the way through the French Revolution, and even the Napeolinic era, and so can give us the complete story.  Someone please make this.
+
+---
+
+P.S. The musical [Six](https://en.wikipedia.org/wiki/Six_(musical)) came out last year, and its about the wives of King Henry VIII.  While I haven’t actually listened to the entire thing, its has pretty rave reviews.  And the few songs I did listen to are pretty good.  I think historical musicals are gonna be here to stay!

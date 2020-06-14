@@ -3,7 +3,6 @@ layout:	post
 title:	"Citizen Cosmos"
 date:	2020-06-14
 image: /images/blog/citizen-cosmos.jpg
-imagehero: true
 tags: Blockchain Cosmos
 ---
 

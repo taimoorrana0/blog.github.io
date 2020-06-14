@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Citizen Cosmos",
+      "category" : "",
+      "tags"     : "Blockchain and Cosmos",
+      "url"      : "/blog/citizen-cosmos",
+      "date"     : "Jun 14, 2020"
+    } ,
+  
+    {
       "title"    : "Hamilton 2.0",
       "category" : "",
       "tags"     : "History, and Literary",

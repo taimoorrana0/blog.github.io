@@ -36,19 +36,21 @@ As you can see, on my Android swiftkey, I was able to put the number keys in thi
 
 For context, here’s what part of the customization settings of SwiftKey on Android looks like.
 
-![](/images/medium/1*pbSfFHbAPX-LL6ReeVSEgA.png)
+![](/images/medium/1*pbSfFHbAPX-LL6ReeVSEgA.png){: width="300px" .center .center-image }
 
 #### Back Button
 
 On Android phones, there’s a standard toolbar at the bottom (see the bottom of the above picture), which contains buttons for Home, Switch App, and Back. While iOS has swipe actions for Home and App Switch, there’s isn’t one for Back, and this is surprisingly annoying. I thought it wasn’t such a big deal, but going from a phone that had the back button to one that doesn’t, was pretty shocking. On iOS, every app would put their back button wherever they want. Sometimes it’s at the top left, sometimes its a swipe from the left side of the screen, etc. It’s nice having a standard back button that you always know where it is.
 
-**Lightning Charger  
-**I carry around a USB C charger for my MacBook and a MicroUSB charger for other random peripheral devices. It is SO nice being able to use the same charger for both my laptop and phone; often when I’m traveling I’ll just take one charger for both. I’d hate to have to reinvest into Lightning chargers at my bed, at my desk, in my bag, etc etc.
+#### Lightning Charger  
 
-**Floating Youtube  
-**On Android, the YouTube app has a cool feature where it can pop out as a little mini window that floats above other apps. This is a really nice feature which allows me to multitask and watch some interesting youtube videos as I do things like go through my email, etc.
+I carry around a USB C charger for my MacBook and a MicroUSB charger for other random peripheral devices. It is SO nice being able to use the same charger for both my laptop and phone; often when I’m traveling I’ll just take one charger for both. I’d hate to have to reinvest into Lightning chargers at my bed, at my desk, in my bag, etc etc.
 
-![](/images/medium/1*7XIISrpRGXWYEK2nC4BxVw.png)
+#### Floating Youtube
+
+On Android, the YouTube app has a cool feature where it can pop out as a little mini window that floats above other apps. This is a really nice feature which allows me to multitask and watch some interesting youtube videos as I do things like go through my email, etc.
+
+![](/images/medium/1*7XIISrpRGXWYEK2nC4BxVw.png){: width="300px" text-align="center" }
 
 #### Widgets  
 On Android, you can have Widgets on your homescreen. This can be things like the calendar widget in the above picture, or even icons that do specific actions, such as create a new Trello Card or something. These are surprisingly useful and save some time for common actions.

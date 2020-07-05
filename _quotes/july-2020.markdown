@@ -1,0 +1,14 @@
+---
+layout:	page
+title:	"Quote of the Month — July 2020"
+date:	2020-07-05
+image: /images/blog/VictimCard.jpg
+imagehero: false
+tags: Quote-of-the-Month
+---
+
+  
+> “Let me never fall into the vulgar mistake of dreaming that I am persecuted whenever I am contradicted.”
+> 
+> — Ralph Waldo Emerson
+

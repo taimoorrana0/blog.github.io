@@ -21,9 +21,6 @@ A couple scenes later in the film, we see the SHIELD “helicarrier” take off 
 Watching this a second time, I couldn’t help but be reminded of this one Peter Thiel quote I really like ([in fact it was one of my quotes of the month]({{ site.baseurl }}/quotes/february-2017)).
 
 
-TODO 
-
-
 > “We wanted flying cars, instead we got 140 characters.”
 > 
 > — Peter Thiel

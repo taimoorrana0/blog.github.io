@@ -131,7 +131,7 @@
 }
 
 .post__content {
-  color: rgba($text-color, .8);
+  color: rgba($text-color, 0.95);
   a {
     color: $brand-color;
     &:hover {
@@ -145,7 +145,7 @@
   .post-content {
     p {
       text-align: center;
-      color: rgba($text-color, .8);
+      color: rgba($text-color, 0.95);
     }
   }
 

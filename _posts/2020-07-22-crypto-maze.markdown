@@ -19,7 +19,7 @@ Now, within this narrative, there’s an entire submaze to explore.  If you wish
 
 ![](/images/blog/bitcoin-narratives.png){: .center-image .hero }
 
-### Fiat Apologist
+## Fiat Apologist
 
 Admittedly, the Sound Money vision is what originally drew me into crypto in the first place back in 2015. But since then, I think a lot has changed. For one, I personally became way less libertarian in general, but I think that’s a whole ‘nother story for another time. Back then, in my naïvety, I thought I had seen the light through simplistic videos like [this](https://youtu.be/iFDe5kUUyT0?t=65) and understood the corruption that was the Federal Reserve system.
 
@@ -29,7 +29,7 @@ But in short, I came to realize that stability is probably one of the most impor
 
 Aside: Just because the fixed supply hard money ideology of Bitcoin (and Ethereum) is misguided, doesn’t mean that blockchains are completely useless for sound money. I feel algorithmic monetary policy in Central Bank Digital Currencies is a relatively underexplored area of research that can help move monetary policy from a [discretion-based system to a more rules-based system](https://www.alt-m.org/2017/05/11/a-monetary-policy-primer-part-10-discretion-or-a-rule/).
 
-### Leave Unto Caesar
+## Leave Unto Caesar
 
 Besides, “money” is extremely difficult to disrupt.
 
@@ -49,7 +49,7 @@ In Jon Choi’s “Enter the Crypto Maze” post, although he doesn’t come rig
 
 Open Finance (or as it’s better known today, DeFi) is the narrative that’s growing the fastest.  And for good reason.  What blockchains excel at is managing ownership rights of property and enforcing rules on how they can be transferred/acted upon. Basically, the definition of finance.  I personally think this is the direction to focus on.  But within DeFi, we face an entire submaze full of its own decisions to be made.
 
-### Fiat First
+## Fiat First
 
 In his post, Jon left as an open question:
 
@@ -61,7 +61,7 @@ I’m going to claim that fiat-native open finance is probably the right directi
 
 <br>
 
-### Trustlessness
+## Trustlessness
 
 Jon brings up another interesting fork in his post: "Money vs Securities". He describes this contention as:
 
@@ -73,19 +73,19 @@ Instead, if we design systems that allow for a little bit of trust, they can be 
 
 But so then if trustlessness is no longer the goal, then what even is the point of DeFi? I would say the guiding star should be two things: openness and transparency.
 
-### Openness
+## Openness
 
 Openness is important, because the current financial system is very fragmented and privileges those with access. The hurdle for many people to access commercial banking services is extremely high for many places in the world. With blockchain-based banks, essentially all you need is an internet connection. The openness will increase financial access for many people. 
 
 On top of the openness for users, there’s also an openness for providers. Traditional financial institutions are a racket. Regulation is essentially constructed in a way to help the incumbents maintain their monopolies. The US has issued basically 0 new banking licenses in the last decade. This anti-competitive behavior is not good for the users. Meanwhile, anyone who wants to spin up their own new decentral bank can do so and try to provide the best service, and win in a fair competitive landscape. An open financial system democratizes that access and makes it easy for anyone to be part of the system and benefit from it.
 
-### Transparency
+## Transparency
 
 The second main thing we get from these systems is transparency. Part of what made the 2008 financial crisis blow up in the magnitude that it did is the opaqueness of the financial system. No one knew what the hell was collateralizing what. That the very insurance companies that were supposed to protect systemic risk, had the same mortgage backed securities on their balance sheets as they were insuring for others! There was a crazy hidden web of dependencies throughout the financial ecosystem that caused ripples to become tsunamis.
 
 Essentially, I think public, transparent systems, will help combat these systemic risks by allowing people access to the data to detect problems early on and properly understand what’s going on. A transparent system doesn’t mean that we’re removing privacy. But with clever use of technologies like zero-knowledge proofs, we can preserve privacy over some aspects like ownership while still allowing for deep inspectability of other attributes of assets. If I own a financial asset, I want it to be as easy as possible for me to query its makeup and underlying dependencies, to be able to make informed decisions about my trust in the system.
 
-### Over -> Under-collateralized
+## Over -> Under-collateralized
 
 I’m really happy that as MakerDAO becomes multi-collateral, it’s beginning to accept more assets, even non-"crypto-native" ones like USDC. I imagine that the next step would be to expand into tokenized securities like equities and home deeds (things that are representative of real assets) as collateral. And then eventually, I think it will move into using debt-based assets like bonds, commercial loans, etc.
 

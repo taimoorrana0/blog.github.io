@@ -15,9 +15,7 @@ I highly recommend reading his post to enter the maze before we venture further 
 # Sound Money
 
 This idea that you could build a monetary system completely outside the control of any centralized actor, even governments or central banks is what Bitcoin was initially founded upon. This goes beyond censorship-resistance of payments (which on its own would arguably just be a form of open finance), to fully “decentralizing” the monetary policy itself.
-Now, within this narrative, there’s an entire submaze to explore.  If you wish to do so, I personally recommend reading [this post](https://medium.com/@nic__carter/visions-of-bitcoin-4b7b7cbcd24c) by Nic Carter and Hasufly, from which this amazing graphic comes, showing the relative influence of different narratives at different points in time:
-
-![](/images/blog/bitcoin-narratives.png){: .center-image .hero }
+Now, within this narrative, there’s an entire submaze to explore.  If you wish to do so, I personally recommend reading [this post](https://medium.com/@nic__carter/visions-of-bitcoin-4b7b7cbcd24c) by Nic Carter and Hasufly.
 
 ## Fiat Apologist
 

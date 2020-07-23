@@ -61,7 +61,7 @@ I’m going to claim that fiat-native open finance is probably the right directi
 
 <br>
 
-## Trustlessness
+## ~~Trustlessness~~
 
 Jon brings up another interesting fork in his post: "Money vs Securities". He describes this contention as:
 

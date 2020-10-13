@@ -14,7 +14,7 @@ A few months ago, at the Ethereum Classic Summit, I [gave a talk on a potential 
 1. Get the gears in their heads spinning a bit on the idea
 2. Use it as practice for a [similar talk I gave a week later at Ethereum DevCon](https://www.youtube.com/watch?v=pSCeTOgkzE0).
 
-So the majority of the content between the two talks was the same, but there was one particular section that was unique specifically to the ETC version. In a previous post, I delved into this interesting quote I found:
+While the majority of the content between the two talks was the same, there was one particular section that was unique specifically to the ETC version. I talked about this quote from the previous post:
 
 > A war on the scale of 2 years is a war of economics.
 > 
@@ -22,9 +22,7 @@ So the majority of the content between the two talks was the same, but there was
 > 
 > A war on the scale of 200 years is a war of ideology.
 
-Check out that post for some more explanation and thoughts on this.
-
-Turns out, the first time I ruminated on the quote, was for this ETC Summit talk. These time scales maybe make sense for the physical world, but when it comes the digital memetic wars between internet communities, maybe we have to compress these time scales:
+Check out that post for some more explanation and thoughts on this.  But in the presentation I added the caveat:
 
 > A digital war on the scale of 2 months is war of economics.
 > 

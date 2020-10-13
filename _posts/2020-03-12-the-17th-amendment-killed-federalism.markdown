@@ -6,7 +6,7 @@ image: /images/medium/1*097eQ7qKySwxKK263AoOFA.png
 tags: History
 ---
 
-Well, not really. The expansion of Federal power at the expense of State’s rights, is a story that dates back nearly as far as the Constitution itself. However, my hypothesis is that the 17th Amendment was a sort of first nail in the coffin, a point of no return for the federal power increase (and do note, this is just a political hypothesis).
+Well, not really. The expansion of Federal power at the expense of State’s rights, is a story that dates back nearly as far as the Constitution itself. However, my hypothesis is that the 17th Amendment was a sort of final nail in the coffin, a point of no return for the federal power increase (and do note, this is just a political hypothesis).
 
 To jog your memory from high school history class, the 17th Amendment was the one which called for direct election of Senators. Prior to this amendment, Senators were chosen by the State legislatures, while House Representatives were elected directly by the people. This makes a lot of sense when considering the design of the bicameral Congress. The House of Representatives was supposed to represent *the People*. Meanwhile, the Senate was supposed to represent *the States*.
 

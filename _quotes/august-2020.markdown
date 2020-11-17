@@ -2,7 +2,7 @@
 layout:	page
 title:	"Quote of the Month — August 2020"
 date:	2020-08-26
-image: /images/medium/2b327f94f7a9027915ad65d8f3463c4e.jpeg
+image: /images/blog/2b327f94f7a9027915ad65d8f3463c4e.jpeg
 tags: Quote-of-the-Month History
 ---
 

@@ -6,9 +6,9 @@ image: /images/medium/1*qe97-X8bMgxqpmNOzEf56Q.png
 tags: Blockchain
 ---
 
-I’ve been telling people that I’ve non-ironically become a Litecoin shill. It all has to do with the Memecoin Thesis, which I laid out a few months ago in a series of tweets replying to [Dave Kajpust](https://medium.com/u/170fa6cab7b2)’s article , maybe over-provocatively titled [Data Shows Ripple and Litecoin might be Worthless](https://medium.com/@davekaj/data-shows-ripple-and-litecoin-might-be-worthless-99c6572d7d). Definitely recommend giving it a read for some great statistics on some blockchain project development metrics.
+[See original thread on Twitter](https://twitter.com/sunnya97/status/1104189251221184513)
 
-Without further ado, the Memecoin Thesis:
+---
 
 All money comes from being a meme.  A cult.  A religion.  Think about the famous "Cross of Gold" speech.  Gold was a religion.
 
@@ -19,6 +19,10 @@ Check out my clip from a recent @epicenterbtc AMA on memecoins:
 <video width="480" height="320" controls="controls">
   <source src="https://video.twimg.com/ext_tw_video/1087739204409278464/pu/vid/1280x720/_pkcKofH6XIiMPaW.mp4" type="video/mp4">
 </video>
+
+
+---
+
 
 Litecoin has almost zero technological innovation. But what it does have is a moderately successful meme built around itself: "The Silver to Bitcoin's Gold".  What does that even mean??  I don't know!  But that catchphrase imbued it with $3.5 BILLION of value!
 
@@ -43,8 +47,5 @@ Now I'm not saying there's anything wrong with being a utility token. Cosmos Ato
 
 Plain utility tokens give people a rational way to calculate its valuation.  But you don't want to people to be rational!  You need them to be irrational!  That's how kickstart the meme and imbue it with value!
 
-
-
-And just to spread my contribution to the Litecoin meme:
 
 <blockquote class="twitter-tweet tw-align-center" data-theme="light"><p lang="en" dir="ltr">You shall not crucify mankind upon a cross of Bitcoin.<a href="https://twitter.com/search?q=%24LTC&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$LTC</a></p>&mdash; Sunny Aggarwal (@sunnya97) <a href="https://twitter.com/sunnya97/status/1099753206576406528?ref_src=twsrc%5Etfw">February 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

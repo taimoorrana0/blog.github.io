@@ -14,7 +14,7 @@ All money comes from being a meme.  A cult.  A religion.  Think about the famous
 
 Bitcoin is valuable not because of the technology, but because of the cult and religion behind it.  It's a successful meme.  It's #DigitalGold
 
-Check out my clip from a recent @epicenterbtc AMA on memecoins:
+Check out my clip from a recent Epicenter AMA where I sparred with Brian about the "staying power" of Litecoin:
 
 <video width="480" height="320" controls="controls">
   <source src="https://video.twimg.com/ext_tw_video/1087739204409278464/pu/vid/1280x720/_pkcKofH6XIiMPaW.mp4" type="video/mp4">
@@ -29,7 +29,7 @@ Litecoin has almost zero technological innovation. But what it does have is a mo
 I think this meme partly works because it's almost funny in a way, it's like a self-deprecating humor, where it's just accepted being #2. Idk its funny to me 🤷‍♂️
 
 The case of XRP is...interesting.  They started off by being marketing as a utility token *BY 
-[@RIPPLE](https://twitter.com/Ripple) * (come at me bruh).  However, I think they soon realized that no bank wanted to use volatile XRP and their utility token pitch wasn't working.
+[RIPPLE](https://twitter.com/Ripple) * (come at me bruh).  However, I think they soon realized that no bank wanted to use volatile XRP and their utility token pitch wasn't working.
 
 But they realized they need to pivot to a memecoin. #XRPTheStandard.  Is it a good meme?  Idk, pretty lame imo.  It seems to be working slightly, it raised an #XRParmy.  But that may or may not be bots.  Idk, time will tell if the XRP meme pivot works. I'm betting against it.
 

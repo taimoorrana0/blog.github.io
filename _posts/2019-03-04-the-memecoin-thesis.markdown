@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	"The Memecoin Thesis"
+title:	"The Memecoin Thesis or: How I Learned to Stop Worrying and Love Litecoin"
 date:	2019-03-04
 image: /images/medium/1*qe97-X8bMgxqpmNOzEf56Q.png
 tags: Blockchain

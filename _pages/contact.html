@@ -7,13 +7,13 @@ permalink: /contact/
   {% if site.contact.description %}
   <p class="contact-description">{{site.contact.description}}</p>
   {% endif %}
-  
+<!--   
   <p class="contact-description">If you'd like to schedule a call, please use this:</p>
   {% include calendly.html %}
 
-  <br><br>
+  <br><br> -->
 
-  <p class="contact-description">Otherwise, drop me a message!:</p>
+  <p class="contact-description">Drop me a line!:</p>
 
   <form class="form"
     action="{% if site.contact.email %}https://formspree.io/{{site.contact.email}}{% else %}#{% endif %}" method="POST">

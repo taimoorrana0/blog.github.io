@@ -1,0 +1,16 @@
+---
+layout:	post
+title:	"Why I'm No Longer a Libertarian"
+date:	2020-03-14
+image: /images/blog/no-step-on-snek.jpg
+tags: Politics
+---
+
+If you asked me a year ago, I would probably have said I'm a libertarian ([small L](https://nonaggression.wordpress.com/2011/02/18/whats-the-difference-between-a-big-l-and-a-small-l-libertarian/)).  But today, it’s a bit more nebulous, and I'd like to examine why.
+
+A lot of these ideas are very much inspired by Devon Zuegel's brilliant post [On [there being more than] liberty](https://devonzuegel.com/post/on-there-being-more-than-liberty), as I think we went down extremely similar intellectual journeys. I wanted to focus in on the two that I think were the most important for me, and provide some of my own personal thoughts.
+
+1. The first is that I became less fixated on the consistency of moral frameworks.  I think many moral frameworks act as a crutch to avoid fully reasoning about an idea.  Always choosing “maximizing liberty” when making decisions is easy, without questioning the base assumption of if “maximizing liberty” is the optimal strategy.  When thinking through things more, you realize you end up adding more and more qualifications to your stated framework to the point that you realize instead of guiding decisions by the framework, you’re instead just adjusting your framework based on intuition.  So instead, I think it’s better to use frameworks only as a heuristic; when analyzing a policy, I’ll start with the libertarian stance and then allow intuition and criticial thinking the iterate until I find a position I am happy with.  And if that conflicts with the libertarian “party line”, then so be it.
+
+2. The second is I think I began to better understand the game theory of Tragedy of the Commons situations; essentially, they’re large scale prisoners dilemmas.  I think this problem is explained quite well in [Section 2 of the SlateStarCodex Non-Libertarian FAQ](https://slatestarcodex.com/2017/02/22/repost-the-non-libertarian-faq/#coordination_problems) (the story of the lake).  You need a system of enforcement, essentially a way to shift the payoff matrix to make it such that defection is no longer the optimal strategy.  Government is often used as a way to do that, by punishing defectors.  Libertarians see this as an encroachment on the non-aggression principle (do no harm), and thus many end up taking the position of letting people do whatever they want ([and then Moloch wins](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)).  I heavily sympathize heavily with the non-aggression principle, but I do think we need to solve these coordination problems, especially as the world globalizes and people tend to play less repeated games with the same people.  This is one of things that makes me still excited about blockchains, that it may enable us to create mechanisms to fix broken games, but using non-aggressive means.  Instead of using force, we can create incentives and smart contracts to solve some of these problems.  Check out my close friend and co-worker Chris Goes’s blog post called [[Comparative Advantages of Distributed Ledgers](https://pluranimity.org/2019/06/02/comparative-advantages-distributed-ledgers/)].
+

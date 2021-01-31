@@ -10,7 +10,7 @@
   <title>Contact Me</title>
   <meta name='description' content='Random musings of a slightly crazed engineer of society.'>
 
-  <link rel="canonical" href="http://localhost:4000/contact/">
+  <link rel="canonical" href="https://sunnya97.com/contact/">
   <link rel="alternate" type="application/rss+xml" title="Sunny Aggarwal" href="/feed.xml">
 
   <!-- Fonts -->
@@ -26,9 +26,11 @@
     <meta name="twitter:title"   content="Contact Me">
 
     
-    <meta name="twitter:description" content="### Active Roles:
-- [Sikka](https://www.sikka.tech/)
-- [Epicenter](https://epicent...">
+    <meta name="twitter:description" content="
+  {% if site.contact.description %}
+  {{site.contact.description}}
+  {% endif %}
+...">
     
 
     
@@ -190,50 +192,41 @@
           <h1 class="page-title">Contact Me</h1>
         </div>
         <div class="page__content">
-          <h3 id="active-roles">Active Roles:</h3>
-<ul>
-  <li><a href="https://www.sikka.tech/">Sikka</a></li>
-  <li><a href="https://epicenter.tv/about/">Epicenter</a></li>
-  <li>Byzantine Ventures</li>
-</ul>
+          <div class="form-container">
+  
+<!--   
+  <p class="contact-description">If you'd like to schedule a call, please use this:</p>
+  <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
 
-<h3 id="active-projects">Active Projects:</h3>
-<ul>
-  <li><a href="https://cosmos.network/">Cosmos</a></li>
-  <li><a href="https://straighted.ge/">Straightedge</a></li>
-  <li>Osmosis</li>
-  <li><a href="https://ojo.finance/">Ojo</a></li>
-</ul>
+<!-- <a class="btn btn-lg btn-border ripple" style="width:100%" target="_blank" href="" onclick=""></a> -->
 
-<h3 id="advisorships">Advisorships:</h3>
-<ul>
-  <li><a href="https://www.kava.io/">Kava Labs</a></li>
-  <li><a href="https://www.chorus.one/about/">Chorus One</a></li>
-  <li><a href="https://akash.network/">Akash Network</a></li>
-  <li><a href="https://www.irisnet.org/">Iris Network</a></li>
-</ul>
+<button class="button button--primary" type="submit" onclick="Calendly.showPopupWidget('https://calendly.com/sunnya97/30min');return false;">Schedule a Meeting</button>
 
-<h3 id="past-engagements">Past Engagements:</h3>
-<ul>
-  <li><a href="https://tendermint.com/about">All in Bits inc.</a> (d.b.a. Tendermint)</li>
-  <li><a href="https://blockchain.berkeley.edu/">Blockchain at Berkeley</a></li>
-  <li><a href="https://interchain.io/">Interchain Foundation</a></li>
-  <li><a href="https://consensys.net/">ConsenSys</a></li>
-</ul>
+  <br><br> -->
 
-<h3 id="major-token-holdings-50k">Major Token Holdings (&gt;$50k)</h3>
-<ul>
-  <li>Bitcoin (BTC)</li>
-  <li>Ether (ETH)</li>
-  <li>Cosmos Hub (ATOM)</li>
-  <li>Kava (KAVA)</li>
-  <li>Akash (AKT)</li>
-  <li>Uniswap (UNI)</li>
-  <li>Sushiswap (SUSHI)</li>
-  <li>Solana (SOL)</li>
-  <li>Polkadot (DOT)</li>
-</ul>
+  <p class="contact-description">Drop me a line!:</p>
 
+  <form class="form"
+    action="https://formspree.io/sunnya97@gmail.com" method="POST">
+    <div class="form__group">
+      <label class="form__label" for="form-name">Your Name</label>
+      <input class="form__input" id="form-name" type="text" name="name" placeholder="Name..." required>
+    </div>
+    <div class="form__group">
+      <label class="form__label" for="form-email">Your Email</label>
+      <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="Email..." required>
+    </div>
+    <div class="form__group">
+      <label class="form__label" for="form-text">Your Message</label>
+      <textarea class="form__input" id="form-text" name="text" rows="10" placeholder="Message..." required></textarea>
+    </div>
+    <div class="form__group">
+      <button class="button button--primary" type="submit">Send Message</button>
+    </div>
+    <input type="hidden" name="_next" value="/contact/thanks/" />
+  </form>
+</div>
         </div>
       </article>
       <!-- end page -->

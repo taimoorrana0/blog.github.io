@@ -1,7 +1,7 @@
 ---
 layout:	page
 title:	"Quote of the Month — February 2021"
-date:	2020-02-27
+date:	2021-02-21
 image: /images/blog/bozo-the-clown.jpg
 tags: Quote-of-the-Month
 ---

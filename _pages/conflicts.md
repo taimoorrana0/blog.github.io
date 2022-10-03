@@ -5,45 +5,48 @@ permalink: /conflicts-disclosure/
 ---
 
 ### Active Roles:
+- [Osmosis](http://osmosis.zone/)
 - [Sikka](https://www.sikka.tech/)
 - [Epicenter](https://epicenter.tv/about/)
-- [Byzantine Ventures](https://byzantine.ventures/)
-
-
-### Active Projects:
-- [Cosmos](https://cosmos.network/)
-- [Osmosis](https://osmosis.zone/)
-- [Ojo](https://ojo.finance/)
-- [Straightedge](https://straighted.ge/)
-
-### Advisorships:
-- [Akash Network](https://akash.network/)
-- [Chorus One](https://www.chorus.one/about/)
-- [Kava Labs](https://www.kava.io/)
-- [Citadel.one](https://citadel.one/)
-- [Desmos](https://www.desmos.network//)
-- [Iris Network](https://www.irisnet.org/)
 
 ### Private Investments
+- [Quasar](https://www.quasar.fi/)
+- [Sommelier](https://www.sommelier.finance/)
+- [Dora](https://ondora.xyz/)
 - [Fei Protocol](https://fei.money/)
 - [Agoric](http://agoric.org/)
+- [Commonwealth](https://commonwealth.im/)
+- [Opyn](https://opyn.co/)
+- [Evmos](https://evmos.org/)
+- [Li Finance](https://li.fi/)
+- [Metropolis](https://www.metropolis.space/)
+- [Sherlock](https://www.sherlock.xyz/)
+
+### Advisorships:
+- [Chorus One](https://www.chorus.one/about/)
+- [Akash Network](https://akash.network/)
+- [Kava Labs](https://www.kava.io/)
+- [Citadel.one](https://citadel.one/)
 
 ### Major Token Holdings
+- Osmosis (OSMO)
 - Bitcoin (BTC)
 - Ether (ETH)
+- Ion (ION)
 - Cosmos Hub (ATOM)
+- Cronos (CRO)
+- Elrond (EGLD)
 - Akash (AKT)
 - Kava (KAVA)
 - Secret Network (SCRT)
-- Thorchain (RUNE)
-- Uniswap (UNI)
-- Sushiswap (SUSHI)
 - Solana (SOL)
-- Polkadot (DOT)
+- Sommelier (SOMM)
+- Dogecoin (DOGE)
 
 ### Past Engagements:
 - [All in Bits inc.](https://tendermint.com/about) (d.b.a. Tendermint)
 - [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
 - [Interchain Foundation](https://interchain.io/)
 - [ConsenSys](https://consensys.net/)
+- [Byzantine Ventures](https://byzantine.ventures/)
 

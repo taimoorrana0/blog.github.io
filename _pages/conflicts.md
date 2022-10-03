@@ -44,10 +44,10 @@ permalink: /conflicts-disclosure/
 - Ion (ION)
 - Cosmos Hub (ATOM)
 - Cronos (CRO)
-- Elrond (EGLD)
-- Secret Network (SCRT)
 - Solana (SOL)
 - Dogecoin (DOGE)
+- Elrond (EGLD)
+- Secret Network (SCRT)
 
 ### Past Engagements:
 - [All in Bits inc.](https://tendermint.com/about) (d.b.a. Tendermint)

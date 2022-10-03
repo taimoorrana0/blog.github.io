@@ -37,7 +37,7 @@ permalink: /conflicts-disclosure/
 - [Kava Labs](https://www.kava.io/)
 - [Citadel.one](https://citadel.one/)
 
-### Major Token Holdings (not through private investments)
+### Major Token Holdings (not through private investments):
 - Osmosis (OSMO)
 - Bitcoin (BTC)
 - Ether (ETH)

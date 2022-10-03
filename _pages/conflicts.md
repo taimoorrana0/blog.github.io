@@ -11,6 +11,7 @@ permalink: /conflicts-disclosure/
 
 ### Private Investments
 - [Quasar](https://www.quasar.fi/)
+- [Perennial](https://perennial.finance/)
 - [Sommelier](https://www.sommelier.finance/)
 - [Dora](https://ondora.xyz/)
 - [Fei Protocol](https://fei.money/)
@@ -18,9 +19,17 @@ permalink: /conflicts-disclosure/
 - [Commonwealth](https://commonwealth.im/)
 - [Opyn](https://opyn.co/)
 - [Evmos](https://evmos.org/)
+- [Stargaze](https://stargaze.zone/)
+- [Flashbots](https://flashbots.net/)
+- [Chronos](https://chronos.fi)
+- [Spruce](https://www.spruceid.com/)
 - [Li Finance](https://li.fi/)
+- [Stargate](https://stargate.finance/)
 - [Metropolis](https://www.metropolis.space/)
 - [Sherlock](https://www.sherlock.xyz/)
+- [Fiat Lux DAO](https://fiatlux.mirror.xyz)
+- [Delphi InfiNFT](https://syndicate.io/syndicate/delphi_infinft)
+- [Shiftup](https://shiftup.tech)
 
 ### Advisorships:
 - [Chorus One](https://www.chorus.one/about/)
@@ -28,7 +37,7 @@ permalink: /conflicts-disclosure/
 - [Kava Labs](https://www.kava.io/)
 - [Citadel.one](https://citadel.one/)
 
-### Major Token Holdings
+### Major Token Holdings (not through private investments)
 - Osmosis (OSMO)
 - Bitcoin (BTC)
 - Ether (ETH)
@@ -36,11 +45,8 @@ permalink: /conflicts-disclosure/
 - Cosmos Hub (ATOM)
 - Cronos (CRO)
 - Elrond (EGLD)
-- Akash (AKT)
-- Kava (KAVA)
 - Secret Network (SCRT)
 - Solana (SOL)
-- Sommelier (SOMM)
 - Dogecoin (DOGE)
 
 ### Past Engagements:

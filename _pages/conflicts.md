@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conflicts of Interest Disclosure
-permalink: /conflicts-disclosure/
+permalink: /conflicts/
 ---
 
 ### Active Roles:
@@ -31,6 +31,9 @@ permalink: /conflicts-disclosure/
 - [Fiat Lux DAO](https://fiatlux.mirror.xyz)
 - [Delphi InfiNFT](https://syndicate.io/syndicate/delphi_infinft)
 - [Shiftup](https://shiftup.tech)
+- [Mercury](https://mercury.com/)
+- [Wispr AI](https://wispr.ai/)
+- [SHL Capital](https://angel.co/shl/syndicate)
 
 ### Advisorships:
 - [Chorus One](https://www.chorus.one/about/)

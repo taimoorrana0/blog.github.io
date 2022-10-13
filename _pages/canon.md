@@ -19,6 +19,7 @@ I originally tried to organize this list into categories like "economics", "phil
 - [Right is the New Left - Countersignalling](https://slatestarcodex.com/2014/04/22/right-is-the-new-left/)
 - [Player of Games (Put a Num On It)](https://putanumonit.com/2018/08/22/player-of-games/)
 - [Minimum Viable Superorganism](https://meltingasphalt.com/minimum-viable-superorganism/)
+- [Black Mirror S03E01: Nosedive](https://www.netflix.com/watch/80104627?trackId=14277283&tctx=-97%2C-97%2C%2C%2C%2C%2C%2C%2C70264888)
 - Schrumpeter's Theories of Creative Destruction
 - [Live versus Dead Players](https://medium.com/@samo.burja/live-versus-dead-players-2b24f6e9eae2)
 - [SlateStarCodex Review of 12 Rules for Life](https://slatestarcodex.com/2018/03/26/book-review-twelve-rules-for-life/)

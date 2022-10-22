@@ -26,7 +26,7 @@ permalink: /disclosures/
 - [Spruce](https://www.spruceid.com/)
 - [Li Finance](https://li.fi/)
 - [Stargate](https://stargate.finance/)
-- [Metropolis](https://www.metropolis.space/)
+- [Metropolis](https://www.metropolis.space/) (prev Orca Protocol)
 - [Sherlock](https://www.sherlock.xyz/)
 - [Fiat Lux DAO](https://fiatlux.mirror.xyz)
 - [Delphi InfiNFT](https://syndicate.io/syndicate/delphi_infinft)

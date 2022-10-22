@@ -9,6 +9,12 @@ permalink: /disclosures/
 - [Sikka](https://www.sikka.tech/)
 - [Epicenter](https://epicenter.tv/about/)
 
+### Advisorships:
+- [Chorus One](https://www.chorus.one/about/)
+- [Akash Network](https://akash.network/)
+- [Kava Labs](https://www.kava.io/)
+- [Citadel.one](https://citadel.one/)
+
 ### Private Investments
 - [Quasar](https://www.quasar.fi/)
 - [Perennial](https://perennial.finance/)
@@ -35,12 +41,6 @@ permalink: /disclosures/
 - [Wispr AI](https://wispr.ai/)
 - [SHL Capital](https://angel.co/shl/syndicate)
 
-### Advisorships:
-- [Chorus One](https://www.chorus.one/about/)
-- [Akash Network](https://akash.network/)
-- [Kava Labs](https://www.kava.io/)
-- [Citadel.one](https://citadel.one/)
-
 ### Major Token Holdings (not through private investments/advisorships):
 - [Osmosis (OSMO)](https://osmosis.zone/)
 - [Bitcoin (BTC)](https://bitcoin.org/bitcoin.pdf)
@@ -56,7 +56,6 @@ permalink: /disclosures/
 ### Past Engagements:
 - [All in Bits inc.](https://tendermint.com/about) (d.b.a. Tendermint)
 - [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
-- [Interchain Foundation](https://interchain.io/)
 - [ConsenSys](https://consensys.net/)
 - [Byzantine Ventures](https://byzantine.ventures/)
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Conflicts of Interest Disclosure
-permalink: /conflicts/
+title: Disclosures
+permalink: /disclosures/
 ---
 
 ### Active Roles:
@@ -13,11 +13,11 @@ permalink: /conflicts/
 - [Quasar](https://www.quasar.fi/)
 - [Perennial](https://perennial.finance/)
 - [Sommelier](https://www.sommelier.finance/)
-- [Dora](https://ondora.xyz/)
 - [Fei Protocol](https://fei.money/)
 - [Agoric](https://agoric.org/)
 - [Anoma](https://anoma.net/)
 - [Commonwealth](https://commonwealth.im/)
+- [Dora](https://ondora.xyz/)
 - [Opyn](https://opyn.co/)
 - [Evmos](https://evmos.org/)
 - [Stargaze](https://stargaze.zone/)

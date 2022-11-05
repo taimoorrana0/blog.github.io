@@ -17,6 +17,7 @@ permalink: /disclosures/
 
 ### Private Investments
 - [Quasar](https://www.quasar.fi/)
+- [Opyn](https://opyn.co/)
 - [Perennial](https://perennial.finance/)
 - [Sommelier](https://www.sommelier.finance/)
 - [Fei Protocol](https://fei.money/)
@@ -24,7 +25,7 @@ permalink: /disclosures/
 - [Anoma](https://anoma.net/)
 - [Commonwealth](https://commonwealth.im/)
 - [Dora](https://ondora.xyz/)
-- [Opyn](https://opyn.co/)
+- [Lava](https://lavanet.xyz/)
 - [Evmos](https://evmos.org/)
 - [Stargaze](https://stargaze.zone/)
 - [Flashbots](https://flashbots.net/)

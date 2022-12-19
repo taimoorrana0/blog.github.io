@@ -53,6 +53,7 @@ permalink: /disclosures/
 - [Dogecoin (DOGE)](https://en.wikipedia.org/wiki/Dogecoin)
 - [Elrond (EGLD)](https://elrond.com/)
 - [Secret Network (SCRT)](https://scrt.network/)
+- [Wyvern (WYV)](https://wyvernprotocol.com/)
 
 ### Past Engagements:
 - [All in Bits inc.](https://tendermint.com/about) (d.b.a. Tendermint)

@@ -16,11 +16,11 @@ permalink: /disclosures/
 - [Citadel.one](https://citadel.one/)
 
 ### Private Investments
-- [Quasar](https://www.quasar.fi/)
 - [Opyn](https://opyn.co/)
 - [Perennial](https://perennial.finance/)
-- [Sommelier](https://www.sommelier.finance/)
 - [Fei Protocol](https://fei.money/)
+- [Sommelier](https://www.sommelier.finance/)
+- [Quasar](https://www.quasar.fi/)
 - [Agoric](https://agoric.org/)
 - [Anoma](https://anoma.net/)
 - [Commonwealth](https://commonwealth.im/)

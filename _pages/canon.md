@@ -12,6 +12,7 @@ I originally tried to organize this list into categories like "economics", "phil
 - [12 Against the Gods](https://www.amazon.com/Twelve-Against-Gods-Story-Adventure/dp/1635765390)
 - [Minimum Viable Superorganism](https://meltingasphalt.com/minimum-viable-superorganism/)
 - [Thrive Survive Theory of the Political Spectrum](https://slatestarcodex.com/2013/03/04/a-thrivesurvive-theory-of-the-political-spectrum/)
+- [Imagined Communities](https://a.co/d/ajNKJYS)
 - [Chapters 1 & 2 of “How Dawkins got Pwned”](https://www.unqualified-reservations.org/2007/09/how-dawkins-got-pwned-part-1/)
 - [Networks on the Political Compass](https://twitter.com/plinz/status/1302761198232850432)
 - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
@@ -20,6 +21,7 @@ I originally tried to organize this list into categories like "economics", "phil
 - [Right is the New Left - Countersignalling](https://slatestarcodex.com/2014/04/22/right-is-the-new-left/)
 - [Black Mirror S03E01: Nosedive](https://www.netflix.com/watch/80104627?trackId=14277283&tctx=-97%2C-97%2C%2C%2C%2C%2C%2C%2C70264888)
 - Schrumpeter's Theories of Creative Destruction
+- [Sapiens](https://a.co/d/frQo1OQ)
 - [Live versus Dead Players](https://medium.com/@samo.burja/live-versus-dead-players-2b24f6e9eae2)
 - [SlateStarCodex Review of 12 Rules for Life](https://slatestarcodex.com/2018/03/26/book-review-twelve-rules-for-life/)
 - [A Big Little Idea called Legibility](https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/)

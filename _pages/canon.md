@@ -22,7 +22,6 @@ I originally tried to organize this list into categories like "economics", "phil
 - Schrumpeter's Theories of Creative Destruction
 - [Live versus Dead Players](https://medium.com/@samo.burja/live-versus-dead-players-2b24f6e9eae2)
 - [SlateStarCodex Review of 12 Rules for Life](https://slatestarcodex.com/2018/03/26/book-review-twelve-rules-for-life/)
-- [Naval Podcast:  Season 1](https://www.youtube.com/watch?v=1-TZqOsVCNM&ab_channel=Naval)
 - [A Big Little Idea called Legibility](https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/)
 - [Economics of Money and Banking](https://www.coursera.org/learn/money-banking)
 - [Circles UBI Whitepaper](https://github.com/CirclesUBI/whitepaper)

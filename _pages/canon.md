@@ -9,10 +9,9 @@ I originally tried to organize this list into categories like "economics", "phil
 ---
 
 - [Zero to One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
-- [Chapter 1 of the book “12 Against the Gods"](https://www.amazon.com/Twelve-Against-Gods-Story-Adventure/dp/1635765390)
+- [12 Against the Gods](https://www.amazon.com/Twelve-Against-Gods-Story-Adventure/dp/1635765390)
 - [Minimum Viable Superorganism](https://meltingasphalt.com/minimum-viable-superorganism/)
 - [Thrive Survive Theory of the Political Spectrum](https://slatestarcodex.com/2013/03/04/a-thrivesurvive-theory-of-the-political-spectrum/)
-- [Sapiens](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)
 - [Chapters 1 & 2 of “How Dawkins got Pwned”](https://www.unqualified-reservations.org/2007/09/how-dawkins-got-pwned-part-1/)
 - [Networks on the Political Compass](https://twitter.com/plinz/status/1302761198232850432)
 - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)

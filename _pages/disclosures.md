@@ -37,6 +37,7 @@ permalink: /disclosures/
 - [Metropolis](https://www.metropolis.space/) (prev Orca Protocol)
 - [Sherlock](https://www.sherlock.xyz/)
 - [Fiat Lux DAO](https://fiatlux.mirror.xyz)
+- [Desmos](https://www.desmos.network/)
 - [Delphi InfiNFT](https://syndicate.io/syndicate/delphi_infinft)
 - [Shiftup](https://shiftup.tech)
 - [Mercury](https://mercury.com/)

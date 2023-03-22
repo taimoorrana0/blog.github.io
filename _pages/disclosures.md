@@ -23,6 +23,7 @@ permalink: /disclosures/
 - [Wispr AI](https://wispr.ai/)
 - [Sommelier](https://www.sommelier.finance/)
 - [Quasar](https://www.quasar.fi/)
+- [Argus](https://argus.gg/)
 - [Agoric](https://agoric.org/)
 - [Commonwealth](https://commonwealth.im/)
 - [Dora](https://ondora.xyz/)

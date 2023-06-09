@@ -10,6 +10,7 @@ permalink: /disclosures/
 - [Epicenter](https://epicenter.tv/about/)
 
 ### Advisorships:
+- [Babylon](https://www.babylonchain.io/)
 - [Chorus One](https://www.chorus.one/about/)
 - [Akash Network](https://akash.network/)
 - [Kava Labs](https://www.kava.io/)
@@ -21,6 +22,7 @@ permalink: /disclosures/
 - [Fei Protocol](https://fei.money/)
 - [Anoma](https://anoma.net/)
 - [Wispr AI](https://wispr.ai/)
+- [Gitopia](https://gitopia.com/)
 - [Sommelier](https://www.sommelier.finance/)
 - [Quasar](https://www.quasar.fi/)
 - [Argus](https://argus.gg/)
@@ -34,6 +36,7 @@ permalink: /disclosures/
 - [Chronos](https://chronos.fi)
 - [Spruce](https://www.spruceid.com/)
 - [Li Finance](https://li.fi/)
+- [LayerZero](https://layerzero.network/)
 - [Stargate](https://stargate.finance/)
 - [Metropolis](https://www.metropolis.space/)
 - [Sherlock](https://www.sherlock.xyz/)
@@ -44,17 +47,16 @@ permalink: /disclosures/
 - [Mercury](https://mercury.com/)
 - [SHL Capital](https://angel.co/shl/syndicate)
 
-### Major Token Holdings (not through private investments/advisorships):
+### Other Major Token Holdings (not through private investments/advisorships):
 - [Osmosis (OSMO)](https://osmosis.zone/)
 - [Bitcoin (BTC)](https://bitcoin.org/bitcoin.pdf)
 - [Ether (ETH)](https://ethereum.org/)
 - [Ion (ION)](http://ion.wtf/)
 - [Cosmos Hub (ATOM)](https://hub.cosmos.network/)
 - [Dogecoin (DOGE)](https://en.wikipedia.org/wiki/Dogecoin)
-- [Cronos (CRO)](https://cronos.org/)
+- [Treasure (MAGIC)](https://treasure.lol/)
 - [Solana (SOL)](https://solana.com/)
 - [Elrond (EGLD)](https://elrond.com/)
-- [Secret Network (SCRT)](https://scrt.network/)
 - [Wyvern (WYV)](https://wyvernprotocol.com/)
 
 ### Past Engagements:

@@ -40,12 +40,17 @@ permalink: /disclosures/
 - [Stargate](https://stargate.finance/)
 - [Metropolis](https://www.metropolis.space/)
 - [Sherlock](https://www.sherlock.xyz/)
-- [Fiat Lux DAO](https://fiatlux.mirror.xyz)
 - [Desmos](https://www.desmos.network/)
-- [Delphi InfiNFT](https://syndicate.io/syndicate/delphi_infinft)
 - [Shiftup](https://shiftup.tech)
 - [Mercury](https://mercury.com/)
+
+### LP in Funds
+- [UTXO Management](https://www.utxo.management/)
+- [Interop Ventures](https://interop.ventures/)
 - [SHL Capital](https://angel.co/shl/syndicate)
+- [Delphi InfiNFT](https://syndicate.io/syndicate/delphi_infinft)
+- [Byzantine Ventures](https://byzantine.ventures/)
+- [Fiat Lux DAO](https://fiatlux.mirror.xyz)
 
 ### Other Major Token Holdings (not through private investments/advisorships):
 - [Osmosis (OSMO)](https://osmosis.zone/)
@@ -54,6 +59,7 @@ permalink: /disclosures/
 - [Ion (ION)](http://ion.wtf/)
 - [Cosmos Hub (ATOM)](https://hub.cosmos.network/)
 - [Dogecoin (DOGE)](https://en.wikipedia.org/wiki/Dogecoin)
+- [MakerDAO (MKR)](https://makerdao.com/en/)
 - [Treasure (MAGIC)](https://treasure.lol/)
 - [Solana (SOL)](https://solana.com/)
 - [Elrond (EGLD)](https://elrond.com/)
@@ -64,4 +70,3 @@ permalink: /disclosures/
 - [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
 - [ConsenSys](https://consensys.net/)
 - [Byzantine Ventures](https://byzantine.ventures/)
-

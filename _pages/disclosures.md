@@ -17,10 +17,11 @@ permalink: /disclosures/
 - [Citadel.one](https://citadel.one/)
 
 ### Private Investments
+- [Anoma](https://anoma.net/)
+- [Dawn Analytics](https://www.dawnai.com/)
 - [Opyn](https://opyn.co/)
 - [Perennial](https://perennial.finance/)
 - [Fei Protocol](https://fei.money/)
-- [Anoma](https://anoma.net/)
 - [Wispr AI](https://wispr.ai/)
 - [Gitopia](https://gitopia.com/)
 - [Sommelier](https://www.sommelier.finance/)

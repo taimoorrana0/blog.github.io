@@ -20,6 +20,9 @@ permalink: /disclosures/
 - [Anoma](https://anoma.net/)
 - [Dawn Analytics](https://www.dawnai.com/)
 - [Opyn](https://opyn.co/)
+- [Dopp](https://www.dopp.finance/)
+- [Avail](https://www.availproject.org/)
+- [Tailwind](https://www.tailwind.zone/)
 - [Perennial](https://perennial.finance/)
 - [Fei Protocol](https://fei.money/)
 - [Wispr AI](https://wispr.ai/)
@@ -51,7 +54,6 @@ permalink: /disclosures/
 - [SHL Capital](https://angel.co/shl/syndicate)
 - [Delphi InfiNFT](https://syndicate.io/syndicate/delphi_infinft)
 - [Byzantine Ventures](https://byzantine.ventures/)
-- [Fiat Lux DAO](https://fiatlux.mirror.xyz)
 
 ### Other Major Token Holdings (not through private investments/advisorships):
 - [Osmosis (OSMO)](https://osmosis.zone/)
@@ -71,3 +73,4 @@ permalink: /disclosures/
 - [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
 - [ConsenSys](https://consensys.net/)
 - [Byzantine Ventures](https://byzantine.ventures/)
+- [Fiat Lux DAO](https://fiatlux.mirror.xyz)

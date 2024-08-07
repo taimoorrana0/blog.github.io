@@ -20,6 +20,7 @@ permalink: /disclosures/
 - [Anoma](https://anoma.net/)
 - [Dawn Analytics](https://www.dawnai.com/)
 - [Opyn](https://opyn.co/)
+- [Magical Internet Corp](https://taprootwizards.com/)
 - [Dopp](https://www.dopp.finance/)
 - [Avail](https://www.availproject.org/)
 - [Tailwind](https://www.tailwind.zone/)

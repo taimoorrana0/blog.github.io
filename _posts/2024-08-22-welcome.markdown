@@ -6,4 +6,4 @@ image:  '/images/medium/1*v2xjXHMjVL1h_LBmix5djA.jpeg'
 imagehero: true
 ---
 
-Welcome to my blog where I will write about random ideas and thoughts that pop into my head throughout the day or voice my opinion on something new I’ve encountered.
+Welcome to taimoor blog where I will write about random ideas and thoughts that pop into my head throughout the day or voice my opinion on something new I’ve encountered.

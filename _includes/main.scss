@@ -94,6 +94,9 @@
 :: 4-Layouts
 ======================= */
 /* >>>>>>>>>>>>>> :: 4.1-Home Page <<<<<<<<<<<<<<< */
+html, body {
+    overflow-x: hidden;  // Prevent horizontal overflow
+}
 @import '4-layouts/home-page';
 /* >>>>>>>>>>>>>> :: 4.2-Post <<<<<<<<<<<<<<< */
 @import '4-layouts/post';

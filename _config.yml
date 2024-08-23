@@ -3,8 +3,8 @@
 title: blog
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Random musings of a slightly crazed engineer of society.
-baseurl: "" # The subpath of your site, e.g. /blog
-url: "https://sunnya97.com" # The base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/taimoor.github.io" # The subpath of your site, e.g. /blog
+url: "https://ranataimoor067.github.io/taimoor.github.io/" # The base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
@@ -37,14 +37,14 @@ contact:
 # Example of adding a new link to the footer - {icon: "ion-logo-github", link: "https://github.com"}
 # Other icons can be found at https://ionicons.com
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com/sunnya97"}
-- {icon: "ion ion-logo-github", link: "https://github.com/sunnya97"}
-- {icon: "ion ion-logo-linkedin", link: "https://linkedin.com/in/sunnya97"}
-- {icon: "ion ion-logo-youtube", link: "https://youtube.com/sunnya97"}
-- {icon: "ion ion-md-headset", link: "https://conspirat.us"}
+- {icon: "ion-logo-twitter", link: ""}
+- {icon: "ion ion-logo-github", link: ""}
+- {icon: "ion ion-logo-linkedin", link: ""}
+- {icon: "ion ion-logo-youtube", link: ""}
+- {icon: "ion ion-md-headset", link: ""}
 
 
-twitter-username: sunnya97
+#twitter-username: sunnya97
 
 #-------------------------------
 # Comment Section (Disqus)
@@ -53,7 +53,7 @@ disqus-identifier:  # Add your shortname for Disqus Comment. For example mr-brow
 
 #-------------------------------
 # Google Analytics
-google-analytics: UA-168754428-1 # Add your identifier. For example UA-99631805-1.
+# google-analytics: UA-168754428-1 # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------

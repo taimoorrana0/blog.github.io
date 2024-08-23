@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: Sunny Aggarwal
+title: blog
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Random musings of a slightly crazed engineer of society.
 baseurl: "" # The subpath of your site, e.g. /blog
@@ -10,14 +10,14 @@ url: "https://sunnya97.com" # The base hostname & protocol for your site, e.g. h
 #-------------------------------
 # Author Settings
 author:
-  name: Sunny Aggarwal
+  name: Taimoor
   avatar: '/images/profiles/pirate_sunny.jpg'
 
 
 #-------------------------------
 # Hero Settings
 hero:
-  title: Sunny Aggarwal
+  title: here u find
   description: Thoughts, stories and ideas.
   image: '/images/profiles/pirate_sunny_hero.jpg'
 
@@ -25,7 +25,7 @@ hero:
 #-------------------------------
 # Contact Settings
 contact:
-  email: sunnya97@gmail.com # Add your email for contant form
+  email: ranatamoor067@gmail.com # Add your email for contant form
   # description: 
 
 # NOTE

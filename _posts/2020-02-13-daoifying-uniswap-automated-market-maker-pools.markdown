@@ -2,7 +2,7 @@
 layout:	post
 title:	"DAOifying Uniswap Automated Market Maker Pools"
 date:	2020-02-13
-image: /images/medium/1*TaaKbf2-kiKZtBd9oADodg.jpeg
+image: images/blog/11.jpeg
 imagehero: true
 tags: Blockchain
 ---

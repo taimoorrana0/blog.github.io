@@ -11,7 +11,7 @@ url: "https://ranataimoor067.github.io/taimoor.github.io/" # The base hostname &
 # Author Settings
 author:
   name: Taimoor
-  avatar: '/images/profiles/pirate_sunny.jpg'
+  avatar: '/images/profiles/15.jpg'
 
 
 #-------------------------------
@@ -19,7 +19,7 @@ author:
 hero:
   title: here u find
   description: Thoughts, stories and ideas.
-  image: '/images/profiles/pirate_sunny_hero.jpg'
+  image: '/images/profiles/hero.jpg'
 
 
 #-------------------------------

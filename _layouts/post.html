@@ -50,9 +50,13 @@ layout: default
           </div>
           <ul class="share__list list-reset">
             <li class="share__item">
-              <a class="share__link share__facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}"
-                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
-                title="Share on Facebook" rel="nofollow"><i class="ion ion-logo-facebook"></i></a>
+              <a class="share__link share__facebook" 
+       href="https://www.facebook.com/sharer/sharer.php?u={{ site.url | append: site.baseurl | append: page.url }}" 
+       onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" 
+       title="Share on Facebook" 
+       rel="nofollow">
+      <i class="ion ion-logo-facebook"></i>
+            </a>
             </li>
 
             <li class="share__item">

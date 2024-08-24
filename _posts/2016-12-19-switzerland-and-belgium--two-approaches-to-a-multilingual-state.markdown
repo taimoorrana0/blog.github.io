@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	"Switzerland and Belgium: Two Approaches to a Multilingual State"
-date:	2024-08-23
+date:	2016-12-19
 image: /images/medium/1*urorpnZbT8ie2NX4010OmQ.jpeg
 imagehero: true
 tags: History Politics

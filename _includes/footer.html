@@ -89,7 +89,7 @@
       <div class="footer__inner">
         {% include social-links.html %}
         <div class="copyright">
-  {{site.time | date: '%Y'}} &copy; <a href="/">{{site.title}}</a>. Crafted & Designed by Taimoor.
+  {{ site.time | date: '%Y' }} &copy; <a href="{{ '/' | relative_url }}">{{ site.title }}</a>. Crafted & Designed by Taimoor.
         </div>
         </div>
       </div>

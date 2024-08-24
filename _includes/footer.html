@@ -22,10 +22,21 @@
           {%include navigation.html%}
         </div>
       </div>
-      <div class="col col-4 col-d-6 col-t-12">
-        <!-- Removed form and related styles -->
+      
+
+<!-- begin footer -->
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
+      <div class="footer__inner">
+        {% include social-links.html %}
+        <div class="copyright">
+  {{ site.time | date: '%Y' }} &copy; <a href="{{ '/' | relative_url }}">{{ site.title }}</a>. Crafted & Designed by Taimoor.
+        </div>
+        </div>
       </div>
     </div>
   </div>
-</section>
-<!-- end footer-widgets -->
+</footer>
+<!-- end footer -->

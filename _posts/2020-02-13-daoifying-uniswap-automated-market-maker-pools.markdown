@@ -2,9 +2,9 @@
 layout:	post
 title:	"DAOifying Uniswap Automated Market Maker Pools"
 date:	2020-02-13
-image: images/blog/11.jpeg
+image: /images/blog/11.jpeg
 imagehero: true
-tags: Blockchain
+tags: Ai
 ---
 
 Over the past two years, Uniswap has become one of the most popular decentralized exchanges on Ethereum. You can learn more about it [here](https://docs.uniswap.io/) or by watching the [Epicenter episode](https://www.youtube.com/watch?v=xHK0QxQ5jxg) I did with Hayden.

@@ -1,5 +1,5 @@
 <!-- begin footer-widgets -->
-<section class="footer-widgets" style="padding: 40px 0; background-color: #f9f9f9;">
+<section class="footer-widgets">
   <div class="container">
     <div class="row">
       <div class="col col-4 col-d-6 col-t-12">
@@ -11,7 +11,7 @@
               {{site.title}}
             {% endif %}
           </div>
-          <p class="footer-desc" style="font-size: 14px; color: #666;">{{site.hero.description}}</p>
+          <p class="footer-desc">{{site.hero.description}}</p>
         </div>
       </div>
       <div class="col col-4 col-d-6 col-t-12">
@@ -28,14 +28,14 @@
 <!-- end footer-widgets -->
 
 <!-- begin footer -->
-<footer class="footer" style="padding: 20px 0; background-color: #333; color: #fff;">
+<footer class="footer">
   <div class="container">
-    <div class="row" style="justify-content: center;">
+    <div class="row" style="display: flex; justify-content: center;">
       <div class="col col-12 col-d-10" style="text-align: center;">
         <div class="footer__inner">
           {% include social-links.html %}
           <div class="copyright" style="margin-top: 10px; font-size: 14px;">
-            {{ site.time | date: '%Y' }} &copy; <a href="{{ '/' | relative_url }}" style="color: #fff; text-decoration: none;">{{ site.title }}</a>. Crafted & Designed by Taimoor.
+            {{ site.time | date: '%Y' }} &copy; <a href="{{ '/' | relative_url }}">{{ site.title }}</a>. Crafted & Designed by Taimoor.
           </div>
         </div>
       </div>

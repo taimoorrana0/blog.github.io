@@ -27,11 +27,11 @@
 
 .widget__title {
   position: relative;
-  padding-left: 8px;
-  margin-bottom: 36px;
-  font-size: 24px;
+  margin-bottom: 20px;
+  font-size: 30px;
   line-height: 1;
   color: $white;
+
   &::after {
     content: "";
     position: absolute;
@@ -43,8 +43,9 @@
     width: 106px;
     height: 38px;
     border-radius: 4px 0px 0px 4px;
-    background: linear-gradient(90deg, $brand-color -5.19%, rgba($background-color, 0) 100%);;
+    background: linear-gradient(90deg, yellow 0%, white 100%);
   }
+
   @media only screen and (max-width: $desktop) {
     font-size: 24px;
   }

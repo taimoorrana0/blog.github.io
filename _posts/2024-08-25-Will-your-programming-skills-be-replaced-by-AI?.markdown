@@ -22,7 +22,7 @@ We'll also talk about the key skills programmers need to do well with AI. And ho
 ## The Rise of Artificial Intelligence
 
 Artificial intelligence (AI) has been a topic of interest for many years. Now, it's changing the way industries work all over the world. AI is about making computers do tasks that humans usually do, like learning and solving problems.
-![AI Revolution](/absolute/path/to/images/blog/download.jpeg)
+![🙌](/images/blog/endgame.gif){: .center-image }
 
 ### What is AI and How Does it Work?
 
@@ -135,4 +135,6 @@ The *future of programming with AI* isn't about replacing humans. It's about usi
 
 AI brings speed, precision, and can process lots of data quickly. Programmers can then focus on the creative parts of their work. AI does the repetitive tasks, tests code, and finds things humans might miss. This saves time and makes work easier.
 
-Adding AI to programming makes projects more productive, improves code quality, and speeds up delivery. As AI gets better, the *future of programming with AI* promises to change software development. It's starting a new era of working together to
+Adding AI to programming makes projects more productive, improves code quality, and speeds up delivery. As AI gets better, the *future of programming with AI* promises to change software development. 
+---
+

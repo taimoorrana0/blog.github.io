@@ -5,6 +5,7 @@ date:	2024-08-25
 image: /images/blog/download (1).jpeg
 imagehero: true
 tags: Technology
+featured: true
 ---
 
 Artificial intelligence (AI) is getting more advanced, making programmers wonder if their skills will soon be outdated. In this article, we'll look at how AI is changing programming. We'll see how AI affects coders, its benefits and limits, and if it could replace human programmers.

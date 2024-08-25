@@ -23,8 +23,8 @@ We'll also talk about the key skills programmers need to do well with AI. And ho
 
 Artificial intelligence (AI) has been a topic of interest for many years. Now, it's changing the way industries work all over the world. AI is about making computers do tasks that humans usually do, like learning and solving problems.
 
-![](/images/blog/endgame.gif){: .center-image }
-
+  ![](/images/blog/endgame.gif)
+  *At the concert*
 ### What is AI and How Does it Work?
 
 AI uses special algorithms and lots of data to think like a human. It learns from data to make predictions and automate tasks better and faster. This technology is used in many areas, from understanding language to seeing images.
@@ -137,5 +137,6 @@ The *future of programming with AI* isn't about replacing humans. It's about usi
 AI brings speed, precision, and can process lots of data quickly. Programmers can then focus on the creative parts of their work. AI does the repetitive tasks, tests code, and finds things humans might miss. This saves time and makes work easier.
 
 Adding AI to programming makes projects more productive, improves code quality, and speeds up delivery. As AI gets better, the *future of programming with AI* promises to change software development. 
+
 ---
 

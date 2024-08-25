@@ -38,10 +38,9 @@ contact:
 # Other icons can be found at https://ionicons.com
 social:
 - {icon: "ion-logo-twitter", link: ""}
-- {icon: "ion ion-logo-github", link: ""}
-- {icon: "ion ion-logo-linkedin", link: ""}
 - {icon: "ion ion-logo-youtube", link: ""}
-- {icon: "ion ion-md-headset", link: ""}
+- {icon: "ion ion-md-mail", link: "mailto:ranatamoor067@gmail.com"}
+- {icon: "ion ion-md-whatsapp", link: "https://wa.me/03237606011"}
 
 
 #twitter-username: sunnya97

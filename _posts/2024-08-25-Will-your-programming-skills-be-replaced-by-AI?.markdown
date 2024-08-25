@@ -136,6 +136,8 @@ The *future of programming with AI* isn't about replacing humans. It's about usi
 
 AI brings speed, precision, and can process lots of data quickly. Programmers can then focus on the creative parts of their work. AI does the repetitive tasks, tests code, and finds things humans might miss. This saves time and makes work easier.
 
+![Example Image](/images/blog/download.jpeg)
+
 Adding AI to programming makes projects more productive, improves code quality, and speeds up delivery. As AI gets better, the *future of programming with AI* promises to change software development. 
 
 ---

@@ -2,7 +2,7 @@
 layout:	post
 title:	"Will your programming skills be replaced by AI?"
 date:	2024-08-25
-image: /images/blog/download.jpeg
+image: /images/blog/download (1).jpeg
 imagehero: true
 tags: Technology
 ---
@@ -22,6 +22,8 @@ We'll also talk about the key skills programmers need to do well with AI. And ho
 ## The Rise of Artificial Intelligence
 
 Artificial intelligence (AI) has been a topic of interest for many years. Now, it's changing the way industries work all over the world. AI is about making computers do tasks that humans usually do, like learning and solving problems.
+![](/images/blog/download (1).jpeg
+  *Ai give leisure 🙌🤣*
 
 ### What is AI and How Does it Work?
 

@@ -1,6 +1,6 @@
 ---
 layout:	post
-title: "Switzerland and Belgium: Two Approaches to a Multilingual State"
+title: "Why are developers so obsessed with full stack title?"
 date:	2024-08-25
 image: /images/blog/download.jpeg
 imagehero: true

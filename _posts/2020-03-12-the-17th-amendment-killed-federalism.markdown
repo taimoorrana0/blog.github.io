@@ -2,7 +2,7 @@
 layout:	post
 title:	"The 17th Amendment killed Federalism"
 date:	2020-03-12
-image: /images/medium/1*097eQ7qKySwxKK263AoOFA.png
+image: /images/blog/arcticseeds.jpg
 tags: History
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout:	post
 title:	"Conspiratus Podcast #5: Zebras and Libras"
-date:	2019-07-03
-image: /images/conspiratus/youtube_thumbnail_5.jpg
+date:	2024-08-27
+image: /images/blog/arcticseeds.jpg
 tags: Blockchain
 ---
 

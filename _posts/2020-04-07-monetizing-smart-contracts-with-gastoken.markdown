@@ -2,7 +2,7 @@
 layout:	post
 title:	"Monetizing Smart Contracts with GasToken"
 date:	2020-04-07
-image: /images/medium/1*q5f-WWlINt_ru952H6GYMQ.png
+image: /images/blog/arcticseeds.jpg
 tags: Blockchain
 ---
 

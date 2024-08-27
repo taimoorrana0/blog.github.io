@@ -2,7 +2,7 @@
 layout:	post
 title:	"Generalized Slashing — Slash People, Not Coins"
 date:	2020-03-19
-image: /images/medium/1*u8s6B2IDf1OtDF8gFRVkWQ.jpeg
+image: /images/blog/hero.jpg
 tags: Blockchain
 ---
 

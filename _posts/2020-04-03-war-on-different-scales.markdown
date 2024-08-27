@@ -2,7 +2,7 @@
 layout:	post
 title:	"War on Different Scales"
 date:	2020-04-03
-image: /images/medium/1*Awaq-1X_xhJkzWPVWfP3nw.png
+image: /images/blog/blockchaintech.jpg
 tags: History Politics
 ---
 

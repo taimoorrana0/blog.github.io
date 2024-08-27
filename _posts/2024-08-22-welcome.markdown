@@ -4,7 +4,7 @@ title:	"Welcome!"
 date:	2024-08-22
 image:  '/images/profiles/hero.jpg'
 imagehero: true
-featured: true
+sticky: true
 ---
 
 Welcome to taimoor blog where I will write about random ideas and thoughts that pop into my head throughout the day or voice my opinion on something new I’ve encountered.

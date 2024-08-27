@@ -1,7 +1,7 @@
 ---
 layout:	post
-title:	"sample post also"
-date:	2024-08-27
+title:	"Taimoor post"
+date:	2024-08-28
 image: /images/blog/download (1).jpeg
 tags: Blockchain
 ---

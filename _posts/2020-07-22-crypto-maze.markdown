@@ -1,8 +1,8 @@
 ---
 layout:	post
 title:	"Sample post"
-date:	2020-06-14
-image: /images/blog/bitcoin-maze.png
+date:	20224-08-27
+image: /images/blog/blockchaintech.jpg
 tags: Ai
 ---
 

@@ -24,7 +24,7 @@ We'll also talk about the key skills programmers need to do well with AI. And ho
 
 Artificial intelligence (AI) has been a topic of interest for many years. Now, it's changing the way industries work all over the world. AI is about making computers do tasks that humans usually do, like learning and solving problems.
 
-  ![](/images/blog/endgame.gif)
+  ![](/images/blog/values.png)
   *At the concert*
 ### What is AI and How Does it Work?
 

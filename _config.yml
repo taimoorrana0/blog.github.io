@@ -1,16 +1,16 @@
 #-------------------------------
 # General Site Settings
-title: blog
+title: Tech Blog
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Random musings of a slightly crazed engineer of society.
-baseurl: "/taimoor.github.io" # The subpath of your site, e.g. /blog
+baseurl: "/" # The subpath of your site, e.g. /blog
 url: "https://ranataimoor067.github.io/taimoor.github.io/" # The base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Taimoor
+  name: Muhammed Taimoor
   avatar: '/images/profiles/15.jpg'
 
 
@@ -47,7 +47,7 @@ social:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: Taimoor
+disqus-identifier: Muhammed Taimoor
 
 
 #-------------------------------

@@ -3,8 +3,8 @@
 title: Tech Blog
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Random musings of a slightly crazed engineer of society.
-baseurl: "/" # The subpath of your site, e.g. /blog
-url: "https://ranataimoor067.github.io/taimoor.github.io/" # The base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog.github.io" # The subpath of your site, e.g. /blog
+url: "https://taimoorrana0.github.io/blog.github.io/" # The base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------

@@ -1,12 +1,12 @@
 ---
 layout:	post
-title:	"Venturing Deeper into the Crypto (DeFi) Idea Maze"
+title:	"Sample post"
 date:	2020-06-14
 image: /images/blog/bitcoin-maze.png
 tags: Ai
 ---
 
-A couple years ago, my friend Jon Choi wrote this amazing blog post called [“Enter the Crypto Maze”](https://jonchoi.com/cryptoideamaze/) based on the [Navigating the Idea Maze](https://cdixon.org/2013/08/04/the-idea-maze) concept in which you analyze the different twists and turns that the development path of a particular technology/industry could go.
+A couple years ago, my friend Taimoor Choi wrote this amazing blog post called [“Enter the Crypto Maze”](https://jonchoi.com/cryptoideamaze/) based on the [Navigating the Idea Maze](https://cdixon.org/2013/08/04/the-idea-maze) concept in which you analyze the different twists and turns that the development path of a particular technology/industry could go.
 
 In that article, Jon lays out three primary roadmaps/narratives for crypto: Sound Money, Web3, and Open Money. And explains why these disparate goals and their different needs might cause contention between them.
 

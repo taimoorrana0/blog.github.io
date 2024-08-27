@@ -2,7 +2,7 @@
 layout:	post
 title:	"War on Different Scales Addendum — The ETC Midgame"
 date:	2020-04-05
-image: /images/blog/ arcticseeds.jpg
+image: /images/blog/arcticseeds.jpg
 tags: Blockchain
 ---
 

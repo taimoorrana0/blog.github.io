@@ -1,8 +1,8 @@
 ---
 layout:	post
 title:	"Gasdrop"
-date:	2019-11-19
-image: /images/medium/1*iw-2in5XciinL2hx7h8BoQ.jpeg
+date:	2024-08-27
+image: /images/blog/blockchaintech.jpg
 tags: Blockchain
 ---
 

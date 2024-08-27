@@ -1,8 +1,8 @@
 ---
 layout:	post
-title:	"Fixing the Lockdrop"
-date:	2019-11-08
-image: /images/medium/1*YPL-EeVxzzU4I270CYHbrw.png
+title:	"sample post also"
+date:	2024-08-27
+image: /images/blog/download (1).jpeg
 tags: Blockchain
 ---
 

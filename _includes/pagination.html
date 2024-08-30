@@ -4,21 +4,22 @@
   <div class="container">
     <div class="pagination__inner">
 
-    <div class="pagination__list">
-      {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path | relative_url }}" class="pagination__prev"><i class="ion ion-ios-arrow-back"></i> Prev</a>
-      {% else %}
-        <span class="pagination__prev disabled"><i class="ion ion-ios-arrow-back"></i> Prev</span>
-      {% endif %}
+      <div class="pagination__list">
+        <!-- Previous Page Link -->
+        {% assign prev_page_class = paginator.previous_page ? '' : 'disabled' %}
+        <a href="{{ paginator.previous_page_path | relative_url }}" class="pagination__prev {{ prev_page_class }}">
+          <i class="ion ion-ios-arrow-back"></i> Prev
+        </a>
 
-      <div class="pagination__count">Page {{ paginator.page }} of {{paginator.total_pages}}</div>
+        <!-- Page Count -->
+        <div class="pagination__count">Page {{ paginator.page }} of {{ paginator.total_pages }}</div>
 
-      {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path | relative_url }}" class="pagination__next">Next <i class="ion ion-ios-arrow-forward"></i></a>
-      {% else %}
-        <span class="pagination__next disabled">Next <i class="ion ion-ios-arrow-forward"></i></span>
-      {% endif %}
-    </div>
+        <!-- Next Page Link -->
+        {% assign next_page_class = paginator.next_page ? '' : 'disabled' %}
+        <a href="{{ paginator.next_page_path | relative_url }}" class="pagination__next {{ next_page_class }}">
+          Next <i class="ion ion-ios-arrow-forward"></i>
+        </a>
+      </div>
 
     </div>
   </div>

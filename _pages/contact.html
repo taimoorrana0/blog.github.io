@@ -9,121 +9,67 @@ permalink: /contact/
   {% endif %}
   <form class="form" id="contact-form">
     <div class="form__group">
-      <label class="form__label" for="form-name">Your Name</label>
+      <label class="form__label screen-reader-text" for="form-name">Your Name</label>
       <input class="form__input" id="form-name" type="text" name="name" placeholder="Name" required>
     </div>
     <div class="form__group">
-      <label class="form__label" for="form-email">Your Email</label>
+      <label class="form__label screen-reader-text" for="form-email">Your Email</label>
       <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="Email" required>
     </div>
     <div class="form__group">
-      <label class="form__label" for="form-text">Your Message</label>
-      <textarea class="form__input" id="form-text" name="text" rows="6" placeholder="Message" required></textarea>
+      <label class="form__label screen-reader-text" for="form-text">Your Message</label>
+      <textarea class="form__input" id="form-text" name="text" rows="10" placeholder="Message" required></textarea>
     </div>
     <div class="form__group">
       <button class="button button--primary" type="submit">Send Message</button>
     </div>
   </form>
   <hr>
-
-  <!-- Toast Notification Container -->
-  <div id="toast-container">
-    <div id="toast-success" class="toast">Thank you! Your message has been sent.</div>
-    <div id="toast-error" class="toast">Oops! There was a problem with your submission.</div>
-  </div>
+  <div id="toast" class="toast"></div>
 </div>
 
 <style>
-  /* Form Container Styles */
-  .form-container {
-    max-width: 600px;
-    margin: 0 auto;
-    padding: 20px;
-    background-color: #f9f9f9;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  }
-
-  .contact-description {
-    font-size: 1.2em;
-    margin-bottom: 20px;
-    color: #555;
-  }
-
-  .form {
-    display: flex;
-    flex-direction: column;
-  }
-
-  .form__group {
-    margin-bottom: 15px;
-  }
-
-  .form__label {
-    font-weight: bold;
-    margin-bottom: 5px;
-    color: #333;
-  }
-
-  .form__input {
-    width: 100%;
-    padding: 10px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    box-sizing: border-box;
-    font-size: 1em;
-  }
-
-  .form__input:focus {
-    border-color: #007bff;
-    outline: none;
-  }
-
-  .button {
-    padding: 10px 20px;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    font-size: 1em;
-    text-align: center;
-    text-transform: uppercase;
-  }
-
-  .button--primary {
-    background-color: #007bff;
-    color: #fff;
-  }
-
-  .button--primary:hover {
-    background-color: #0056b3;
-  }
-
-  /* Toast Notification Styles */
-  #toast-container {
-    position: fixed;
-    top: 20px;
-    right: 20px;
-    z-index: 9999;
-  }
-
   .toast {
-    visibility: hidden; /* Hidden by default */
+    visibility: hidden;
     min-width: 250px;
-    margin-bottom: 10px;
+    margin-left: -125px;
     background-color: #333;
     color: #fff;
     text-align: center;
-    border-radius: 5px;
+    border-radius: 2px;
+    position: fixed;
+    z-index: 1;
+    left: 50%;
+    bottom: 30px;
+    font-size: 17px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
     padding: 16px;
-    position: relative;
-    z-index: 9999;
-    opacity: 0;
-    transition: opacity 0.5s, visibility 0.5s;
   }
 
   .toast.show {
     visibility: visible;
-    opacity: 1;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    animation: fadein 0.5s, fadeout 0.5s 2.5s;
+  }
+
+  @-webkit-keyframes fadein {
+    from {opacity: 0;} 
+    to {opacity: 1;}
+  }
+
+  @keyframes fadein {
+    from {opacity: 0;} 
+    to {opacity: 1;}
+  }
+
+  @-webkit-keyframes fadeout {
+    from {opacity: 1;} 
+    to {opacity: 0;}
+  }
+
+  @keyframes fadeout {
+    from {opacity: 1;} 
+    to {opacity: 0;}
   }
 </style>
 
@@ -144,28 +90,27 @@ permalink: /contact/
     })
     .then(function(response) {
       if (response.ok) {
-        // Show success toast
-        showToast('toast-success');
+        // Show toast notification
+        showToast('Thank you! Your message has been sent.');
         // Reset the form
         document.getElementById('contact-form').reset();
       } else {
-        // Show error toast
-        showToast('toast-error');
+        // Show toast notification for errors
+        showToast('Oops! There was a problem with your submission.');
       }
     })
     .catch(function(error) {
       console.error('Form submission error:', error);
-      // Show error toast
-      showToast('toast-error');
+      showToast('Oops! There was a problem with your submission.');
     });
   });
 
-  // Function to show toast notifications
-  function showToast(toastId) {
-    var toast = document.getElementById(toastId);
-    toast.classList.add('show'); // Show the toast
+  function showToast(message) {
+    var toast = document.getElementById('toast');
+    toast.textContent = message;
+    toast.className = 'toast show';
     setTimeout(function() {
-      toast.classList.remove('show'); // Hide the toast after 3 seconds
-    }, 3000); // 3000 milliseconds (3 seconds)
+      toast.className = toast.className.replace('show', '');
+    }, 3000);
   }
-    </script>
+</script>

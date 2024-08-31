@@ -26,8 +26,8 @@ permalink: /contact/
   </form>
   <hr>
   <div id="toast" class="toast">
-    <div id="toast-progress" class="toast-progress"></div>
-    <div id="toast-message" class="toast-message"></div>
+    <div class="toast__progress"></div>
+    <div class="toast__message"></div>
   </div>
 </div>
 
@@ -49,8 +49,6 @@ permalink: /contact/
     box-shadow: 0 2px 5px rgba(0,0,0,0.3);
     padding: 12px 20px;
     transition: opacity 0.5s ease-in-out;
-    overflow: hidden;
-    height: 60px; /* Adjusted height to accommodate the progress bar */
   }
 
   .toast.show {
@@ -62,18 +60,17 @@ permalink: /contact/
     opacity: 0;
   }
 
-  .toast-progress {
-    height: 4px;
-    background-color: #4caf50;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 0;
+  .toast__progress {
+    height: 5px;
+    background-color: #f39c12;
+    border-radius: 2px;
+    margin-bottom: 8px;
+    width: 100%;
     transition: width 3s linear;
   }
 
-  .toast-message {
-    padding-bottom: 8px; /* Space for the progress bar */
+  .toast__message {
+    font-size: 16px;
   }
 </style>
 
@@ -81,18 +78,14 @@ permalink: /contact/
   document.getElementById('contact-form').addEventListener('submit', function(event) {
     event.preventDefault(); // Prevent default form submission
 
-    // Show toast with progress bar
-    var toast = document.getElementById('toast');
-    var progressBar = document.getElementById('toast-progress');
-    var messageElement = document.getElementById('toast-message');
-
-    // Show the toast notification
-    messageElement.textContent = 'Sending message...';
-    toast.className = 'toast show';
-    progressBar.style.width = '100%';
-
     // Get form data
     var formData = new FormData(this);
+
+    // Show progress bar
+    var toast = document.getElementById('toast');
+    var progress = document.querySelector('.toast__progress');
+    toast.className = 'toast show';
+    progress.style.width = '100%';
 
     // Send form data using fetch API
     fetch('https://formspree.io/f/mrbzyrgy', {
@@ -104,23 +97,31 @@ permalink: /contact/
     })
     .then(function(response) {
       if (response.ok) {
-        // Update toast message
-        messageElement.textContent = 'Thank you! Your message has been sent.';
+        // Show toast notification
+        showToast('Thank you! Your message has been sent.');
+        // Reset the form
+        document.getElementById('contact-form').reset();
       } else {
-        // Update toast message for errors
-        messageElement.textContent = 'Oops! There was a problem with your submission.';
+        // Show toast notification for errors
+        showToast('Oops! There was a problem with your submission.');
       }
     })
     .catch(function(error) {
       console.error('Form submission error:', error);
-      messageElement.textContent = 'Oops! There was a problem with your submission.';
-    })
-    .finally(function() {
-      // Hide toast after showing the message for a fixed time
-      setTimeout(function() {
-        toast.className = 'toast hide';
-        progressBar.style.width = '0'; // Reset progress bar
-      }, 3000); // Time should match the progress bar animation duration
+      showToast('Oops! There was a problem with your submission.');
     });
   });
+
+  function showToast(message) {
+    var toast = document.getElementById('toast');
+    var messageElement = document.querySelector('.toast__message');
+    var progress = document.querySelector('.toast__progress');
+    messageElement.textContent = message;
+    toast.className = 'toast show';
+    progress.style.width = '100%';
+    setTimeout(function() {
+      toast.className = 'toast hide';
+      progress.style.width = '0%'; // Reset progress bar
+    }, 3000);
+  }
 </script>

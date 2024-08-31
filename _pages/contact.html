@@ -34,27 +34,28 @@ permalink: /contact/
 <style>
   .toast {
     visibility: hidden;
-    min-width: 200px; /* Adjusted width */
-    max-width: 300px; /* Max width for narrow effect */
+    min-width: 250px; /* Adjusted width for better text fitting */
+    max-width: 300px;
     margin: 0 auto;
     background-color: #333;
     color: #fff;
     text-align: center;
-    border-radius: 2px;
+    border-radius: 25px; /* Rounded corners */
     position: fixed;
     z-index: 9999;
-    left: 50%;
-    transform: translateX(-50%);
+    left: -300px; /* Start position off-screen */
     top: 20px; /* Adjusted to show at the top */
-    font-size: 14px; /* Slightly smaller text */
+    font-size: 14px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.3);
     padding: 8px 16px; /* Adjusted padding */
-    transition: opacity 0.5s ease-in-out;
+    transition: opacity 0.5s ease-in-out, left 0.5s ease-in-out; /* Added transition for sliding effect */
   }
 
   .toast.show {
     visibility: visible;
     opacity: 1;
+    left: 50%; /* Centered position */
+    transform: translateX(-50%); /* Centered horizontally */
   }
 
   .toast.hide {
@@ -62,7 +63,7 @@ permalink: /contact/
   }
 
   .toast__progress {
-    height: 4px; /* Slightly smaller height */
+    height: 4px;
     background-color: #f39c12;
     border-radius: 2px;
     margin-bottom: 8px;
@@ -71,7 +72,16 @@ permalink: /contact/
   }
 
   .toast__message {
-    font-size: 14px; /* Adjusted font size */
+    font-size: 14px;
+    white-space: nowrap; /* Prevent text wrapping */
+  }
+
+  .toast.success {
+    background-color: #4CAF50; /* Green for success */
+  }
+
+  .toast.error {
+    background-color: #F44336; /* Red for error */
   }
 
   @keyframes progress-bar {
@@ -94,7 +104,7 @@ permalink: /contact/
     // Show progress bar and start animation
     var toast = document.getElementById('toast');
     var progress = document.querySelector('.toast__progress');
-    toast.className = 'toast show';
+    toast.className = 'toast'; // Reset class
     progress.style.width = '100%';
     progress.style.animation = 'progress-bar 3s linear';
 
@@ -108,27 +118,29 @@ permalink: /contact/
     })
     .then(function(response) {
       if (response.ok) {
-        // Show toast notification
-        showToast('Thank you! Your message has been sent.');
+        // Show success toast notification
+        showToast('Thank you! Your message has been sent.', 'success');
         // Reset the form
         document.getElementById('contact-form').reset();
       } else {
-        // Show toast notification for errors
-        showToast('Oops! There was a problem with your submission.');
+        // Show error toast notification
+        showToast('Oops! There was a problem with your submission.', 'error');
       }
     })
     .catch(function(error) {
       console.error('Form submission error:', error);
-      showToast('Oops! There was a problem with your submission.');
+      showToast('Oops! There was a problem with your submission.', 'error');
     });
   });
 
-  function showToast(message) {
+  function showToast(message, type) {
     var toast = document.getElementById('toast');
     var messageElement = document.querySelector('.toast__message');
     var progress = document.querySelector('.toast__progress');
+    
+    // Set message and type class
     messageElement.textContent = message;
-    toast.className = 'toast show';
+    toast.className = 'toast show ' + type; // Add type class for styling
     progress.style.animation = 'progress-bar 3s linear';
     setTimeout(function() {
       toast.className = 'toast hide';

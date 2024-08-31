@@ -76,14 +76,6 @@ permalink: /contact/
     white-space: nowrap; /* Prevent text wrapping */
   }
 
-  .toast.success {
-    background-color: #4CAF50; /* Green for success */
-  }
-
-  .toast.error {
-    background-color: #F44336; /* Red for error */
-  }
-
   @keyframes progress-bar {
     from {
       width: 0%;
@@ -104,7 +96,7 @@ permalink: /contact/
     // Show progress bar and start animation
     var toast = document.getElementById('toast');
     var progress = document.querySelector('.toast__progress');
-    toast.className = 'toast'; // Reset class
+    toast.className = 'toast show';
     progress.style.width = '100%';
     progress.style.animation = 'progress-bar 3s linear';
 
@@ -118,33 +110,31 @@ permalink: /contact/
     })
     .then(function(response) {
       if (response.ok) {
-        // Show success toast notification
-        showToast('Thank you! Your message has been sent.', 'success');
+        // Show toast notification
+        showToast('Thank you! Your message has been sent.');
         // Reset the form
         document.getElementById('contact-form').reset();
       } else {
-        // Show error toast notification
-        showToast('Oops! There was a problem with your submission.', 'error');
+        // Show toast notification for errors
+        showToast('Oops! There was a problem with your submission.');
       }
     })
     .catch(function(error) {
       console.error('Form submission error:', error);
-      showToast('Oops! There was a problem with your submission.', 'error');
+      showToast('Oops! There was a problem with your submission.');
     });
   });
 
-  function showToast(message, type) {
+  function showToast(message) {
     var toast = document.getElementById('toast');
     var messageElement = document.querySelector('.toast__message');
     var progress = document.querySelector('.toast__progress');
-    
-    // Set message and type class
     messageElement.textContent = message;
-    toast.className = 'toast show ' + type; // Add type class for styling
+    toast.className = 'toast show';
     progress.style.animation = 'progress-bar 3s linear';
     setTimeout(function() {
       toast.className = 'toast hide';
       progress.style.animation = 'none'; // Reset animation
     }, 3000);
   }
-</script>
+          </script>

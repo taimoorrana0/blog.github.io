@@ -34,7 +34,8 @@ permalink: /contact/
 <style>
   .toast {
     visibility: hidden;
-    min-width: 250px;
+    min-width: 200px; /* Adjusted width */
+    max-width: 300px; /* Max width for narrow effect */
     margin: 0 auto;
     background-color: #333;
     color: #fff;
@@ -45,9 +46,9 @@ permalink: /contact/
     left: 50%;
     transform: translateX(-50%);
     top: 20px; /* Adjusted to show at the top */
-    font-size: 16px;
+    font-size: 14px; /* Slightly smaller text */
     box-shadow: 0 2px 5px rgba(0,0,0,0.3);
-    padding: 12px 20px;
+    padding: 8px 16px; /* Adjusted padding */
     transition: opacity 0.5s ease-in-out;
   }
 
@@ -61,7 +62,7 @@ permalink: /contact/
   }
 
   .toast__progress {
-    height: 5px;
+    height: 4px; /* Slightly smaller height */
     background-color: #f39c12;
     border-radius: 2px;
     margin-bottom: 8px;
@@ -70,7 +71,7 @@ permalink: /contact/
   }
 
   .toast__message {
-    font-size: 16px;
+    font-size: 14px; /* Adjusted font size */
   }
 
   @keyframes progress-bar {

@@ -3,108 +3,128 @@ layout: page
 title: Contact Me
 permalink: /contact/
 ---
-<div class="form-container">
-  {% if site.contact.description %}
-  <p class="contact-description">{{site.contact.description}}</p>
-  {% endif %}
-  <form class="form" id="contact-form">
-    <div class="form__group">
-      <label class="form__label screen-reader-text" for="form-name">Your Name</label>
-      <input class="form__input" id="form-name" type="text" name="name" placeholder="Name" required>
-    </div>
-    <div class="form__group">
-      <label class="form__label screen-reader-text" for="form-email">Your Email</label>
-      <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="Email" required>
-    </div>
-    <div class="form__group">
-      <label class="form__label screen-reader-text" for="form-text">Your Message</label>
-      <textarea class="form__input" id="form-text" name="text" rows="10" placeholder="Message" required></textarea>
-    </div>
-    <div class="form__group">
-      <button class="button button--primary" type="submit">Send Message</button>
-    </div>
-  </form>
-  <hr>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact Me</title>
+  <style>
+    /* Form and Toast Notification Styles */
+    .form-container {
+      padding: 20px;
+    }
 
-  <!-- Toast Notification Container -->
-  <div id="toast-container">
-    <div id="toast-success" class="toast toast--success">
-      <div class="toast__icon">&#10003;</div> <!-- Tick Icon -->
-      <div class="toast__progress-bar"></div>
-      Thank you! Your message has been sent.
-    </div>
-    <div id="toast-error" class="toast toast--error">
-      <div class="toast__icon">&#10007;</div> <!-- Cross Icon -->
-      <div class="toast__progress-bar"></div>
-      Oops! There was a problem with your submission.
+    .form__group {
+      margin-bottom: 15px;
+    }
+
+    .form__label {
+      display: block;
+      margin-bottom: 5px;
+    }
+
+    .form__input {
+      width: 100%;
+      padding: 10px;
+      box-sizing: border-box;
+    }
+
+    .button--primary {
+      background-color: #007bff;
+      color: #fff;
+      border: none;
+      padding: 10px 20px;
+      cursor: pointer;
+    }
+
+    /* Toast Notification Styles */
+    #toast-container {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      z-index: 9999;
+    }
+
+    .toast {
+      visibility: hidden; /* Hidden by default */
+      min-width: 250px;
+      margin-bottom: 10px;
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      border-radius: 5px;
+      padding: 16px;
+      position: relative;
+      z-index: 9999;
+      opacity: 0;
+      transition: opacity 0.5s, visibility 0.5s;
+    }
+
+    .toast.show {
+      visibility: visible;
+      opacity: 1;
+    }
+
+    .toast-progress {
+      height: 5px;
+      background: #4caf50; /* Change this to the desired color */
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      animation: progress-bar 3s linear forwards;
+    }
+
+    .toast-message {
+      position: relative;
+      z-index: 1;
+    }
+
+    @keyframes progress-bar {
+      from { width: 0%; }
+      to { width: 100%; }
+    }
+  </style>
+</head>
+<body>
+  <div class="form-container">
+    {% if site.contact.description %}
+    <p class="contact-description">{{site.contact.description}}</p>
+    {% endif %}
+    <form class="form" id="contact-form">
+      <div class="form__group">
+        <label class="form__label screen-reader-text" for="form-name">Your Name</label>
+        <input class="form__input" id="form-name" type="text" name="name" placeholder="Name" required>
+      </div>
+      <div class="form__group">
+        <label class="form__label screen-reader-text" for="form-email">Your Email</label>
+        <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="Email" required>
+      </div>
+      <div class="form__group">
+        <label class="form__label screen-reader-text" for="form-text">Your Message</label>
+        <textarea class="form__input" id="form-text" name="text" rows="10" placeholder="Message" required></textarea>
+      </div>
+      <div class="form__group">
+        <button class="button button--primary" type="submit">Send Message</button>
+      </div>
+    </form>
+    <hr>
+
+    <!-- Toast Notification Container -->
+    <div id="toast-container">
+      <div id="toast-success" class="toast">
+        <div class="toast-progress"></div>
+        <div class="toast-message">Thank you! Your message has been sent.</div>
+      </div>
+      <div id="toast-error" class="toast">
+        <div class="toast-progress"></div>
+        <div class="toast-message">Oops! There was a problem with your submission.</div>
+      </div>
     </div>
   </div>
-</div>
 
-<style>
-  /* Toast Notification Styles */
-  #toast-container {
-    position: fixed;
-    top: 20px;
-    right: 20px;
-    z-index: 9999;
-  }
-
-  .toast {
-    visibility: hidden; /* Hidden by default */
-    min-width: 250px;
-    margin-bottom: 10px;
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    border-radius: 5px;
-    padding: 16px;
-    position: relative;
-    opacity: 0;
-    transition: opacity 0.5s, visibility 0.5s;
-  }
-
-  .toast.show {
-    visibility: visible;
-    opacity: 1;
-  }
-
-  .toast--success {
-    background-color: #4caf50; /* Green background for success */
-  }
-
-  .toast--error {
-    background-color: #f44336; /* Red background for error */
-  }
-
-  .toast__icon {
-    font-size: 20px; /* Adjust size as needed */
-    position: absolute;
-    top: 16px;
-    left: 16px;
-  }
-
-  .toast--success .toast__icon {
-    color: #fff;
-  }
-
-  .toast--error .toast__icon {
-    color: #fff;
-  }
-
-  .toast__progress-bar {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    height: 4px;
-    background-color: #fff;
-    width: 0%;
-    transition: width 3s ease;
-  }
-</style>
-
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
+  <script>
     document.getElementById('contact-form').addEventListener('submit', function(event) {
       event.preventDefault(); // Prevent default form submission
 
@@ -140,17 +160,11 @@ permalink: /contact/
     // Function to show toast notifications
     function showToast(toastId) {
       var toast = document.getElementById(toastId);
-      var progressBar = toast.querySelector('.toast__progress-bar');
-
       toast.classList.add('show'); // Show the toast
-
-      // Animate the progress bar
-      progressBar.style.width = '100%';
-
       setTimeout(function() {
         toast.classList.remove('show'); // Hide the toast after 3 seconds
-        progressBar.style.width = '0%'; // Reset the progress bar
       }, 3000); // 3000 milliseconds (3 seconds)
     }
-  });
-</script>
+  </script>
+</body>
+</html>

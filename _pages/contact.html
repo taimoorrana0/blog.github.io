@@ -26,6 +26,7 @@ permalink: /contact/
   </form>
   <hr>
   <div id="toast" class="toast"></div>
+  <div id="loading-bar" class="loading-bar"></div>
 </div>
 
 <style>
@@ -56,11 +57,26 @@ permalink: /contact/
   .toast.hide {
     opacity: 0;
   }
+
+  .loading-bar {
+    width: 0;
+    height: 4px;
+    background-color: #4caf50;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9998;
+    transition: width 0.3s ease;
+  }
 </style>
 
 <script>
   document.getElementById('contact-form').addEventListener('submit', function(event) {
     event.preventDefault(); // Prevent default form submission
+
+    // Show loading bar
+    var loadingBar = document.getElementById('loading-bar');
+    loadingBar.style.width = '100%';
 
     // Get form data
     var formData = new FormData(this);
@@ -87,6 +103,10 @@ permalink: /contact/
     .catch(function(error) {
       console.error('Form submission error:', error);
       showToast('Oops! There was a problem with your submission.');
+    })
+    .finally(function() {
+      // Hide loading bar
+      loadingBar.style.width = '0';
     });
   });
 

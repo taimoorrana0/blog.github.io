@@ -60,7 +60,6 @@ permalink: /contact/
     border-radius: 5px;
     padding: 16px;
     position: relative;
-    z-index: 9999;
     opacity: 0;
     transition: opacity 0.5s, visibility 0.5s;
   }
@@ -105,51 +104,53 @@ permalink: /contact/
 </style>
 
 <script>
-  document.getElementById('contact-form').addEventListener('submit', function(event) {
-    event.preventDefault(); // Prevent default form submission
+  document.addEventListener('DOMContentLoaded', function() {
+    document.getElementById('contact-form').addEventListener('submit', function(event) {
+      event.preventDefault(); // Prevent default form submission
 
-    // Get form data
-    var formData = new FormData(this);
+      // Get form data
+      var formData = new FormData(this);
 
-    // Send form data using fetch API
-    fetch('https://formspree.io/f/mrbzyrgy', {
-      method: 'POST',
-      body: formData,
-      headers: {
-        'Accept': 'application/json'
-      }
-    })
-    .then(function(response) {
-      if (response.ok) {
-        // Show success toast
-        showToast('toast-success');
-        // Reset the form
-        document.getElementById('contact-form').reset();
-      } else {
+      // Send form data using fetch API
+      fetch('https://formspree.io/f/mrbzyrgy', {
+        method: 'POST',
+        body: formData,
+        headers: {
+          'Accept': 'application/json'
+        }
+      })
+      .then(function(response) {
+        if (response.ok) {
+          // Show success toast
+          showToast('toast-success');
+          // Reset the form
+          document.getElementById('contact-form').reset();
+        } else {
+          // Show error toast
+          showToast('toast-error');
+        }
+      })
+      .catch(function(error) {
+        console.error('Form submission error:', error);
         // Show error toast
         showToast('toast-error');
-      }
-    })
-    .catch(function(error) {
-      console.error('Form submission error:', error);
-      // Show error toast
-      showToast('toast-error');
+      });
     });
+
+    // Function to show toast notifications
+    function showToast(toastId) {
+      var toast = document.getElementById(toastId);
+      var progressBar = toast.querySelector('.toast__progress-bar');
+
+      toast.classList.add('show'); // Show the toast
+
+      // Animate the progress bar
+      progressBar.style.width = '100%';
+
+      setTimeout(function() {
+        toast.classList.remove('show'); // Hide the toast after 3 seconds
+        progressBar.style.width = '0%'; // Reset the progress bar
+      }, 3000); // 3000 milliseconds (3 seconds)
+    }
   });
-
-  // Function to show toast notifications
-  function showToast(toastId) {
-    var toast = document.getElementById(toastId);
-    var progressBar = toast.querySelector('.toast__progress-bar');
-
-    toast.classList.add('show'); // Show the toast
-
-    // Animate the progress bar
-    progressBar.style.width = '100%';
-
-    setTimeout(function() {
-      toast.classList.remove('show'); // Hide the toast after 3 seconds
-      progressBar.style.width = '0%'; // Reset the progress bar
-    }, 3000); // 3000 milliseconds (3 seconds)
-  }
 </script>

@@ -25,8 +25,43 @@ permalink: /contact/
     </div>
   </form>
   <hr>
-  <div id="form-message" style="display: none;">Thank you! Your message has been sent.</div>
+
+  <!-- Toast Notification Container -->
+  <div id="toast-container">
+    <div id="toast-success" class="toast">Thank you! Your message has been sent.</div>
+    <div id="toast-error" class="toast">Oops! There was a problem with your submission.</div>
+  </div>
 </div>
+
+<style>
+  /* Toast Notification Styles */
+  #toast-container {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 9999;
+  }
+
+  .toast {
+    visibility: hidden; /* Hidden by default */
+    min-width: 250px;
+    margin-bottom: 10px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    padding: 16px;
+    position: relative;
+    z-index: 9999;
+    opacity: 0;
+    transition: opacity 0.5s, visibility 0.5s;
+  }
+
+  .toast.show {
+    visibility: visible;
+    opacity: 1;
+  }
+</style>
 
 <script>
   document.getElementById('contact-form').addEventListener('submit', function(event) {
@@ -45,18 +80,28 @@ permalink: /contact/
     })
     .then(function(response) {
       if (response.ok) {
-        // Show success message
-        document.getElementById('form-message').style.display = 'block';
+        // Show success toast
+        showToast('toast-success');
         // Reset the form
         document.getElementById('contact-form').reset();
       } else {
-        // Handle errors
-        alert('Oops! There was a problem with your submission.');
+        // Show error toast
+        showToast('toast-error');
       }
     })
     .catch(function(error) {
       console.error('Form submission error:', error);
-      alert('Oops! There was a problem with your submission.');
+      // Show error toast
+      showToast('toast-error');
     });
   });
+
+  // Function to show toast notifications
+  function showToast(toastId) {
+    var toast = document.getElementById(toastId);
+    toast.classList.add('show'); // Show the toast
+    setTimeout(function() {
+      toast.classList.remove('show'); // Hide the toast after 3 seconds
+    }, 3000); // 3000 milliseconds (3 seconds)
+  }
 </script>

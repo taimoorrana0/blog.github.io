@@ -32,44 +32,29 @@ permalink: /contact/
   .toast {
     visibility: hidden;
     min-width: 250px;
-    margin-left: -125px;
+    margin: 0 auto;
     background-color: #333;
     color: #fff;
     text-align: center;
     border-radius: 2px;
     position: fixed;
-    z-index: 1;
+    z-index: 9999;
     left: 50%;
-    bottom: 30px;
-    font-size: 17px;
+    transform: translateX(-50%);
+    top: 20px; /* Adjusted to show at the top */
+    font-size: 16px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.3);
-    padding: 16px;
+    padding: 12px 20px;
+    transition: opacity 0.5s ease-in-out;
   }
 
   .toast.show {
     visibility: visible;
-    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
-    animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    opacity: 1;
   }
 
-  @-webkit-keyframes fadein {
-    from {opacity: 0;} 
-    to {opacity: 1;}
-  }
-
-  @keyframes fadein {
-    from {opacity: 0;} 
-    to {opacity: 1;}
-  }
-
-  @-webkit-keyframes fadeout {
-    from {opacity: 1;} 
-    to {opacity: 0;}
-  }
-
-  @keyframes fadeout {
-    from {opacity: 1;} 
-    to {opacity: 0;}
+  .toast.hide {
+    opacity: 0;
   }
 </style>
 
@@ -110,7 +95,7 @@ permalink: /contact/
     toast.textContent = message;
     toast.className = 'toast show';
     setTimeout(function() {
-      toast.className = toast.className.replace('show', '');
+      toast.className = 'toast hide';
     }, 3000);
   }
 </script>

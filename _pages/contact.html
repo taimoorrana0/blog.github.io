@@ -65,12 +65,21 @@ permalink: /contact/
     background-color: #f39c12;
     border-radius: 2px;
     margin-bottom: 8px;
-    width: 100%;
+    width: 0; /* Start with 0 width */
     transition: width 3s linear;
   }
 
   .toast__message {
     font-size: 16px;
+  }
+
+  @keyframes progress-bar {
+    from {
+      width: 0%;
+    }
+    to {
+      width: 100%;
+    }
   }
 </style>
 
@@ -81,11 +90,12 @@ permalink: /contact/
     // Get form data
     var formData = new FormData(this);
 
-    // Show progress bar
+    // Show progress bar and start animation
     var toast = document.getElementById('toast');
     var progress = document.querySelector('.toast__progress');
     toast.className = 'toast show';
     progress.style.width = '100%';
+    progress.style.animation = 'progress-bar 3s linear';
 
     // Send form data using fetch API
     fetch('https://formspree.io/f/mrbzyrgy', {
@@ -118,10 +128,10 @@ permalink: /contact/
     var progress = document.querySelector('.toast__progress');
     messageElement.textContent = message;
     toast.className = 'toast show';
-    progress.style.width = '100%';
+    progress.style.animation = 'progress-bar 3s linear';
     setTimeout(function() {
       toast.className = 'toast hide';
-      progress.style.width = '0%'; // Reset progress bar
+      progress.style.animation = 'none'; // Reset animation
     }, 3000);
   }
 </script>

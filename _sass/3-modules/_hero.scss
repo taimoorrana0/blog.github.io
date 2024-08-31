@@ -103,3 +103,9 @@
     margin: 20px 0 50px;
   }
 }
+
+.text-span {
+  background: linear-gradient(135deg, $primary-color 38%, $secondary-color 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

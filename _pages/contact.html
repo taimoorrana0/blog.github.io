@@ -28,8 +28,16 @@ permalink: /contact/
 
   <!-- Toast Notification Container -->
   <div id="toast-container">
-    <div id="toast-success" class="toast">Thank you! Your message has been sent.</div>
-    <div id="toast-error" class="toast">Oops! There was a problem with your submission.</div>
+    <div id="toast-success" class="toast toast--success">
+      <div class="toast__icon">&#10003;</div> <!-- Tick Icon -->
+      <div class="toast__progress-bar"></div>
+      Thank you! Your message has been sent.
+    </div>
+    <div id="toast-error" class="toast toast--error">
+      <div class="toast__icon">&#10007;</div> <!-- Cross Icon -->
+      <div class="toast__progress-bar"></div>
+      Oops! There was a problem with your submission.
+    </div>
   </div>
 </div>
 
@@ -60,6 +68,39 @@ permalink: /contact/
   .toast.show {
     visibility: visible;
     opacity: 1;
+  }
+
+  .toast--success {
+    background-color: #4caf50; /* Green background for success */
+  }
+
+  .toast--error {
+    background-color: #f44336; /* Red background for error */
+  }
+
+  .toast__icon {
+    font-size: 20px; /* Adjust size as needed */
+    position: absolute;
+    top: 16px;
+    left: 16px;
+  }
+
+  .toast--success .toast__icon {
+    color: #fff;
+  }
+
+  .toast--error .toast__icon {
+    color: #fff;
+  }
+
+  .toast__progress-bar {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 4px;
+    background-color: #fff;
+    width: 0%;
+    transition: width 3s ease;
   }
 </style>
 
@@ -99,9 +140,16 @@ permalink: /contact/
   // Function to show toast notifications
   function showToast(toastId) {
     var toast = document.getElementById(toastId);
+    var progressBar = toast.querySelector('.toast__progress-bar');
+
     toast.classList.add('show'); // Show the toast
+
+    // Animate the progress bar
+    progressBar.style.width = '100%';
+
     setTimeout(function() {
       toast.classList.remove('show'); // Hide the toast after 3 seconds
+      progressBar.style.width = '0%'; // Reset the progress bar
     }, 3000); // 3000 milliseconds (3 seconds)
   }
 </script>

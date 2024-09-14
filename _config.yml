@@ -4,13 +4,13 @@ title: Tech Blog
 logo: '/images/profiles/tech-removebg-preview.png'
 description: Random musings of a slightly crazed engineer of society.
 baseurl: "/blog.github.io" # The subpath of your site, e.g. /blog
-url: "https://taimoorrana0.github.io/blog.github.io//blog.github.io/" # The base hostname & protocol for your site, e.g. http://example.com
+url: "https://taimoorrana0.github.io/blog.github.io/" # The base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Muhammed Taimoor
+  name: Taimoor
   avatar: '/images/profiles/15.jpg'
 
 

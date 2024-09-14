@@ -17,7 +17,7 @@ author:
 #-------------------------------
 # Hero Settings
 hero:
-  title: <span class="text-span">Welcome</span> Here u find
+  title: Welcome Here u find
   description: Thoughts, stories and ideas.
   image: '/images/profiles/hero.jpg'
 

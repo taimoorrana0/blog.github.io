@@ -2,7 +2,7 @@
 # General Site Settings
 title: Tech Blog
 logo: '/images/profiles/tech-removebg-preview.png'
-description: "Welcome"
+description: Welcome to taimoor blog. 
 baseurl: "/blog.github.io" # The subpath of your site, e.g. /blog
 url: "https://taimoorrana0.github.io/blog.github.io/" # The base hostname & protocol for your site, e.g. http://example.com
 
